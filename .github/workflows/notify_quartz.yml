@@ -1,0 +1,16 @@
+name: Notify Quartz to Build
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ping-quartz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Repository Dispatch
+        run: |
+          curl -X POST https://api.github.com/repos/muneeb1st/quartz/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.SYNC_TOKEN }}" \
+          -d '{"event_type": "notes_updated"}'
