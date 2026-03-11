@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4adc3052434afc8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "de7755affe2ba196",
             "type": "leaf",
             "state": {
@@ -195,8 +185,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4adc3052434afc8c",
+  "active": "de7755affe2ba196",
   "lastOpenFiles": [
+    "testing/success 3.md",
     "testing/success 2.md",
     "testing/success.md",
     "MERITS/Salman Farsi/testing.md",
@@ -230,7 +221,6 @@
     "Rulings of Islam/Primary Imaan/Primary Imaan.md",
     "Rulings of Islam/Primary Imaan/Books sent by Allah/Books sent by Allah.md",
     "Rulings of Islam/Primary Imaan/Aqa ﷺ is the last messenger/Aqa ﷺ is the last messenger.md",
-    "MERITS/Imam Hussain A.S/Imam Hussain.md",
     "PNGS/Pasted image 20260309130531.png",
     "PNGS/Syeda used to wash wounds of Aqa ﷺ 1.png",
     "PNGS/Pasted image 20260309124925.png",
