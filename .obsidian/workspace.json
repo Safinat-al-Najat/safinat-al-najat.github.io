@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Allah commanded Aqa ﷺ to love 4 people"
             }
+          },
+          {
+            "id": "b93a1ac983db5d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERITS/Salman Farsi/testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d545c1933aa16b04",
@@ -225,10 +240,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "16a3e95ce0e590b5",
+  "active": "b93a1ac983db5d11",
   "lastOpenFiles": [
-    "testing",
     "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
+    "MERITS/Salman Farsi/testing.md",
+    "testing",
     "MERITS/Mola Ali A.S/Haq is with Ali.md",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MAJOR HISTORICAL EVENTS/The Battle of Badar (624 CE).md",
@@ -272,7 +288,6 @@
     "Rulings of Islam/Primary Imaan/Day of Judgment",
     "Rulings of Islam/Primary Imaan/Books sent by Allah",
     "Rulings of Islam/Primary Imaan/Oneness of Allah",
-    "Rulings of Islam/Primary Imaan/Angels",
-    "Rulings of Islam/Pillars of Islam/Zakat"
+    "Rulings of Islam/Primary Imaan/Angels"
   ]
 }
