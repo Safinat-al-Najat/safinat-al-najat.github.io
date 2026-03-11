@@ -4,54 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "1421c8015bd37e15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0d914cd5dfce52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Allah commanded Aqa ﷺ to love 4 people"
-            }
-          },
-          {
-            "id": "b93a1ac983db5d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERITS/Salman Farsi/testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testing"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "d545c1933aa16b04",
         "type": "tabs",
         "children": [
-          {
-            "id": "d25e7316d88705d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
           {
             "id": "4adc3052434afc8c",
             "type": "leaf",
@@ -240,10 +195,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b93a1ac983db5d11",
+  "active": "4adc3052434afc8c",
   "lastOpenFiles": [
-    "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
+    "testing/success 2.md",
+    "testing/success.md",
     "MERITS/Salman Farsi/testing.md",
+    "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
     "testing",
     "MERITS/Mola Ali A.S/Haq is with Ali.md",
     "PNGS/Keep Haq wherver Ali is.jpeg",
@@ -274,8 +231,6 @@
     "Rulings of Islam/Primary Imaan/Books sent by Allah/Books sent by Allah.md",
     "Rulings of Islam/Primary Imaan/Aqa ﷺ is the last messenger/Aqa ﷺ is the last messenger.md",
     "MERITS/Imam Hussain A.S/Imam Hussain.md",
-    "MERITS/Imam Hassan A.S/Imam Hassan.md",
-    "MERITS/Bibi Fatima A.S/Bibi Fatima.md",
     "PNGS/Pasted image 20260309130531.png",
     "PNGS/Syeda used to wash wounds of Aqa ﷺ 1.png",
     "PNGS/Pasted image 20260309124925.png",
