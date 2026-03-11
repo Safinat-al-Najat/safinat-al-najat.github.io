@@ -1,0 +1,1 @@
+![[Hating Ali.png]][[Haram]]

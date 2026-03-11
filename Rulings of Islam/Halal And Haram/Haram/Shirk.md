@@ -1,0 +1,1 @@
+![[Shirk 4,48.png]][[Haram]][[Quran]]

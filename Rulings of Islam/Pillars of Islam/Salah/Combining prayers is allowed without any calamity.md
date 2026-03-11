@@ -1,0 +1,1 @@
+![[Combining of prayer is allowed.png]][[Salah]]

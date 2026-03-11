@@ -1,0 +1,1 @@
+![[PNGS/Names of Panjtan derived from Names of Allah.pdf]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]

@@ -1,0 +1,1 @@
+![[Enemy of Panjtan.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]

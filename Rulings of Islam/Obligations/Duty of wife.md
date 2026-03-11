@@ -1,0 +1,1 @@
+![[Duty of wife.jpg]][[For Females]]

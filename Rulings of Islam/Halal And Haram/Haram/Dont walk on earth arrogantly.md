@@ -1,0 +1,1 @@
+![[Dont walk on earth arrogantly.png]][[Haram]][[Quran]]

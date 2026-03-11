@@ -1,0 +1,1 @@
+![[Aqa sweat was better than perfume.png]][[Aqa Muhammad ﷺ]]

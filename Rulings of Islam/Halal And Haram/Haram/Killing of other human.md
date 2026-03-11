@@ -1,0 +1,1 @@
+![[Killing of other human.png]][[Haram]][[Quran]]

@@ -1,0 +1,1 @@
+![[Aqa ﷺ left Qur'an and Ahlulbayt for us.jpg]]![[Aqa ﷺ left two things for his ummah.png]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]][[Quran]]

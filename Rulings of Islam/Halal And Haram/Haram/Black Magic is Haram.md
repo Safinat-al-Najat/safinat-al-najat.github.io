@@ -1,0 +1,1 @@
+![[Black Magic is Haram.png]][[Haram]][[Quran]]

@@ -1,0 +1,1 @@
+![[Don't fraud in trade or selling or business.png]][[Haram]][[Quran]]

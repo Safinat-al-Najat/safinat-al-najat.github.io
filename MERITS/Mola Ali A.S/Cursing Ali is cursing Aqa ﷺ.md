@@ -1,0 +1,1 @@
+![[Cursing Ali is cursing Aqa ﷺ (2).jpeg]]![[Cursing Ali is cursing Aqa ﷺ.jpg]][[Mola Ali]][[Aqa Muhammad ﷺ]]

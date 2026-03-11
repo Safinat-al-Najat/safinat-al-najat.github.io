@@ -1,0 +1,1 @@
+![[Whoever hurted Ali hurted Aqa ﷺ.jpeg]][[Mola Ali]][[Aqa Muhammad ﷺ]]

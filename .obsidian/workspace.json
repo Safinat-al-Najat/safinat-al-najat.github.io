@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "1b44709f0a1379e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1421c8015bd37e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f13202437b27bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAJOR HISTORICAL EVENTS/The Battle of Badar (624 CE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Battle of Badar (624 CE)"
+            }
+          },
+          {
+            "id": "ddcd5e7ba9fcb637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERITS/Aqa Muhammad PBUH/Aqa is in charge of all creations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aqa is in charge of all creations"
+            }
+          },
+          {
+            "id": "e0d914cd5dfce52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allah commanded Aqa ﷺ to love 4 people"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d545c1933aa16b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d25e7316d88705d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4adc3052434afc8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "de7755affe2ba196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MERITS/Mola Ali A.S/Haq is with Ali.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haq is with Ali"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fc90bbe68cfdc6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba96194dfbc54a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a3e95ce0e590b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a699b0b25cbfc96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02f13cea180cbbdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "e014d5ea84bb0529",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52705ffd43a791c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62ab47313176381d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MERITS/Aqa Muhammad ﷺ/Untitled 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 4"
+            }
+          },
+          {
+            "id": "056925ae2845a3d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MERITS/Aqa Muhammad ﷺ/Untitled 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 4"
+            }
+          },
+          {
+            "id": "87a36f52b73c572d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9ee2307ef70495c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ff3dbc39315d0b04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MERITS/Aqa Muhammad ﷺ/Untitled 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "de7755affe2ba196",
+  "lastOpenFiles": [
+    "PNGS/Keep Haq wherver Ali is.jpeg",
+    "MAJOR HISTORICAL EVENTS/The Battle of Badar (624 CE).md",
+    "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
+    "MAJOR HISTORICAL EVENTS/Migration to Medina (622 CE).md",
+    "MERITS/Salman Farsi/Allah commanded Aqa ﷺ to love 4 people.md",
+    "MERITS/Mola Ali A.S/Allah commanded Aqa ﷺ to love 4 people.md",
+    "MERITS/Salman Farsi/Paradise is eager for 5.md",
+    "MERITS/Salman Farsi/Paradise awaits for 3.md",
+    "MERITS/Mola Ali A.S/Paradise awaits for 3.md",
+    "MERITS/Mola Ali A.S/Paradise is eager for 5.md",
+    "MERITS/Salman Farsi/Salman is from Ahlulbayt.md",
+    "MAJOR HISTORICAL EVENTS/The Battle of Trench (627 CE).md",
+    "MERITS/Salman Farsi/Salman Farsi.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is in charge of all creations.md",
+    "MERITS/Aqa Muhammad PBUH/Miracle of Aqa at Khandaq.md",
+    "MERITS/Mola Ali A.S/Mola Ali.md",
+    "LINKS WITH CODES/Huzaifa Al Yaman.md",
+    "MERITS/Salman Farsi",
+    "PNGS/Pasted image 20260309144924.png",
+    "PNGS/Pasted image 20260309144819.png",
+    "PNGS/Pasted image 20260309143758.png",
+    "PNGS/Pasted image 20260309143740.png",
+    "PNGS/Pasted image 20260309143146.png",
+    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
+    "Rulings of Islam/Rulings of Islam.md",
+    "Rulings of Islam/Primary Imaan/Primary Imaan.md",
+    "Rulings of Islam/Primary Imaan/Books sent by Allah/Books sent by Allah.md",
+    "Rulings of Islam/Primary Imaan/Aqa ﷺ is the last messenger/Aqa ﷺ is the last messenger.md",
+    "MERITS/Imam Hussain A.S/Imam Hussain.md",
+    "MERITS/Imam Hassan A.S/Imam Hassan.md",
+    "MERITS/Bibi Fatima A.S/Bibi Fatima.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak.md",
+    "PNGS/Pasted image 20260309130531.png",
+    "PNGS/Syeda used to wash wounds of Aqa ﷺ 1.png",
+    "PNGS/Pasted image 20260309124925.png",
+    "PNGS/Pasted image 20260309124534.png",
+    "PNGS/Pasted image 20260309124438.png",
+    "Untitled.canvas",
+    "MAJOR HISTORICAL EVENTS/Untitled.base",
+    "PNGS/Event when Suraqa tried to come near Aqa.pdf",
+    "MAJOR HISTORICAL EVENTS",
+    "Rulings of Islam/Primary Imaan/Aqa ﷺ is the last messenger",
+    "Rulings of Islam/Primary Imaan/Day of Judgment",
+    "Rulings of Islam/Primary Imaan/Books sent by Allah",
+    "Rulings of Islam/Primary Imaan/Oneness of Allah",
+    "Rulings of Islam/Primary Imaan/Angels",
+    "Rulings of Islam/Pillars of Islam/Zakat"
+  ]
+}

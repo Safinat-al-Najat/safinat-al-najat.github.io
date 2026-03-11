@@ -1,0 +1,1 @@
+![[Donot scam orphan.png]][[Haram]][[Quran]]

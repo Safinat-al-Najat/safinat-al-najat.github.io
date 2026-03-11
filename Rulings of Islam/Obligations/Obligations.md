@@ -1,0 +1,1 @@
+[[Rulings of Islam]]

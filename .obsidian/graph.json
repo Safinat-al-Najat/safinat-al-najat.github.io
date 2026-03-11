@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"MERITS/Mola Ali A.S\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15535116
+      }
+    },
+    {
+      "query": "path:\"MERITS/Aqa Muhammad PBUH\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 36618
+      }
+    },
+    {
+      "query": "line:(1214)",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"MERITS/Bibi Fatima A.S\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"MERITS/Imam Hassan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:\"MERITS/Imam Hussain A.S\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 28840
+      }
+    },
+    {
+      "query": "path:\"MERITS/Ahlulbayt and Panjtan Pak\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "path:\"MAJOR HISTORICAL EVENTS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8406016
+      }
+    },
+    {
+      "query": "path:\"MERITS/Salman Farsi\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15764280
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 2.00291262135922,
+  "lineSizeMultiplier": 0.504368932038835,
+  "collapse-forces": true,
+  "centerStrength": 0.684466019417476,
+  "repelStrength": 15.3398058252427,
+  "linkStrength": 0.41747572815534,
+  "linkDistance": 67,
+  "scale": 0.15437401813878865,
+  "close": true
+}

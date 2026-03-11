@@ -1,0 +1,1 @@
+![[Aqa never criticised any food.png]][[Aqa Muhammad ﷺ]]

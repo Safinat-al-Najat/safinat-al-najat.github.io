@@ -1,0 +1,1 @@
+![[Aqa ﷺ's words are what Allah says.png]][[Aqa Muhammad ﷺ]]

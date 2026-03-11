@@ -1,0 +1,1 @@
+![[Most wretched person.jpeg]][[Mola Ali]]

@@ -1,0 +1,1 @@
+![[Praying with hands relaxed.jpeg]][[Salah]]
