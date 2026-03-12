@@ -4,8 +4,8 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"MERITS/Mola Ali A.S\"  ",
@@ -76,11 +76,11 @@
   "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 2.00291262135922,
   "lineSizeMultiplier": 0.504368932038835,
-  "collapse-forces": true,
-  "centerStrength": 0.684466019417476,
-  "repelStrength": 15.3398058252427,
-  "linkStrength": 0.41747572815534,
-  "linkDistance": 67,
-  "scale": 0.15437401813878798,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.519417475728155,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.05932617187499995,
+  "close": false
 }
