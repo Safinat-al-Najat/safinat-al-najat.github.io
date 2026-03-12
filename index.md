@@ -1,6 +1,6 @@
 #  A site for Islamic Knowledge
 
-# Assalamualikum !
+# Assalamualikum ! hello
 
 <div class="card-container">
   <a href="/MERITS" class="nav-card">🌟 Merits</a>
