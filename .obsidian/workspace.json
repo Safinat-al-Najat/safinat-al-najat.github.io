@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "RULINGS OF ISLAM/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "RULINGS OF ISLAM/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,7 +58,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -243,13 +243,15 @@
   },
   "active": "35391288a1af1285",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
-    "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
+    "RULINGS OF ISLAM/Quran.md",
+    "PNGS/Merits.md",
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
-    "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
+    "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
     "index.md",
     "RULINGS OF ISLAM/index.md",
-    "PNGS/Merits.md",
+    "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
+    "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
+    "RULINGS OF ISLAM/index.md",
     "PNGS/New Project (2).png",
     "2026-03-13.md",
     "index-AJH.md",
@@ -268,8 +270,6 @@
     "MERITS/Mola Ali A.S/Haq is with Ali.md",
     "testing/success 3.md",
     "testing/success 2.md",
-    "testing/success.md",
-    "MERITS/Salman Farsi/testing.md",
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MERITS/Salman Farsi",

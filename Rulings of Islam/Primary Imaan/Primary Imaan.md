@@ -1,1 +1,1 @@
-[[Aqa Muhammad ﷺ]][[RULINGS OF ISLAM]]
+[[Aqa Muhammad ﷺ]][[RULINGS OF ISLAM/index]]
