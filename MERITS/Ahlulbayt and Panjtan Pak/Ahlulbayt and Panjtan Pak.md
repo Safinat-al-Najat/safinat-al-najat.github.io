@@ -1,1 +1,1 @@
-[[Aqa Muhammad ﷺ]][[MERITS]]
+[[Aqa Muhammad ﷺ]][[Merits]]

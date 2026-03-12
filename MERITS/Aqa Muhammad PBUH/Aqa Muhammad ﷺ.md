@@ -1,1 +1,1 @@
-[[MERITS]]
+[[Merits]]
