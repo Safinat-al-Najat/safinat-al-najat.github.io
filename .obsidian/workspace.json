@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/Rulings of Islam.md",
+                "file": "RULINGS OF ISLAM/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rulings of Islam"
+              "title": "index"
             }
           }
         ]
@@ -198,10 +198,11 @@
   },
   "active": "82f2d643a541d5b5",
   "lastOpenFiles": [
-    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "index.md",
-    "PNGS/Merits.md",
+    "RULINGS OF ISLAM/index.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
+    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
+    "PNGS/Merits.md",
     "PNGS/New Project (2).png",
     "2026-03-13.md",
     "index-AJH.md",
@@ -226,7 +227,6 @@
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MAJOR HISTORICAL EVENTS/The Battle of Badar (624 CE).md",
-    "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
     "MERITS/Salman Farsi",
     "PNGS/Pasted image 20260309144924.png",
     "PNGS/Pasted image 20260309144819.png",
