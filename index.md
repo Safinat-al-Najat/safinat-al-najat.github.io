@@ -7,4 +7,4 @@
   <a href="/MAJOR-HISTORICAL-EVENTS" class="nav-card">📜 History</a>
   <a href="/RULINGS-OF-ISLAM" class="nav-card">⚖️ Rulings</a>
 
-testing 3rd time
+testing 4th time
