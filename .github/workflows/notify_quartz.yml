@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Send Repository Dispatch
         run: |
-          curl -X POST https://api.github.com/repos/muneeb1st/quartz/dispatches \
+          curl -X POST https://api.github.com/repos/Safinat-al-Najat/safinat-al-najat.github.io/dispatches \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.SYNC_TOKEN }}" \
           -d '{"event_type": "notes_updated"}'
