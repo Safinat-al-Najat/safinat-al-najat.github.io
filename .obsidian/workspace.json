@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "RULINGS OF ISLAM"
             }
           }
         ]
@@ -164,12 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled 4"
             }
+          },
+          {
+            "id": "5ccdca8a39965cf9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -187,10 +198,12 @@
   },
   "active": "16a3e95ce0e590b5",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM/Rulings of Islam.md",
-    "index.md",
-    "index-AJH.md",
     "PNGS/Merits.md",
+    "index.md",
+    "PNGS/New Project (2).png",
+    "2026-03-13.md",
+    "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
+    "index-AJH.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Quran will never apart from each other.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt are like Ark of Noah.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt will meet at Kauthar with Quran.md",
@@ -213,8 +226,6 @@
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MAJOR HISTORICAL EVENTS/The Battle of Badar (624 CE).md",
     "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
-    "MAJOR HISTORICAL EVENTS/Migration to Medina (622 CE).md",
-    "MERITS/Mola Ali A.S/Allah commanded Aqa ﷺ to love 4 people.md",
     "MERITS/Salman Farsi",
     "PNGS/Pasted image 20260309144924.png",
     "PNGS/Pasted image 20260309144819.png",
@@ -224,7 +235,6 @@
     "PNGS/Pasted image 20260309130531.png",
     "PNGS/Syeda used to wash wounds of Aqa ﷺ 1.png",
     "PNGS/Pasted image 20260309124925.png",
-    "PNGS/Pasted image 20260309124534.png",
     "Untitled.canvas",
     "MAJOR HISTORICAL EVENTS/Untitled.base",
     "PNGS/Event when Suraqa tried to come near Aqa.pdf",
