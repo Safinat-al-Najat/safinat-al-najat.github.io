@@ -1,6 +1,0 @@
-[[Halal and Haram]]
-[[Obligations]]
-[[Other Rulings]]
-[[Pillar of Islam]]
-[[Primary Imaan]]
-[[Quran]]

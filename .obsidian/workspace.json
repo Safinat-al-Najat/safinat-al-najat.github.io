@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Major Historical Events"
             },
             "group": "0540c59d0ff29483"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Major Historical Events"
             },
             "group": "0540c59d0ff29483"
           }
@@ -243,8 +243,8 @@
   },
   "active": "35391288a1af1285",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM/Rulings of Islam.md",
     "index.md",
+    "RULINGS OF ISLAM/Rulings of Islam.md",
     "RULINGS OF ISLAM/Quran.md",
     "PNGS/Merits.md",
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
