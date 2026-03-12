@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "PNGS",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute"
 }
