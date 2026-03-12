@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major Historical Events"
+              "title": "index"
             },
             "group": "0540c59d0ff29483"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Major Historical Events"
+              "title": "Graph of index"
             },
             "group": "0540c59d0ff29483"
           }
@@ -243,11 +243,11 @@
   },
   "active": "35391288a1af1285",
   "lastOpenFiles": [
+    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "index.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
     "RULINGS OF ISLAM/Quran.md",
     "PNGS/Merits.md",
-    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
     "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
     "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
