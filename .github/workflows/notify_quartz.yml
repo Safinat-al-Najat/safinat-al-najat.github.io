@@ -2,7 +2,7 @@ name: Notify Quartz to Build
 on:
   push:
     branches:
-      - main
+      - main # This is your LOCAL obsidian branch name
 
 jobs:
   ping-quartz:
