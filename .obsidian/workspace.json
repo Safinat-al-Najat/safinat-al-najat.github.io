@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/index.md",
+                "file": "RULINGS OF ISLAM/Rulings of Islam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Rulings of Islam"
             },
             "group": "0540c59d0ff29483"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RULINGS OF ISLAM/index.md",
+                "file": "RULINGS OF ISLAM/Rulings of Islam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Rulings of Islam"
             },
             "group": "0540c59d0ff29483"
           }
@@ -248,10 +248,10 @@
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
     "index.md",
-    "RULINGS OF ISLAM/index.md",
+    "RULINGS OF ISLAM/Rulings of Islam.md",
     "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
     "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
-    "RULINGS OF ISLAM/index.md",
+    "RULINGS OF ISLAM/Rulings of Islam.md",
     "PNGS/New Project (2).png",
     "2026-03-13.md",
     "index-AJH.md",

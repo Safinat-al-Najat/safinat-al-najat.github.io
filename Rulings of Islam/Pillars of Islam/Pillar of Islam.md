@@ -1,1 +1,1 @@
-[[RULINGS OF ISLAM/index]]
+[[RULINGS OF ISLAM/Rulings of Islam]]
