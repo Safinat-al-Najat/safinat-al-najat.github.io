@@ -1,3 +1,3 @@
 # Extensive Research Vault
 
-**Welcome  to the research site.**
+**Welcome to the research site.**
