@@ -1,6 +1,6 @@
 #  A site for Islamic Knowledge
 
-# Welcome!
+# Welcome !
 
 <div class="card-container">
   <a href="/MERITS" class="nav-card">🌟 Merits</a>
