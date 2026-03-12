@@ -5,11 +5,10 @@
 
 # Assalamualikum !
 
-
 <div style="font-family: 'Amiri', 'Traditional Arabic', 'Times New Roman', serif; font-size: 3em; text-align: center; direction: rtl; color: #ffffff; padding: 25px; line-height: 1.5;">
 وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟
 </div>
-******
+
 
 
 <div class="card-container">
