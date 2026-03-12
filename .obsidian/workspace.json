@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/Rulings of Islam.md",
+                "file": "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rulings of Islam"
+              "title": "RULINGS OF ISLAM"
             },
             "group": "0540c59d0ff29483"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RULINGS OF ISLAM/Rulings of Islam.md",
+                "file": "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Rulings of Islam"
+              "title": "Graph of RULINGS OF ISLAM"
             },
             "group": "0540c59d0ff29483"
           }
@@ -244,7 +244,7 @@
   "active": "35391288a1af1285",
   "lastOpenFiles": [
     "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
-    "RULINGS OF ISLAM/Rulings of Islam.md",
+    "RULINGS OF ISLAM/RULINGS OF ISLAM.md",
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
     "index.md",
