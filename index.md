@@ -1,4 +1,4 @@
-![[New Project (2).png|231]]
+![[New Project (2).png|159|round|156]]
 
 
 # بسم اللہ الرحٰمن الرحیم

@@ -1,5 +1,8 @@
 {
   "cssTheme": "Baseline",
   "accentColor": "#5cf56e",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "round corner"
+  ]
 }
