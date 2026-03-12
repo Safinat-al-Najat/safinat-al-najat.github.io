@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d545c1933aa16b04",
+        "id": "c52d88d4ff474971",
         "type": "tabs",
         "children": [
           {
-            "id": "de7755affe2ba196",
+            "id": "945fe0ea3802a3eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,10 +182,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de7755affe2ba196",
+  "active": "3a699b0b25cbfc96",
   "lastOpenFiles": [
-    "MERITS/Mola Ali A.S/Haq is with Ali.md",
+    "LINKS WITH CODES/MERITS.md",
     "index.md",
+    "MERITS/Mola Ali A.S/Haq is with Ali.md",
     "testing/success 3.md",
     "testing/success 2.md",
     "testing/success.md",
@@ -220,7 +218,6 @@
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "Rulings of Islam/Rulings of Islam.md",
     "Rulings of Islam/Primary Imaan/Primary Imaan.md",
-    "Rulings of Islam/Primary Imaan/Books sent by Allah/Books sent by Allah.md",
     "PNGS/Pasted image 20260309130531.png",
     "PNGS/Syeda used to wash wounds of Aqa ﷺ 1.png",
     "PNGS/Pasted image 20260309124925.png",
