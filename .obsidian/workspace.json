@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd20b12c523254c",
+        "id": "e2896e110ee6d5ea",
         "type": "tabs",
         "children": [
           {
-            "id": "82f2d643a541d5b5",
+            "id": "b1773f4d57c99a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f2d643a541d5b5",
+  "active": "b1773f4d57c99a49",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM/index.md",
     "index.md",
+    "RULINGS OF ISLAM/index.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "PNGS/Merits.md",
