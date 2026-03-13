@@ -1,1 +1,1 @@
-[[Rulings of Islam]]
+[[PNGS/Rulings of Islam]]
