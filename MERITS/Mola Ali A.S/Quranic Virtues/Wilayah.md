@@ -1,2 +1,2 @@
 ![[Wilayah.png]]
-[[Mola Ali]][[Quran]]
+[[Mola Ali]][[PNGS/Quran]]

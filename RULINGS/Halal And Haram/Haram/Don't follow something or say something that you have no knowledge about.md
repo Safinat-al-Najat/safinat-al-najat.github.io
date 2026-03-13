@@ -1,0 +1,1 @@
+![[Don't follow something or say something that you have no knowledge about.png]][[RULINGS/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

@@ -1,1 +1,0 @@
-![[Oppression 2,279.png]]![[Oppression 3,57.png]][[Haram]][[Quran]]

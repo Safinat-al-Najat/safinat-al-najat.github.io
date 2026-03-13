@@ -1,0 +1,1 @@
+![[Dont walk on earth arrogantly.png]][[RULINGS/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

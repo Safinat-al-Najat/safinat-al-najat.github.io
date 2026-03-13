@@ -1,0 +1,1 @@
+![[Qisaas (Blood for blood).png]][[RULINGS/Halal And Haram/Halal/Halal]][[PNGS/Quran]]

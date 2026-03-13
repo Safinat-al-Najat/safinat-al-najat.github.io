@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rulings of Islam.md",
+                "file": "RULINGS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rulings of Islam"
+              "title": "RULINGS"
             },
             "group": "a8818351e16ab63a"
           }
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rulings of Islam.md",
+                "file": "RULINGS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Rulings of Islam"
+              "title": "Graph of RULINGS"
             },
             "group": "a8818351e16ab63a"
           }
@@ -245,22 +245,23 @@
   "active": "91807a5c4a122bba",
   "lastOpenFiles": [
     "index.md",
+    "RULINGS/Obligations/Obligations.md",
+    "RULINGS.md",
+    "RULINGS/Primary Imaan/Primary Imaan.md",
+    "RULINGS/Pillars of Islam/Pillar of Islam.md",
+    "RULINGS/Other Rulings/Other Rulings.md",
+    "RULINGS/Halal And Haram/Halal and Haram.md",
     "Rulings of Islam.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
     "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
     "PNGS/Merits.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam.md",
-    "RULINGS OF ISLAM/Obligations/Obligations.md",
-    "RULINGS OF ISLAM/Primary Imaan/Primary Imaan.md",
-    "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
-    "RULINGS OF ISLAM/Halal And Haram/Halal and Haram.md",
     "Rulings of- slam.md",
     "Rulings-of-Islam.md",
     "MERITS/Bibi Fatima A.S/Bibi Fatima.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Hajj/Hajj.md",
-    "RULINGS OF ISLAM/Quran.md",
+    "RULINGS/Pillars of Islam/Hajj/Hajj.md",
+    "PNGS/Quran.md",
     "RULINGS OF ISLAM/test.md",
     "MAJOR HISTORICAL EVENTS/The Battle of Trench (627 CE).md",
     "MERITS/Bibi Fatima A.S/Bibi was buried at night.md",
@@ -268,9 +269,8 @@
     "MERITS/Mola Ali A.S/Mola Ali.md",
     "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
     "RULINGS OF ISLAM.md",
-    "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
+    "RULINGS/Halal And Haram/Halal/Halal.md",
     "PNGS/New Project (2).png",
-    "2026-03-13.md",
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MERITS/Salman Farsi",
@@ -286,10 +286,10 @@
     "MAJOR HISTORICAL EVENTS/Untitled.base",
     "PNGS/Event when Suraqa tried to come near Aqa.pdf",
     "MAJOR HISTORICAL EVENTS",
-    "RULINGS OF ISLAM/Primary Imaan/Aqa ﷺ is the last messenger",
-    "RULINGS OF ISLAM/Primary Imaan/Day of Judgment",
-    "RULINGS OF ISLAM/Primary Imaan/Books sent by Allah",
-    "RULINGS OF ISLAM/Primary Imaan/Oneness of Allah",
-    "RULINGS OF ISLAM/Primary Imaan/Angels"
+    "RULINGS/Primary Imaan/Aqa ﷺ is the last messenger",
+    "RULINGS/Primary Imaan/Day of Judgment",
+    "RULINGS/Primary Imaan/Books sent by Allah",
+    "RULINGS/Primary Imaan/Oneness of Allah",
+    "RULINGS/Primary Imaan/Angels"
   ]
 }

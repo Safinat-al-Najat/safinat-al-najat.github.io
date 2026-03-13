@@ -53,4 +53,4 @@ Bibi Syeda Fatima A.S was the one to wash the wounds of Aqa ﷺ along with Ali.
 
 Later Allah revealed verses announcing the forgiveness for the people who left Aqa Muhammad ﷺ. Starting from ***3:121 to 3:126***. In these verses Allah also rebuked the companions who left Aqa Muhammad ﷺ.
 
-[[Aqa Muhammad ﷺ]][[Bibi Fatima]][[Mola Ali]][[Hamza]][[Talha]][[The Battle of Uhud (625 CE)]][[Major Historical Events]][[Quran]][[Khalid Bin Waleed]][[Abu Dujana]][[Ali will fight till his last breath for Aqa ﷺ]][[Syeda used to wash wounds of Aqa ﷺ]][[Ali is from Aqa ﷺ]][[Aqa never took revenge]][[Salman Farsi]]
+[[Aqa Muhammad ﷺ]][[Bibi Fatima]][[Mola Ali]][[Hamza]][[Talha]][[The Battle of Uhud (625 CE)]][[Major Historical Events]][[PNGS/Quran]][[Khalid Bin Waleed]][[Abu Dujana]][[Ali will fight till his last breath for Aqa ﷺ]][[Syeda used to wash wounds of Aqa ﷺ]][[Ali is from Aqa ﷺ]][[Aqa never took revenge]][[Salman Farsi]]

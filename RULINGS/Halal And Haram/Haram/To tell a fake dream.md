@@ -1,0 +1,1 @@
+![[To tell a fake dream.png]][[RULINGS/Halal And Haram/Haram/Haram]]

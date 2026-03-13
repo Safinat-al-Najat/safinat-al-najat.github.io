@@ -1,1 +1,0 @@
-![[Donot take anyone's right.png]][[Haram]][[Quran]]

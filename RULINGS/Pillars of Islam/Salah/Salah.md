@@ -1,0 +1,1 @@
+[[RULINGS/Pillars of Islam/Pillar of Islam]]

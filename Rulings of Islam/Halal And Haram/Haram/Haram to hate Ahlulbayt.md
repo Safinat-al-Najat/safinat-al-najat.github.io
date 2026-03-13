@@ -1,1 +1,0 @@
-![[Haram to hate Ahlulbayt.jpeg]][[Haram]]

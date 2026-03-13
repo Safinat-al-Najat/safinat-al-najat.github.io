@@ -1,1 +1,0 @@
-![[Sud (Riba) 2,275.png]][[Haram]][[Quran]]

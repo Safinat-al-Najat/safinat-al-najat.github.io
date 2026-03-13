@@ -1,0 +1,1 @@
+![[To associate lie with Aqa.png]][[RULINGS/Halal And Haram/Haram/Haram]]

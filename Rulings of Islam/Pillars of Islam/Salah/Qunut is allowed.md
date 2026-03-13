@@ -1,2 +1,0 @@
-![[Qunut.jpg]]
-[[Salah]]

@@ -1,1 +1,0 @@
-![[Wastefullness (fuzool kharchi).png]][[Haram]][[Quran]]

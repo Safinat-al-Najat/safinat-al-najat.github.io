@@ -1,0 +1,1 @@
+![[Hurting Bibi Pak.png]][[RULINGS/Halal And Haram/Haram/Haram]]

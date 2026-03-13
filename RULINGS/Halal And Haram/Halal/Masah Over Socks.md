@@ -1,0 +1,1 @@
+![[Masah Over Socks.png]][[RULINGS/Halal And Haram/Halal/Halal]]

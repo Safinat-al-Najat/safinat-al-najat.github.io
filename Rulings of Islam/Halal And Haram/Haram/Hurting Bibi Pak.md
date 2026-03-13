@@ -1,1 +1,0 @@
-![[Hurting Bibi Pak.png]][[Haram]]

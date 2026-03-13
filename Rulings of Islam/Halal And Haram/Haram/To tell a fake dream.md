@@ -1,1 +1,0 @@
-![[To tell a fake dream.png]][[Haram]]

@@ -1,1 +1,0 @@
-![[Donot suspect, spy or backbite.png]][[Haram]][[Quran]]
