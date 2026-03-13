@@ -1,1 +1,1 @@
-[[Aqa Muhammad ﷺ]][[PNGS/Rulings of Islam]]
+[[Aqa Muhammad ﷺ]][[RULINGS OF ISLAM/Rulings of Islam]]
