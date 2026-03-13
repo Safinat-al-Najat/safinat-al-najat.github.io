@@ -23,7 +23,7 @@ Virtues of the Ahlulbayt & companions
 ## [📜 History](MAJOR%20HISTORICAL%20EVENTS)
 Key events in Islamic history
 
-## [⚖️ Rulings](RULINGS.md)
+## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
 ---

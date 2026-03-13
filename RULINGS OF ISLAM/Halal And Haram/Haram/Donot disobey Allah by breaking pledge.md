@@ -1,0 +1,1 @@
+![[Donot disobey Allah by breaking pledge 16,91.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

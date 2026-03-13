@@ -1,1 +1,0 @@
-![[Indecency, wickedness and agression 16,90.png]][[RULINGS/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

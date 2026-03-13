@@ -1,0 +1,1 @@
+![[Use of Alcohol, gambling, idols worshipping and Qura'a Andaazi (Lottery) 5,90 4.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

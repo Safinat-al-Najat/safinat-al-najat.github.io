@@ -1,1 +1,0 @@
-![[Donot scam orphan.png]][[RULINGS/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

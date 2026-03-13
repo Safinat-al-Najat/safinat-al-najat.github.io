@@ -1,0 +1,1 @@
+[[RULINGS OF ISLAM/Obligations/Obligations]]

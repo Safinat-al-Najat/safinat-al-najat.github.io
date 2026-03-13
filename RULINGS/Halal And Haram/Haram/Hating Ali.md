@@ -1,1 +1,0 @@
-![[Hating Ali.png]][[RULINGS/Halal And Haram/Haram/Haram]]

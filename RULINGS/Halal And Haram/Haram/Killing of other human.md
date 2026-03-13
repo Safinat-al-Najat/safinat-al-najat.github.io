@@ -1,1 +1,0 @@
-![[Killing of other human.png]][[RULINGS/Halal And Haram/Haram/Haram]][[PNGS/Quran]]

@@ -1,1 +1,0 @@
-![[Rafail Yadain.pdf]][[RULINGS/Other Rulings/Other Rulings]]
