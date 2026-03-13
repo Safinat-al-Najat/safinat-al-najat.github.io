@@ -1,2 +1,2 @@
 ![[A great tribe will come from offsprings of Hussain.jpeg]]
-[[Imam Hussain]][[Aqa Muhammad ﷺ]]
+[[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]

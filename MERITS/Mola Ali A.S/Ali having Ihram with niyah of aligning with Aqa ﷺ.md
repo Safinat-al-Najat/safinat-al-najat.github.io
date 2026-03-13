@@ -1,2 +1,2 @@
 ![[Ali having Ihram with niyah of aligning with Aqa ﷺ.png]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

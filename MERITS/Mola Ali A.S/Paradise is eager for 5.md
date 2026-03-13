@@ -1,2 +1,2 @@
 ![[Paradise is eager for 5.png]]
-[[Mola Ali]][[Salman Farsi]]
+[[PNGS/Mola Ali]][[PNGS/Salman Farsi]]

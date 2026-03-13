@@ -1,1 +1,1 @@
-![[Cursing Ali is cursing Aqa ﷺ (2).jpeg]]![[Cursing Ali is cursing Aqa ﷺ.jpg]][[Mola Ali]][[Aqa Muhammad ﷺ]]
+![[Cursing Ali is cursing Aqa ﷺ (2).jpeg]]![[Cursing Ali is cursing Aqa ﷺ.jpg]][[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

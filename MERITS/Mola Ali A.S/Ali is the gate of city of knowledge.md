@@ -1,2 +1,2 @@
 ![[Ali is the gate of city of knowledge.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

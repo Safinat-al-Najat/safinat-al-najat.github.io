@@ -1,2 +1,2 @@
 ![[Excellence in Morals.png]]
-[[Aqa Muhammad ﷺ]]
+[[PNGS/Aqa Muhammad ﷺ]]

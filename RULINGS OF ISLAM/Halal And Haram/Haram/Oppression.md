@@ -1,1 +1,1 @@
-![[Oppression 2,279.png]]![[Oppression 3,57.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Oppression 2,279.png]]![[Oppression 3,57.png]][[PNGS/Haram]][[PNGS/Quran]]

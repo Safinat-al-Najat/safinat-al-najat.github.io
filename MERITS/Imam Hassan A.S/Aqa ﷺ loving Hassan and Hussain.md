@@ -1,1 +1,1 @@
-![[Aqa ﷺ loving Hassan and Hussain.jpeg]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+![[Aqa ﷺ loving Hassan and Hussain.jpeg]][[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]

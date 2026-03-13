@@ -1,2 +1,2 @@
 ![[Syeda is the Leader of Ladies of Paradise.png]]
-[[Bibi Fatima]][[Aqa Muhammad ﷺ]]
+[[PNGS/Bibi Fatima]][[PNGS/Aqa Muhammad ﷺ]]

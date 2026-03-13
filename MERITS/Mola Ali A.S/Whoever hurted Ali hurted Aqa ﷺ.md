@@ -1,1 +1,1 @@
-![[Whoever hurted Ali hurted Aqa ﷺ.jpeg]][[Mola Ali]][[Aqa Muhammad ﷺ]]
+![[Whoever hurted Ali hurted Aqa ﷺ.jpeg]][[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

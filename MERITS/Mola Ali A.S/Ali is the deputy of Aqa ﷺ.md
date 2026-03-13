@@ -1,2 +1,2 @@
 ![[Ali is the deputy of Aqa ﷺ.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

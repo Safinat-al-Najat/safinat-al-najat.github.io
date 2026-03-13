@@ -1,2 +1,2 @@
 ![[First person to embrace Islam.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

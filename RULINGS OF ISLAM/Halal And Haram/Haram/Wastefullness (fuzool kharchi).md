@@ -1,1 +1,1 @@
-![[Wastefullness (fuzool kharchi).png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Wastefullness (fuzool kharchi).png]][[PNGS/Haram]][[PNGS/Quran]]

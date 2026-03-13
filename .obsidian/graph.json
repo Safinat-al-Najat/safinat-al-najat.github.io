@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"MERITS/Mola Ali A.S\"  ",
@@ -69,6 +69,62 @@
         "a": 1,
         "rgb": 15764280
       }
+    },
+    {
+      "query": "file:Mola Ali",
+      "color": {
+        "a": 1,
+        "rgb": 12058624
+      }
+    },
+    {
+      "query": "file:Aqa Muhammad",
+      "color": {
+        "a": 1,
+        "rgb": 752152
+      }
+    },
+    {
+      "query": "file:Bibi Fatima",
+      "color": {
+        "a": 1,
+        "rgb": 12656564
+      }
+    },
+    {
+      "query": "file:Imam Hassan",
+      "color": {
+        "a": 1,
+        "rgb": 2401008
+      }
+    },
+    {
+      "query": "file:Imam Hussain",
+      "color": {
+        "a": 1,
+        "rgb": 679818
+      }
+    },
+    {
+      "query": "file:Quran",
+      "color": {
+        "a": 1,
+        "rgb": 11794270
+      }
+    },
+    {
+      "query": "file:Salman Farsi",
+      "color": {
+        "a": 1,
+        "rgb": 15764280
+      }
+    },
+    {
+      "query": "file:Ahlulbayt and Panjtan Pak",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
     }
   ],
   "collapse-display": true,
@@ -76,11 +132,11 @@
   "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 2.00291262135922,
   "lineSizeMultiplier": 0.504368932038835,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.519417475728155,
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.07058167567046458,
+  "scale": 0.07058167567046428,
   "close": true
 }

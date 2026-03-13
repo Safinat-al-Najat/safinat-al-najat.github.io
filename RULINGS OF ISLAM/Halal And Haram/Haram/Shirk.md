@@ -1,1 +1,1 @@
-![[Shirk 4,48.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Shirk 4,48.png]][[PNGS/Haram]][[PNGS/Quran]]

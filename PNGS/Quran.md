@@ -1,1 +1,1 @@
-[[Aqa Muhammad ﷺ]]
+[[PNGS/Aqa Muhammad ﷺ]]

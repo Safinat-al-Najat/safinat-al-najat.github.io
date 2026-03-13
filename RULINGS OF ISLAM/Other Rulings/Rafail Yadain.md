@@ -1,1 +1,1 @@
-![[Rafail Yadain.pdf]][[RULINGS OF ISLAM/Other Rulings/Other Rulings]]
+![[Rafail Yadain.pdf]][[PNGS/Other Rulings]]

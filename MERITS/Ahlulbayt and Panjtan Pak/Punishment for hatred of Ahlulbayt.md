@@ -1,1 +1,1 @@
-![[Punishment for hatred of Ahlulbayt.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+![[Punishment for hatred of Ahlulbayt.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]

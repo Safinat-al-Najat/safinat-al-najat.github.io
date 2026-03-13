@@ -1,2 +1,2 @@
 ![[Hassan Riding Aqa ﷺ.jpeg]]
-[[Imam Hassan]][[Aqa Muhammad ﷺ]]
+[[PNGS/Imam Hassan]][[PNGS/Aqa Muhammad ﷺ]]

@@ -1,2 +1,2 @@
 ![[Aqa ﷺ love Hassan.png]]
-[[Imam Hassan]][[Aqa Muhammad ﷺ]]
+[[PNGS/Imam Hassan]][[PNGS/Aqa Muhammad ﷺ]]

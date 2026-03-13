@@ -1,2 +1,2 @@
 ![[Ali Prayed like Aqa ﷺ.png]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

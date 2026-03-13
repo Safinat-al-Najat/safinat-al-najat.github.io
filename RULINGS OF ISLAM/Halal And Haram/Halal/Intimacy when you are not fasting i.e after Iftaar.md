@@ -1,1 +1,1 @@
-![[Intimacy when you are not fasting i.e after Iftaar.png]][[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[PNGS/Quran]]
+![[Intimacy when you are not fasting i.e after Iftaar.png]][[PNGS/Halal]][[PNGS/Quran]]

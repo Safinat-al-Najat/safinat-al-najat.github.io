@@ -1,1 +1,0 @@
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]][[Mola Ali]]

@@ -1,2 +1,2 @@
 ![[Imam Hassan explaining virtues of Ali.jpeg]]
-[[Mola Ali]][[Imam Hassan]]
+[[PNGS/Mola Ali]][[PNGS/Imam Hassan]]

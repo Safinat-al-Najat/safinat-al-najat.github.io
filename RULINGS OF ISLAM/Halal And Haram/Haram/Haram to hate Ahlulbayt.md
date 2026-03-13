@@ -1,1 +1,1 @@
-![[Haram to hate Ahlulbayt.jpeg]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]]
+![[Haram to hate Ahlulbayt.jpeg]][[PNGS/Haram]]

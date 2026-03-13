@@ -1,1 +1,1 @@
-![[Numerous Virtues of Ali.jpeg]][[Mola Ali]]
+![[Numerous Virtues of Ali.jpeg]][[PNGS/Mola Ali]]

@@ -1,4 +1,4 @@
 ![[Most beloved man and woman towards Aqa ﷺ.jpeg]]
 
 ![[Most beloved man and woman 2.jpeg]]
-[[Mola Ali]][[Bibi Fatima]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Bibi Fatima]][[PNGS/Aqa Muhammad ﷺ]]

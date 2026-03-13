@@ -1,2 +1,2 @@
 ![[Ali is a glimpse of Isa.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

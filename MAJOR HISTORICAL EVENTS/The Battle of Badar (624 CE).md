@@ -34,4 +34,4 @@ Upon hearing these words of Rasulullah (S.A.W), Hamzah,  Ali and Obaidah  charge
 The above mentioned is a historical refrence.
 
 
-[[Aqa Muhammad ﷺ]][[Mola Ali]][[Hamza]][[Ubaidah]][[The Battle of Badar (624 CE)]][[Major Historical Events]][[Quran[[Abu Bakar]][[Salman Farsi]]
+[[PNGS/Aqa Muhammad ﷺ]][[PNGS/Mola Ali]][[Hamza]][[Ubaidah]][[The Battle of Badar (624 CE)]][[PNGS/Major Historical Events]][[Quran[[Abu Bakar]][[PNGS/Salman Farsi]]

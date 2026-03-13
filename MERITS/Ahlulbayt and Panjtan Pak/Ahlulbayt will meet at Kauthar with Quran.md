@@ -1,1 +1,1 @@
-![[Ahlulbayt will meet at Kauthar with Quran.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]][[PNGS/Quran]]
+![[Ahlulbayt will meet at Kauthar with Quran.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]][[PNGS/Quran]]

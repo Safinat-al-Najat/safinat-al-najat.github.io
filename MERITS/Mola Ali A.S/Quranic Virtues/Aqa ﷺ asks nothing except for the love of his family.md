@@ -1,2 +1,2 @@
 ![[Aqa ﷺ asks nothing except for the love of his family.png]]
-[[Mola Ali]][[Bibi Fatima]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]][[Ahlulbayt and Panjtan Pak]][[PNGS/Quran]]
+[[PNGS/Mola Ali]][[PNGS/Bibi Fatima]][[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Quran]]

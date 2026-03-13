@@ -1,2 +1,2 @@
 ![[Tasbeehat e Fatima.png]]
-[[Bibi Fatima]]
+[[PNGS/Bibi Fatima]]

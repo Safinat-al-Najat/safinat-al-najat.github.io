@@ -1,1 +1,1 @@
-![[Most wretched person.jpeg]][[Mola Ali]]
+![[Most wretched person.jpeg]][[PNGS/Mola Ali]]

@@ -1,2 +1,2 @@
 ![[Ali gave ghussal to Fatima.jpeg]]
-[[Mola Ali]]
+[[PNGS/Mola Ali]]

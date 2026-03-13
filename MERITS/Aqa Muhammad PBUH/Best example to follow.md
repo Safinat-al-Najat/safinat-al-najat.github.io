@@ -1,2 +1,2 @@
 ![[Best example to follow.png]]
-[[Aqa Muhammad ﷺ]]
+[[PNGS/Aqa Muhammad ﷺ]]

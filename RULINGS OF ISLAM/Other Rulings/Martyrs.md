@@ -1,4 +1,4 @@
-[[RULINGS OF ISLAM/Other Rulings/Other Rulings]]![[Who are martyrs.png]]
+[[PNGS/Other Rulings]]![[Who are martyrs.png]]
 
 ![[Child who isn't born yet is also martyr.png]]
 

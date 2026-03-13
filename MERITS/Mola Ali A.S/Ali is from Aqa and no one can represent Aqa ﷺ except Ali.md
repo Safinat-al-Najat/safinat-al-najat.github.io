@@ -1,3 +1,3 @@
 ![[Ali is from Aqa and no one can represent Aqa ﷺ except Ali.png]]
-[[Mola Ali]]
-[[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]]
+[[PNGS/Aqa Muhammad ﷺ]]

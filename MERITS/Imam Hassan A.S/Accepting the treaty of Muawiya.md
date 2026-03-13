@@ -1,1 +1,1 @@
-![[Accepting the treaty of Muawiya.png]][[Imam Hassan]]
+![[Accepting the treaty of Muawiya.png]][[PNGS/Imam Hassan]]

@@ -1,1 +1,1 @@
-![[Sud (Riba) 2,275.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Sud (Riba) 2,275.png]][[PNGS/Haram]][[PNGS/Quran]]

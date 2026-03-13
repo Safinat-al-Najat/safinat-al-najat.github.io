@@ -1,1 +1,1 @@
-[[RULINGS OF ISLAM/Obligations/Obligations]]
+[[PNGS/Obligations]]

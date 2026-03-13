@@ -1,2 +1,2 @@
 ![[Obey Aqa ﷺ.png]]
-[[Aqa Muhammad ﷺ]]
+[[PNGS/Aqa Muhammad ﷺ]]

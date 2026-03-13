@@ -1,2 +1,2 @@
 ![[Ali will fight till his last breath for Aqa ﷺ.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

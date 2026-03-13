@@ -1,2 +1,2 @@
 ![[Hassan and Hussain on back of Aqa ﷺ during Sujood.jpeg]]
-[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+[[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]

@@ -1,1 +1,1 @@
-![[Pasted image 20260308145809.png]]![[Pasted image 20260308145832.png]][[Aqa Muhammad ﷺ]]
+![[Pasted image 20260308145809.png]]![[Pasted image 20260308145832.png]][[PNGS/Aqa Muhammad ﷺ]]

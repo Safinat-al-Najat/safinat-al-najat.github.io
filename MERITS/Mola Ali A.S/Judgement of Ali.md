@@ -1,2 +1,2 @@
 ![[Judgement of Ali.jpeg]]
-[[Mola Ali]]
+[[PNGS/Mola Ali]]

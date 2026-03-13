@@ -1,3 +1,3 @@
 ![[Panjtan Pak.png]]
 
-![[Panjtan Pak.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+![[Panjtan Pak.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]

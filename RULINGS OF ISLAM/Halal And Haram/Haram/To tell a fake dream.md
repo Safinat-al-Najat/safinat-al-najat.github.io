@@ -1,1 +1,1 @@
-![[To tell a fake dream.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]]
+![[To tell a fake dream.png]][[PNGS/Haram]]

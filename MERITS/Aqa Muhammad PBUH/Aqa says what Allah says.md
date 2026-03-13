@@ -1,1 +1,1 @@
-![[Aqa ﷺ's words are what Allah says.png]][[Aqa Muhammad ﷺ]]
+![[Aqa ﷺ's words are what Allah says.png]][[PNGS/Aqa Muhammad ﷺ]]

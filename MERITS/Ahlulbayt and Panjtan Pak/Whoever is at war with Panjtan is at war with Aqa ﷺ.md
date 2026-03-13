@@ -1,1 +1,1 @@
-![[Whoever is at war with Panjtan is at war with Aqa ﷺ.png]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+![[Whoever is at war with Panjtan is at war with Aqa ﷺ.png]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]

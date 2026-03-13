@@ -1,1 +1,1 @@
-![[Donot take anyone's right.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Donot take anyone's right.png]][[PNGS/Haram]][[PNGS/Quran]]

@@ -1,1 +1,1 @@
-![[Seal of Prophets.png]][[Aqa Muhammad ﷺ]]
+![[Seal of Prophets.png]][[PNGS/Aqa Muhammad ﷺ]]

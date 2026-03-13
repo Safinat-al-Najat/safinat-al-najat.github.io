@@ -1,2 +1,2 @@
 ![[Syeda is a part of Aqa ﷺ.png]]
-[[Bibi Fatima]][[Aqa Muhammad ﷺ]]
+[[PNGS/Bibi Fatima]][[PNGS/Aqa Muhammad ﷺ]]

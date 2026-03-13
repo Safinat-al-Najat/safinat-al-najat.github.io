@@ -1,1 +1,1 @@
-![[Carrion (already dead meat) , blood and swine and meat slaughtered with name of any other god 2,173.png]][[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[PNGS/Quran]]
+![[Carrion (already dead meat) , blood and swine and meat slaughtered with name of any other god 2,173.png]][[PNGS/Haram]][[PNGS/Quran]]

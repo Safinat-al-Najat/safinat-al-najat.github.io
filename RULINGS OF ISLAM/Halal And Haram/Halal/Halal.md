@@ -1,1 +1,0 @@
-[[RULINGS OF ISLAM/Halal And Haram/Halal and Haram]]

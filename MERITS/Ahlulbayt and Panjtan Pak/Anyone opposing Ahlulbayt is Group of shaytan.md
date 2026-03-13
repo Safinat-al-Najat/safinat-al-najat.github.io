@@ -1,1 +1,1 @@
-![[Anyone opposing Ahlulbayt is Group of shaytan.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+![[Anyone opposing Ahlulbayt is Group of shaytan.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]

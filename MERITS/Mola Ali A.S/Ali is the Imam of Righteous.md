@@ -1,2 +1,2 @@
 ![[Ali is the Imam of Righteous.jpeg]]
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]

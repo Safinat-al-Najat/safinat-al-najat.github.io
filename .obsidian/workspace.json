@@ -8,63 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91807a5c4a122bba",
+            "id": "281aa4835355c8a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            },
-            "group": "a8818351e16ab63a"
-          }
-        ]
-      },
-      {
-        "id": "f77f32a5fb924e1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee53f8e3862f497d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "index.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
-            },
-            "group": "a8818351e16ab63a"
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -241,35 +192,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a3e95ce0e590b5",
+  "active": "281aa4835355c8a5",
   "lastOpenFiles": [
+    "PNGS/Salman Farsi.md",
+    "PNGS/Mola Ali.md",
+    "MAJOR HISTORICAL EVENTS/Migration to Medina (622 CE).md",
     "index.md",
+    "PNGS/Ahlulbayt and Panjtan Pak.md",
+    "PNGS/RULINGS.md",
+    "PNGS/Primary Imaan.md",
+    "PNGS/Other Rulings.md",
+    "PNGS/Pillar of Islam.md",
+    "PNGS/New Project (2).png",
+    "PNGS/Halal and Haram.md",
+    "RULINGS OF ISLAM.md",
     "RULINGS.md",
-    "RULINGS OF ISLAM/Obligations/Obligations.md",
-    "RULINGS OF ISLAM/Primary Imaan/Primary Imaan.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam.md",
-    "RULINGS OF ISLAM/Other Rulings/Other Rulings.md",
-    "RULINGS OF ISLAM/Halal And Haram/Halal and Haram.md",
+    "PNGS/Obligations.md",
     "Rulings of Islam.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
-    "MAJOR HISTORICAL EVENTS/Major Historical Events.md",
+    "PNGS/Major Historical Events.md",
     "PNGS/Merits.md",
     "Rulings of- slam.md",
     "Rulings-of-Islam.md",
-    "MERITS/Bibi Fatima A.S/Bibi Fatima.md",
-    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak.md",
+    "PNGS/Bibi Fatima.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
     "RULINGS OF ISLAM/Pillars of Islam/Hajj/Hajj.md",
     "PNGS/Quran.md",
     "RULINGS OF ISLAM/test.md",
     "MAJOR HISTORICAL EVENTS/The Battle of Trench (627 CE).md",
     "MERITS/Bibi Fatima A.S/Bibi was buried at night.md",
-    "MERITS/Imam Hussain A.S/Imam Hussain.md",
-    "MERITS/Mola Ali A.S/Mola Ali.md",
-    "MAJOR HISTORICAL EVENTS/The Battle of Uhud (625 CE).md",
-    "RULINGS OF ISLAM.md",
-    "RULINGS OF ISLAM/Halal And Haram/Halal/Halal.md",
-    "PNGS/New Project (2).png",
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MERITS/Salman Farsi",
@@ -285,10 +236,10 @@
     "MAJOR HISTORICAL EVENTS/Untitled.base",
     "PNGS/Event when Suraqa tried to come near Aqa.pdf",
     "MAJOR HISTORICAL EVENTS",
-    "RULINGS OF ISLAM/Primary Imaan/Aqa ﷺ is the last messenger",
-    "RULINGS OF ISLAM/Primary Imaan/Day of Judgment",
-    "RULINGS OF ISLAM/Primary Imaan/Books sent by Allah",
-    "RULINGS OF ISLAM/Primary Imaan/Oneness of Allah",
-    "RULINGS OF ISLAM/Primary Imaan/Angels"
+    "RULINGS OF ISLAM/Primary Imaan/To Believe Aqa ﷺ is the last messenger",
+    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Day of Judgment",
+    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Books sent by Allah",
+    "RULINGS OF ISLAM/Primary Imaan/To Believe in Oneness of Allah",
+    "RULINGS OF ISLAM/Primary Imaan/To Believe in Angels"
   ]
 }
