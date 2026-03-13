@@ -28,7 +28,12 @@ Hamza was Martyred in Uhud by a slave of Wife of Abu Sufyan named Wahshi. Aqa Mu
 
 - **Tarikh al-Tabari & Ibn Hisham:** Both historians detail that the Prophet ﷺ said, **"I have never been as saddened by anything as I am by this Hamza's martyrdom** and **"I have never stood in a place that made me angrier than this"**
 
+The mindset of Ali when fake announcement of death of Aqa Muhammad ﷺ was spread at Uhud:
+
+
 ![[Pasted image 20260309130531.png]]
+
+[Mustadrak Al Hakim 4635](https://al-hadees.com/mustadrak/4635)
 
 Other events of this battle from Shia Book Bihar Al Anwar are as follows:
 
@@ -40,17 +45,32 @@ Other events of this battle from Shia Book Bihar Al Anwar are as follows:
 ![[Pasted image 20260309124534.png]]
 
 > [!NOTE]
-> The above mentioned hadith are from Bihar Al Anwar Vol 20 starting from page 35 available on https://hubeali.com/
+> The above mentioned hadith are from Bihar Al Anwar Vol 20 starting from page 35 available on [https://hubeali.com/](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf)
 
 
 Aqa Muhammad ﷺ was also injured his incisors were also broken.
 
 ![[Pasted image 20260309124925.png]]
 
+[Bukhari 4073](https://sunnah.com/bukhari:4073)
+
 ![[Syeda used to wash wounds of Aqa ﷺ 1.png]]
+
+[Bukhari 4075](https://sunnah.com/bukhari:4075)
+
 
 Bibi Syeda Fatima A.S was the one to wash the wounds of Aqa ﷺ along with Ali.
 
-Later Allah revealed verses announcing the forgiveness for the people who left Aqa Muhammad ﷺ. Starting from ***3:121 to 3:126***. In these verses Allah also rebuked the companions who left Aqa Muhammad ﷺ.
+Later Allah revealed verses announcing the forgiveness for the people who left Aqa Muhammad ﷺ. Starting from [***3:121 to 3:126***](https://quran.com/3/126). In these verses Allah also rebuked the companions who left Aqa Muhammad ﷺ.
+
+
+
+
+
+
+
+
+
+
 
 [[Aqa Muhammad ﷺ]][[Bibi Fatima]][[Mola Ali]][[The Battle of Uhud (625 CE)]][[Major Historical Events]][[QURAN]]][[Ali will fight till his last breath for Aqa ﷺ]][[Syeda used to wash wounds of Aqa ﷺ]][[Ali is from Aqa ﷺ]][[Aqa never took revenge]][[Salman Farsi]]
