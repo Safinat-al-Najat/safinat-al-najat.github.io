@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RULINGS"
+              "title": "index"
             },
             "group": "a8818351e16ab63a"
           }
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RULINGS.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of RULINGS"
+              "title": "Graph of index"
             },
             "group": "a8818351e16ab63a"
           }
@@ -244,9 +244,9 @@
   },
   "active": "91807a5c4a122bba",
   "lastOpenFiles": [
+    "RULINGS.md",
     "index.md",
     "RULINGS/Obligations/Obligations.md",
-    "RULINGS.md",
     "RULINGS/Primary Imaan/Primary Imaan.md",
     "RULINGS/Pillars of Islam/Pillar of Islam.md",
     "RULINGS/Other Rulings/Other Rulings.md",
