@@ -4,4 +4,4 @@
 
 ![[Hadith e Qisa 3.jpeg]]
 
-[[PNGS/Aqa Muhammad ﷺ]][[PNGS/Mola Ali]] [[PNGS/Bibi Fatima]] [[PNGS/Imam Hassan]] [[PNGS/Imam Hussain]] 
+[[Aqa Muhammad ﷺ]][[Mola Ali]][[Bibi Fatima]] [[Imam Hassan]] [[Imam Hussain]] 

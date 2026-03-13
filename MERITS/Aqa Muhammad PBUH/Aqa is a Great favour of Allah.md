@@ -1,2 +1,2 @@
 ![[Great favour of Allah.png]]
-[[PNGS/Aqa Muhammad ﷺ]]
+[[Aqa Muhammad ﷺ]]

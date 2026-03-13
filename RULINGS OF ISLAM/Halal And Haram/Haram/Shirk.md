@@ -1,1 +1,1 @@
-![[Shirk 4,48.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Shirk 4,48.png]][[Haram]][[QURAN]]

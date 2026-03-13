@@ -1,1 +1,1 @@
-[[PNGS/Aqa Muhammad ﷺ]][[Merits]]
+[[Aqa Muhammad ﷺ]][[Merits]]

@@ -1,1 +1,1 @@
-![[Donot fear poverty and donot kill your children.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Donot fear poverty and donot kill your children.png]][[Haram]][[QURAN]]

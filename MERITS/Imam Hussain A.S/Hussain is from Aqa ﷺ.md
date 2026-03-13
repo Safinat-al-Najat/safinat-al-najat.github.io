@@ -1,1 +1,1 @@
-![[Hussain is from Aqa ﷺ.png]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]
+![[Hussain is from Aqa ﷺ.png]][[Imam Hussain]][[Aqa Muhammad ﷺ]]

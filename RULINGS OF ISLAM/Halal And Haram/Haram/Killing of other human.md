@@ -1,1 +1,1 @@
-![[Killing of other human.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Killing of other human.png]][[Haram]][[QURAN]]

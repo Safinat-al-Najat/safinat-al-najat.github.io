@@ -1,1 +1,1 @@
-[[PNGS/Merits|Merits]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]][[PNGS/Mola Ali]]
+[[Merits|Merits]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]S/Mola Ali]]

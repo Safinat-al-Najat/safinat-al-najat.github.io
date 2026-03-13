@@ -1,2 +1,2 @@
 ![[Allah wants to purify the family of Aqa.png]]
-[[PNGS/Mola Ali]][[PNGS/Bibi Fatima]][[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]][[PNGS/Quran]]
+[[Mola Ali]] [[Bibi Fatima]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]][[QURAN]]

@@ -1,4 +1,4 @@
-|          |
+|                       |          |
 | --------------------- | -------- |
 | Bihar Al Anwar Vol 20 | Page 149 |
 
@@ -13,4 +13,4 @@
 
 Salman was also declared as one of the person of Ahlulbayt A.S.
 
-[[PNGS/Salman Farsi]][[PNGS/Aqa Muhammad ﷺ]][[Ahlulbayt of Aqa ﷺ]][[PNGS/Mola Ali]][[PNGS/Ahlulbayt and Panjtan Pak]]
+[[n Farsi]][[Aqa Muhammad ﷺ]][[Ahlulbayt of Aqa ﷺ]][[Mola Ali]][[Ahlulbayt and Panjtan Pak]]

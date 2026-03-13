@@ -1,1 +1,1 @@
-![[Keep Haq wherver Ali is.jpeg]][[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]
+![[Keep Haq wherver Ali is.jpeg]][[Mola Ali]][[Aqa Muhammad ﷺ]]

@@ -1,1 +1,1 @@
-![[Donot suspect, spy or backbite.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Donot suspect, spy or backbite.png]][[Haram]][[QURAN]]

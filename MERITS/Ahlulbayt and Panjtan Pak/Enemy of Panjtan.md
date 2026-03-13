@@ -1,1 +1,1 @@
-![[Enemy of Panjtan.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]
+![[Enemy of Panjtan.jpeg]][[Ahlulbayt and Panjtan Pak]] [[Aqa Muhammad ﷺ]]

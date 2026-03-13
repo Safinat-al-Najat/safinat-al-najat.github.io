@@ -1,1 +1,1 @@
-![[Indecency, wickedness and agression 16,90.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Indecency, wickedness and agression 16,90.png]][[Haram]][[QURAN]]

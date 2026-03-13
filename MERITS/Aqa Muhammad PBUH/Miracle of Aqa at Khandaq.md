@@ -7,4 +7,4 @@
 | ----------------- | --------------------- |
 | **Reference**     | Sahih al-Bukhari 4102 |
 | In-book reference | Book 64, Hadith 146   |
-[[PNGS/Aqa Muhammad ﷺ]]
+[[Aqa Muhammad ﷺ]]

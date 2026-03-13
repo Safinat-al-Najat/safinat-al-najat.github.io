@@ -1,1 +1,1 @@
-![[Aqa ﷺ is a light from Allah.png]][[PNGS/Aqa Muhammad ﷺ]]
+![[Aqa ﷺ is a light from Allah.png]][[Aqa Muhammad ﷺ]]

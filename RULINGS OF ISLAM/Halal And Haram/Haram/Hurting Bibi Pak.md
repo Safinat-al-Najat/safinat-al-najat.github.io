@@ -1,1 +1,1 @@
-![[Hurting Bibi Pak.png]][[PNGS/Haram]]
+![[Hurting Bibi Pak.png]][[Haram]]

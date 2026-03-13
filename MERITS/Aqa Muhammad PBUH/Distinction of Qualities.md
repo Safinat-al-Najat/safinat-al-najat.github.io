@@ -1,2 +1,2 @@
 ![[Distinction of qualities.png]]
-[[PNGS/Aqa Muhammad ﷺ]]
+[[Aqa Muhammad ﷺ]]

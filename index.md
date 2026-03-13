@@ -1,10 +1,9 @@
 ---
 title: Home
 ---
-`---
+---
 title: Home
 ---
-
 
 
 <div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
@@ -29,4 +28,4 @@ Fiqh, obligations & Islamic law
 ---
 
 ### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)`
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)

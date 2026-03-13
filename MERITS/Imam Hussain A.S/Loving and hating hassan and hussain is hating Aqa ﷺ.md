@@ -1,1 +1,1 @@
-![[Loving and hating hassan and hussain is hating Aqa ﷺ.png]][[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]
+![[Loving and hating hassan and hussain is hating Aqa ﷺ.png]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]

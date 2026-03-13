@@ -1,1 +1,0 @@
-[[PNGS/Pillar of Islam]]

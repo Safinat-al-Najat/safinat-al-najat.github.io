@@ -1,1 +1,1 @@
-![[Donot scam orphan.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Donot scam orphan.png]][[Haram]][[QURAN]]

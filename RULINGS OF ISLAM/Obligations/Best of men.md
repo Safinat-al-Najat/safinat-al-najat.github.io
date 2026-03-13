@@ -1,2 +1,2 @@
 ![[Best of men.jpg]]
-[[RULINGS OF ISLAM/Obligations/For Males]]
+[[Obligations]][[For Males]]

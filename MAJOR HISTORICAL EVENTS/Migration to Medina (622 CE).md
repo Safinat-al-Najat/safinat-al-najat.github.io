@@ -42,4 +42,4 @@ and many other known Interpreters
 
 ![[Aqa built masjid e Quba.png]]
 
-[[PNGS/Aqa Muhammad ﷺ]][[PNGS/Mola Ali]][[PNGS/Quran]][[PNGS/Major Historical Events]] [[Abu Bakar]][[PNGS/Salman Farsi]]
+[[Aqa Muhammad ﷺ]][[Mola Ali]][[QURAN]][[Major Historical Events]][[Salman Farsi]]

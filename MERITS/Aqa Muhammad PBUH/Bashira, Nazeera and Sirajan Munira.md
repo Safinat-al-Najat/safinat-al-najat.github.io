@@ -1,2 +1,2 @@
 ![[Bashira, Nazeera and Sirajan Munira.png]]
-[[PNGS/Aqa Muhammad ﷺ]]
+[[Aqa Muhammad ﷺ]]

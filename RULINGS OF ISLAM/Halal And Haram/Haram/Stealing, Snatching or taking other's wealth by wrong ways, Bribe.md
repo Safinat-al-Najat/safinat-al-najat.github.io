@@ -1,1 +1,1 @@
-![[Stealing, Snatching or taking other's wealth by wrong ways, Bribe 2,188.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Stealing, Snatching or taking other's wealth by wrong ways, Bribe 2,188.png]][[Haram]][[QURAN]]

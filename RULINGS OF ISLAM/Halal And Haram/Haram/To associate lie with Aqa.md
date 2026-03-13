@@ -1,1 +1,1 @@
-![[To associate lie with Aqa.png]][[PNGS/Haram]]
+![[To associate lie with Aqa.png]][[Haram]]

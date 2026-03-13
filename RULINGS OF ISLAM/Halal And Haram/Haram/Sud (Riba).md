@@ -1,1 +1,1 @@
-![[Sud (Riba) 2,275.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Sud (Riba) 2,275.png]][[Haram]][[QURAN]]

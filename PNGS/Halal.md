@@ -1,1 +1,1 @@
-[[PNGS/Halal and Haram]]
+[[Halal and Haram]]

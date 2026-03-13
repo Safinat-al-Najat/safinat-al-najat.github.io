@@ -1,1 +1,1 @@
-![[Don't fraud in trade or selling or business.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Don't fraud in trade or selling or business.png]][[Haram]][[QURAN]]

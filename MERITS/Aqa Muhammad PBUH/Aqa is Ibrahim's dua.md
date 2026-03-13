@@ -1,2 +1,2 @@
 ![[Ibrahim's dua.png]]
-[[PNGS/Aqa Muhammad ﷺ]]
+[[Aqa Muhammad ﷺ]]

@@ -1,2 +1,2 @@
 ![[Ali will face challenges.jpeg]]
-[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]
+[[Mola Ali]] [[Aqa Muhammad ﷺ]]

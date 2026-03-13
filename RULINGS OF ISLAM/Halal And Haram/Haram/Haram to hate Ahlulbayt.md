@@ -1,1 +1,1 @@
-![[Haram to hate Ahlulbayt.jpeg]][[PNGS/Haram]]
+![[Haram to hate Ahlulbayt.jpeg]][[Haram]]

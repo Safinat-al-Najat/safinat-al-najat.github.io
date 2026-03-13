@@ -1,1 +1,1 @@
-![[To tell a fake dream.png]][[PNGS/Haram]]
+![[To tell a fake dream.png]][[Haram]]

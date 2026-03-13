@@ -13,4 +13,4 @@
 
 **4th reference tells that you can establish relation with wives at night and also tells about time of Sehri and Iftaar**
 
-[[PNGS/Pillar of Islam]][[PNGS/Quran]]
+[[Pillar of Islam]][[Quran]]

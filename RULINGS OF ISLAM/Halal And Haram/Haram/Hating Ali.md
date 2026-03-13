@@ -1,1 +1,1 @@
-![[Hating Ali.png]][[PNGS/Haram]]
+![[Hating Ali.png]][[Haram]]

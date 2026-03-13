@@ -1,1 +1,1 @@
-![[Beating wife 2.jpg]]![[Beating wife.jpg]][[RULINGS OF ISLAM/Obligations/For Males]]
+![[Beating wife 2.jpg]]![[Beating wife.jpg]][[Obligations]][[For Males]]

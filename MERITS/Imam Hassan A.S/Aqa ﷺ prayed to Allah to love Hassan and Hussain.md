@@ -1,1 +1,1 @@
-![[Aqa ﷺ prayed to Allah to love Hassan and Hussain.png]][[PNGS/Imam Hassan]][[PNGS/Imam Hussain]][[PNGS/Aqa Muhammad ﷺ]]
+![[Aqa ﷺ prayed to Allah to love Hassan and Hussain.png]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]

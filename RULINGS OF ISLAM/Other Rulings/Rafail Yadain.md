@@ -1,1 +1,1 @@
-![[Rafail Yadain.pdf]][[PNGS/Other Rulings]]
+![[Rafail Yadain.pdf]][[Other Rulings]]

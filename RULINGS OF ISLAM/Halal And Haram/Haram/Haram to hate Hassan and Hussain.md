@@ -1,1 +1,1 @@
-![[Haram to hate Hassan and Hussain.png]][[PNGS/Haram]]
+![[Haram to hate Hassan and Hussain.png]][[Haram]]

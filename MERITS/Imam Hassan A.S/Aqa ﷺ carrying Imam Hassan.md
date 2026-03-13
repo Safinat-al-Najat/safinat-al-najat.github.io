@@ -1,2 +1,2 @@
 ![[Aqa ﷺ carrying Imam Hassan.png]]
-[[PNGS/Imam Hassan]][[PNGS/Aqa Muhammad ﷺ]]
+[[Imam Hassan]][[Aqa Muhammad ﷺ]]

@@ -1,4 +1,4 @@
-[[PNGS/Other Rulings]]![[Who are martyrs.png]]
+[[Other Rulings]]
 
 ![[Child who isn't born yet is also martyr.png]]
 

@@ -1,1 +1,1 @@
-![[Wastefullness (fuzool kharchi).png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Wastefullness (fuzool kharchi).png]][[Haram]][[QURAN]]

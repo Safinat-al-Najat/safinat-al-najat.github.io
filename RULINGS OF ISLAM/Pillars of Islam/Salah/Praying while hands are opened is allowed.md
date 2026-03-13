@@ -1,1 +1,1 @@
-![[Praying with hands relaxed.jpeg]][[RULINGS OF ISLAM/Pillars of Islam/Salah/Salah]]
+![[Praying with hands relaxed.jpeg]][[Pillar of Islam]][[PNGS/Salah]]

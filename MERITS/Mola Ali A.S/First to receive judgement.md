@@ -1,2 +1,2 @@
 ![[First to receive judgement.png]]
-[[PNGS/Mola Ali]][[PNGS/Aqa Muhammad ﷺ]]
+[[Mola Ali]][[Aqa Muhammad ﷺ]]

@@ -1,1 +1,1 @@
-![[Woman gave independed pledge to Aqa ﷺ.png]][[RULINGS OF ISLAM/Obligations/For Males]][[PNGS/Quran]]
+![[Woman gave independed pledge to Aqa ﷺ.png]][[Obligations]][[For Males]][[QURAN]]

@@ -1,1 +1,1 @@
-![[Love Ahlulbayt.jpeg]][[PNGS/Ahlulbayt and Panjtan Pak]][[PNGS/Aqa Muhammad ﷺ]]
+![[Love Ahlulbayt.jpeg]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]

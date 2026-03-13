@@ -1,1 +1,1 @@
-![[Bibi Ayesha explaining virtue of Bibi Fatimah.jpeg]][[PNGS/Bibi Fatima]]
+![[Bibi Ayesha explaining virtue of Bibi Fatimah.jpeg]][[Bibi Fatima]]

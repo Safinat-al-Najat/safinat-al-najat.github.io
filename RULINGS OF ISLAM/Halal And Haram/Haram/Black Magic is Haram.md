@@ -1,1 +1,1 @@
-![[Black Magic is Haram.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Black Magic is Haram.png]][[Haram]][[QURAN]]

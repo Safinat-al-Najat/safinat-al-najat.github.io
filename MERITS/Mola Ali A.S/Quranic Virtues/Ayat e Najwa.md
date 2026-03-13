@@ -1,2 +1,2 @@
 ![[Ayat e Najwa.png]]
-[[PNGS/Mola Ali]][[PNGS/Quran]]
+[[Mola Ali]][[QURAN]]

@@ -1,1 +1,1 @@
-![[Duty of wife.jpg]][[RULINGS OF ISLAM/Obligations/For Females]]
+![[Duty of wife.jpg]][[Obligations]][[For Females]]

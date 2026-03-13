@@ -1,3 +1,3 @@
-[[PNGS/Pillar of Islam]]![[2,110.png]]
+[[Pillar of Islam]]110.png]]
 
-![[9,103.png]][[PNGS/Quran]]
+![[9,103.png]][[QURAN]][[Pillar of Islam]]

@@ -1,1 +1,1 @@
-![[Dont walk on earth arrogantly.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Dont walk on earth arrogantly.png]][[Haram]][[QURAN]]

@@ -1,3 +1,3 @@
-[[PNGS/Primary Imaan]]![[Oneness of Allah 1,163.png]]
+[[Primary Imaan]][[Quran]]
 
 ![[Oneness of Allah 112,1.png]]

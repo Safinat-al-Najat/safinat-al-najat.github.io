@@ -1,1 +1,1 @@
-![[Donot disobey Allah by breaking pledge 16,91.png]][[PNGS/Haram]][[PNGS/Quran]]
+![[Donot disobey Allah by breaking pledge 16,91.png]][[Haram]][[QURAN]]

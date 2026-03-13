@@ -1,1 +1,1 @@
-![[Five names of Aqa.png]][[PNGS/Aqa Muhammad ﷺ]]
+![[Five names of Aqa.png]][[Aqa Muhammad ﷺ]]
