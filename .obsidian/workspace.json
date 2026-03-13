@@ -11,10 +11,14 @@
             "id": "281aa4835355c8a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MERITS/Aqa Muhammad PBUH/Allah has not created a creature better than Aqa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allah has not created a creature better than Aqa"
             }
           }
         ]
@@ -85,25 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62ab47313176381d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MERITS/Aqa Muhammad ﷺ/Untitled 4.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 4"
-            }
-          },
-          {
             "id": "056925ae2845a3d4",
             "type": "leaf",
             "state": {
@@ -172,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,10 +179,20 @@
   },
   "active": "281aa4835355c8a5",
   "lastOpenFiles": [
+    "MERITS/Aqa Muhammad PBUH/Allah sends blessings on Aqa.md",
+    "MERITS/Aqa Muhammad PBUH/Allah has not created a creature better than Aqa.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is the leader of all Mankind.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is Mercy to all universe.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is in charge of all creations.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is a Great favour of Allah.md",
+    "MERITS/Aqa Muhammad PBUH/Aqa is Ibrahim's dua.md",
+    "MERITS/Aqa Muhammad PBUH/Allah testifying that Aqa ﷺ is his messenger.md",
+    "PNGS/Aqa Muhammad ﷺ.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Quran will never apart from each other.md",
+    "index.md",
     "PNGS/Salman Farsi.md",
     "PNGS/Mola Ali.md",
     "MAJOR HISTORICAL EVENTS/Migration to Medina (622 CE).md",
-    "index.md",
     "PNGS/Ahlulbayt and Panjtan Pak.md",
     "PNGS/RULINGS.md",
     "PNGS/Primary Imaan.md",
@@ -211,16 +206,6 @@
     "Rulings of Islam.md",
     "RULINGS OF ISLAM/Rulings of Islam.md",
     "PNGS/Major Historical Events.md",
-    "PNGS/Merits.md",
-    "Rulings of- slam.md",
-    "Rulings-of-Islam.md",
-    "PNGS/Bibi Fatima.md",
-    "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Hajj/Hajj.md",
-    "PNGS/Quran.md",
-    "RULINGS OF ISLAM/test.md",
-    "MAJOR HISTORICAL EVENTS/The Battle of Trench (627 CE).md",
-    "MERITS/Bibi Fatima A.S/Bibi was buried at night.md",
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MERITS/Salman Farsi",

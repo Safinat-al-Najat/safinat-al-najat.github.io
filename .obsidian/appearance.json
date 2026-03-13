@@ -3,6 +3,7 @@
   "accentColor": "#5cf56e",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "round corner"
+    "round corner",
+    "Link hider"
   ]
 }
