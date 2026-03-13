@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+---
+title: Home
+---
 
 ![[New Project (2).png|159|round|156]]
 
@@ -14,11 +17,11 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
 
 "Hold firmly to the rope of Allah all together and do not become divided." — Surah Al-Imran 3:103
 
-## 🌟 Merits
+## [🌟 Merits](MERITS)
 Virtues of the Ahlulbayt & companions
 
-## 📜 History
+## [📜 History](MAJOR%20HISTORICAL%20EVENTS)
 Key events in Islamic history
 
-## ⚖️ Rulings
+## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
