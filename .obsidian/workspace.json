@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/Primary Imaan/Primary Imaan.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Primary Imaan"
+              "title": "index"
             },
             "group": "a8818351e16ab63a"
           }
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "RULINGS OF ISLAM/Primary Imaan/Primary Imaan.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Primary Imaan"
+              "title": "Graph of index"
             },
             "group": "a8818351e16ab63a"
           }
@@ -246,6 +246,9 @@
   "lastOpenFiles": [
     "RULINGS OF ISLAM/Rulings of Islam.md",
     "index.md",
+    "Rulings of- slam.md",
+    "Rulings-of-Islam.md",
+    "RULINGS OF ISLAM/Primary Imaan/Primary Imaan.md",
     "RULINGS OF ISLAM/Obligations/Obligations.md",
     "RULINGS OF ISLAM/Halal And Haram/Halal and Haram.md",
     "MERITS/Bibi Fatima A.S/Bibi Fatima.md",
@@ -268,9 +271,6 @@
     "PNGS/New Project (2).png",
     "2026-03-13.md",
     "index-AJH.md",
-    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Quran will never apart from each other.md",
-    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt are like Ark of Noah.md",
-    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt will meet at Kauthar with Quran.md",
     "testing",
     "PNGS/Keep Haq wherver Ali is.jpeg",
     "MERITS/Salman Farsi",
