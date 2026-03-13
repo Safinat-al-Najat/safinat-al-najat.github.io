@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panjtan Pak"
+              "title": "index"
             }
           }
         ]
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Panjtan Pak"
+              "title": "Backlinks for index"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "281aa4835355c8a5",
   "lastOpenFiles": [
+    "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Punishment for hatred of Ahlulbayt.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Panjtan Pak will be first to enter Jannah.md",
     "MERITS/Ahlulbayt and Panjtan Pak/Names of Panjtan derived from Names of Allah.md",
@@ -223,7 +224,6 @@
     "RULINGS OF ISLAM/Primary Imaan/To Believe in Angels/Angels.md",
     "RULINGS OF ISLAM/Pillars of Islam/Hajj/Hajj.md",
     "RULINGS OF ISLAM/Pillars of Islam/Roza/Roza.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Zakat/Zakat.md",
     "PNGS/Aqa ﷺ crying for Imam Hussain.jpeg",
     "PNGS/Aqa ﷺ carrying Imam Hassan.png",
     "PNGS/Aqa ﷺ crying for Imam Hussain 2.jpeg",

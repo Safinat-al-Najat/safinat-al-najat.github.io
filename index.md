@@ -14,7 +14,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
  وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟
 </div>
 
-"Hold firmly to the rope of Allah all together and do not become divided." — Surah Al-Imran 3:103
+"Hold firmly to the rope of Allah all together and do not become divided." — [Surah Al-Imran 3:103](https://quran.com/ali-imran/103)
 
 ## [🌟 Merits](MERITS)
 Virtues of the Ahlulbayt & companions
