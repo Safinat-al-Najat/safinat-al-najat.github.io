@@ -18,13 +18,11 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
 ## [🌟 Merits](MERITS)
 Virtues of the Ahlulbayt & companions
 
-## [📜 History](MAJOR%20HISTORICAL%20EVENTS)
-Key events in Islamic history
-
 ## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
----
+## [📜 History](MAJOR%20HISTORICAL%20EVENTS)
+Key events in Islamic history
 
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
