@@ -1,1 +1,5 @@
-![[Hussain is from Aqa ﷺ.png]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+![[Hussain is from Aqa ﷺ.png]]
+
+[Jami at Tirmidhi 3775](https://sunnah.com/tirmidhi:3775)
+
+[[Imam Hussain]][[Aqa Muhammad ﷺ]]

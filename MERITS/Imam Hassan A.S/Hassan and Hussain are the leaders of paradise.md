@@ -1,3 +1,10 @@
 ![[Hassan and Hussain leaders of Paradise and their father is better than them.png]]
 
-![[Hassan and Hussain are the leaders of paradise.png]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+[Sunan Ibn Majah 118](https://sunnah.com/ibnmajah:118)
+
+It doesn't only tells us that they both are the leaders, but it also tells us that their father has greater ranking than the leaders of paradise.
+![[Hassan and Hussain are the leaders of paradise.png]]
+
+[Jami at Tirmidhi 3768](https://sunnah.com/tirmidhi:3768)
+
+[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
