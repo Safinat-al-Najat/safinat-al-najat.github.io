@@ -1,3 +1,6 @@
+---
+weight: 6
+---
 ![[Ali has value greater than leaders of Jannah.png]]
 
 [Sunan Ibn Majah 118](https://ibnmajah:118)
