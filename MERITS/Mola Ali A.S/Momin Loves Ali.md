@@ -1,3 +1,6 @@
+---
+weight: 53
+---
 ![[Recognition of Munafiqeen by Ali.jpeg]]
 
 [Mustadrak Al Hakim 4643](https://quranohadith.com/mustadrak/4643)
