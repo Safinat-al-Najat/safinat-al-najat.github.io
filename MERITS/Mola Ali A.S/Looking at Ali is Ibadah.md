@@ -1,1 +1,4 @@
-![[Looking at Ali is Ibadah.jpeg]]![[Looking at Ali's face is ibadah.jpeg]][[Mola Ali]]
+![[Looking at Ali is Ibadah.jpeg]]
+
+[Mustadrak Al Hakim 4682](https://quranohadith.com/mustadrak/4682)
+[[Mola Ali]]

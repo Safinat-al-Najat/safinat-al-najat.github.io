@@ -1,2 +1,6 @@
-![[Ali used to speak to Aqa ﷺ whenver he was angry.jpeg]]
+![[image-8.png]]
+
+[Mustadrak Al Hakim 4647](https://quranohadith.com/mustadrak/4647)
+
+
 [[Mola Ali]] [[Aqa Muhammad ﷺ]]
