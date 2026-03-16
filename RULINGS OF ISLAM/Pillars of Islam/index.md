@@ -1,4 +1,4 @@
 ---
 title: Pillars of Islam
-weight: 5
+weight: 2
 ---
