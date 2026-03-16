@@ -1,3 +1,6 @@
+---
+weight: 34
+---
 ![[Allah commanded Aqa ﷺ to love 4 people.png]]
 
 [Al Amali Book 15 Ch 2 H#1](https://thaqalayn.net/chapter/13/15/2)
