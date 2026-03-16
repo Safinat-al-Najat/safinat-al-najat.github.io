@@ -1,3 +1,6 @@
+---
+weight: 52
+---
 # ==Al Kafi==
 # ==Book 4 Ch 64==
 
