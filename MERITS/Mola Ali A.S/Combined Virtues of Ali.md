@@ -1,3 +1,6 @@
+---
+weight: 37
+---
 ![[Combined Virtues of Ali.png]]
 
 [Jami at Tirmidhi 3724](https://sunnah.com/tirmidhi:3724)
