@@ -1,4 +1,4 @@
 ---
 title: Halal And Haram
-weight: 2
+weight: 3
 ---
