@@ -24,7 +24,5 @@ Key events in Islamic history
 ## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
----
-
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)

@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 
 Ghazwa E Badr is first battle fought against the Pagan of Makkah.
 
