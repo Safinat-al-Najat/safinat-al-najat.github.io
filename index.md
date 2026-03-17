@@ -7,7 +7,7 @@ Home
 
 <div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
-Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
+Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 <div class="quran-verse" dir="rtl">
  وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟
