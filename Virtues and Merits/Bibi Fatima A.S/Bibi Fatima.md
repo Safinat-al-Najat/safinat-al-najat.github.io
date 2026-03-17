@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 
 Fatima bint Muhammad (also known as Fatima al-Zahra) holds a position of unparalleled importance and reverence. She is far more than just the daughter of the Prophet Muhammad; she is a central figure of faith, an infallible model of virtue, and the spiritual link connecting prophethood to the Imamate. Her significance can be understood through several key roles.
 

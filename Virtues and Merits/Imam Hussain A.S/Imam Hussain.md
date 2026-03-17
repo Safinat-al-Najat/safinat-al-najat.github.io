@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 
 Hussain Ibn Ali was the younger grandson of Prophet Muhammad. His importance resonates throughout the entire Islamic world. The Prophet had declared both Hassan and Hussain as [[Virtues and Merits/Imam Hassan A.S/Leaders of paradise]]
 

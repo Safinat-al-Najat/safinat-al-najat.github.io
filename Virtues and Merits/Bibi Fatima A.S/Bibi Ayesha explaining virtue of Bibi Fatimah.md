@@ -1,3 +1,6 @@
+---
+weight: 4
+---
 ![[Bibi Ayesha explaining virtue of Bibi Fatimah.jpeg]]
 
 

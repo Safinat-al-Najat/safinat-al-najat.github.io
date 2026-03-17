@@ -1,3 +1,6 @@
+---
+weight: 17
+---
 ![[Whoever is at war with Panjtan is at war with Aqa ﷺ.png]]
 
 [Jami at Tirmidhi 3870](https://sunnah.com/tirmidhi:3870)

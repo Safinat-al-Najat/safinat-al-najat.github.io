@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 49
 ---
 ![[Most wretched person.jpeg]]
 

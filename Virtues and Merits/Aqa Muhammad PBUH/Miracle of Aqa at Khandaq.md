@@ -1,3 +1,6 @@
+---
+weight: 30
+---
 
 **Narrated Jabir bin Abdullah:**
 

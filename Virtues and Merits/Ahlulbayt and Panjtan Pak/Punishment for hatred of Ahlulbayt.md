@@ -1,3 +1,6 @@
+---
+weight: 16
+---
 ![[Punishment for hatred of Ahlulbayt.jpeg]]
 
 

@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 ![[Aqa ﷺ treated Syeda with respect.png]]
 
 [Al Adab Al Mufrad 971](https://sunnah.com/adab:971)

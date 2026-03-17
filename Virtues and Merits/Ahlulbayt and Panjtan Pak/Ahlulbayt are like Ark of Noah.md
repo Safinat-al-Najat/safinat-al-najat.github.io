@@ -1,3 +1,6 @@
+---
+weight: 7
+---
 ![[Ahlulbayt are like Ark of Noah.jpeg]]
 
 [Mustadrak Al Hakim 4720](https://quranohadith.com/mustadrak/4720)

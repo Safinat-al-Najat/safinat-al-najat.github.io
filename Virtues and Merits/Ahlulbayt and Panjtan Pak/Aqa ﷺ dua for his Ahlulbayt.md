@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ![[Aqa ﷺ dua for his household.jpeg]]
 
 [Mustadrak Al Hakim 4712](https://quranohadith.com/mustadrak/4712)

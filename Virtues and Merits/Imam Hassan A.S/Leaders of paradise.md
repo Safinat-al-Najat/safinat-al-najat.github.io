@@ -1,3 +1,6 @@
+---
+weight: 14
+---
 ![[Hassan and Hussain leaders of Paradise and their father is better than them.png]]
 
 [Sunan Ibn Majah 118](https://sunnah.com/ibnmajah:118)

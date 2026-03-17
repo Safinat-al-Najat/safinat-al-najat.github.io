@@ -1,3 +1,6 @@
+---
+weight: 7
+---
 
 ![[Aqa ﷺ is in charge of all creations.png|630]]
 

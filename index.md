@@ -18,7 +18,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
 ## [🌟 Merits](Virtues%20and%20Merits)
 Virtues of the Ahlulbayt & companions
 
-## [📜 History](ISLAMIC%20EVENTS/Major%20Historical%20Events)
+## [📜 History](ISLAMIC%20EVENTS)
 Key events in Islamic history
 
 ## [⚖️ Rulings](RULINGS%20OF%20ISLAM)

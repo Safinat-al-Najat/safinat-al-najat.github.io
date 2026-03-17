@@ -1,5 +1,5 @@
 ---
-weight: 63
+weight: 62
 ---
 ![[whoever left Ali left Aqa ﷺ.jpeg]]
 

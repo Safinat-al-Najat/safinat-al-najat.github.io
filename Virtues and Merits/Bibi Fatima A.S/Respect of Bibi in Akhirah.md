@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ![[Respect of Bibi In Akhirah 2.jpeg]]
 
 [Mustadrak Al Hakim 4757](https://al-hadees.com/mustadrak/4757)

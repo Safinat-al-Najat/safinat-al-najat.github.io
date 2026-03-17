@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 ![[Allah Sends blessings on Aqa ﷺ.png|683]]
 
 [Quran 33:56](https://quran.com/33/56)

@@ -1,3 +1,6 @@
+---
+weight: 8
+---
 ![[Hussain is from Aqa ﷺ.png]]
 
 [Jami at Tirmidhi 3775](https://sunnah.com/tirmidhi:3775)

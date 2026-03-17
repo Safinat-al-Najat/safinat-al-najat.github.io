@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "d915940fa2742af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "68169f17d82b6da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,34 +253,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b9f4521439def65",
+  "active": "68169f17d82b6da3",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM.md",
     "index.md",
-    "Virtues and Merits.md",
-    "Virtues and Merits/Merits.md",
-    "ISLAMIC EVENTS/Major Historical Events.md",
-    "ISLAMIC EVENTS/Migration to Medina (622 CE).md",
     "conflict-files-obsidian-git.md",
-    "Virtues and Merits/Ahlulbayt and Panjtan Pak/Hadith E Thaqalayn.md",
-    "MERITS/Mola Ali A.S/Hadith E Thaqalayn.md",
-    "Virtues and Merits/Mola Ali A.S/Quranic Virtues/index.md",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Day of Judgment/Day of Judgement.md",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Books sent by Allah/Books sent by Allah.md",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in Oneness of Allah/Oneness of Allah.md",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in Angels/Angels.md",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe Aqa ﷺ is the last messenger/Aqa ﷺ is the last messenger.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Zakat/Zakat.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Shahada/Shahada.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Sajda Gah is allowed.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/You can pray with shoes on.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Praying while hands are opened is allowed.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Qunut is allowed.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Masah is allowed.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Importance of Salah.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/3 Takbirs.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Combining prayers is allowed without any calamity.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Roza/Roza.md",
+    "Virtues and Merits/Imam Hassan A.S/Imam Hassan.md",
+    "MERITS/Bibi Fatima A.S/Syeda is a part of Aqa ﷺ.md",
+    "MERITS/Salman Farsi/Salman Farsi.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Mubahala ﷺ.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Quran will never apart from each other.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Names of Panjtan derived from Names of Allah.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Hadith E Thaqalayn.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Aqa ﷺ left Qur'an and Ahlulbayt for us.md",
+    "MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak.md",
+    "ISLAMIC EVENTS/Major Historical Events.md",
+    "ISLAMIC EVENTS/The Battle of Trench (627 CE).md",
+    "ISLAMIC EVENTS/The Battle of Uhud (625 CE).md",
+    "ISLAMIC EVENTS/The Battle of Badar (624 CE).md",
+    "ISLAMIC EVENTS/Migration to Medina (622 CE).md",
+    "MERITS/Imam Hassan A.S/Hassan and Hussain on back of Aqa ﷺ during Sujood.md",
+    "MERITS/Imam Hassan A.S/Aqa ﷺ prayed to Allah to love Hassan and Hussain.md",
+    "MERITS/Imam Hassan A.S/Aqa ﷺ offered Aqiqah for Hassan and Hussain.md",
+    "MERITS/Imam Hassan A.S/Aqa ﷺ loving Hassan and Hussain.md",
+    "MERITS/Mola Ali A.S/Mola Ali.md",
+    "MERITS/Mola Ali A.S/Ali is from Family of Aqa ﷺ.md",
+    "MERITS/Mola Ali A.S/Ali is Ally of Believers after Aqa ﷺ.md",
+    "MERITS/Mola Ali A.S/Ali has value greater than leaders of Jannah.md",
+    "MERITS/Mola Ali A.S/Ali gave ghussal to Fatima.md",
+    "MERITS/Imam Hussain A.S/Loving and hating hassan and hussain is hating Aqa ﷺ.md",
+    "MERITS/Imam Hassan A.S",
+    "MERITS/Salman Farsi",
+    "MERITS/Mola Ali A.S",
+    "MERITS/Imam Hussain A.S",
+    "MERITS/Ahlulbayt and Panjtan Pak",
+    "MERITS/Bibi Fatima A.S",
+    "MERITS",
     "PNGS/image-15.png",
     "PNGS/image-14.png",
     "PNGS/image-13.png",
@@ -266,13 +301,6 @@
     "testing",
     "Virtues and Merits/Salman Farsi",
     "Untitled.canvas",
-    "MAJOR HISTORICAL EVENTS/Untitled.base",
-    "PNGS/Event when Suraqa tried to come near Aqa.pdf",
-    "ISLAMIC EVENTS",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe Aqa ﷺ is the last messenger",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Day of Judgment",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in the Books sent by Allah",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in Oneness of Allah",
-    "RULINGS OF ISLAM/Primary Imaan/To Believe in Angels"
+    "MAJOR HISTORICAL EVENTS/Untitled.base"
   ]
 }

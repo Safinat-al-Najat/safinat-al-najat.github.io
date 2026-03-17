@@ -1,4 +1,10 @@
+<<<<<<< HEAD:Virtues and Merits/Imam Hassan A.S/Imam Hassan.md
 Hassan Ibn Ali was the eldest grandson of Prophet Muhammad. He is revered as the "[[Virtues and Merits/Imam Hassan A.S/Leaders of paradise]]" a title given to him by the Prophet himself.
+=======
+---
+weight: 1
+---
+Hassan Ibn Ali was the eldest grandson of Prophet Muhammad. He is revered as the "[[MERITS/Imam Hassan A.S/Leaders of paradise]]" a title given to him by the Prophet himself.
 
 His importance lies in two main aspects:
 

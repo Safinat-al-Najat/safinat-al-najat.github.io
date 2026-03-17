@@ -1,5 +1,5 @@
 ---
-weight: 39
+weight: 40
 ---
 ![[Deviating from Ali is deviating from Allah.jpeg]]
 

@@ -1,5 +1,5 @@
 ---
-weight: 47
+weight: 46
 ---
 ![[hurting Ali is hurting Aqa ﷺ.jpeg]]
 

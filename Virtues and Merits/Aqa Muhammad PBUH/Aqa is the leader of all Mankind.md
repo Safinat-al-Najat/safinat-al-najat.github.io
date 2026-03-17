@@ -1,3 +1,6 @@
+---
+weight: 9
+---
 ![[Pasted image 20260308145809.png]]![[Pasted image 20260308145832.png]]
 Mustadrak Al Hakim [4625](https://quranohadith.com/mustadrak/4626) & [4626](https://quranohadith.com/mustadrak/4626)
 
