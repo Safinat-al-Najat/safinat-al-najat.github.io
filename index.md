@@ -16,13 +16,13 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
 "Hold firmly to the rope of Allah all together and do not become divided." — Surah Al-Imran 3:103
 
 ## [📁 ISLAMIC EVENTS](ISLAMIC%20EVENTS)
-Folder from repository
+Major Islamic Events
 
 ## [📁 Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
 ## [📁 Virtues and Merits](Virtues%20and%20Merits)
-Folder from repository
+Virtues of ahlulbayt and companions
 
 ---
 ### For any queries:
