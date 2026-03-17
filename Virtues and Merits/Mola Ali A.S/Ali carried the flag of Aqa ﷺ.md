@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 3
 ---
 ![[Ali carried the flag of Aqa ﷺ.jpeg]]
 
