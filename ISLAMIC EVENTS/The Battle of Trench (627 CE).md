@@ -82,4 +82,4 @@ Believers, call to mind Allah's favour to you when enemy hosts invaded you. Then
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Salman Farsi/Salman Farsi]][[Huzaifa Al Yaman]][[EVENTS/The Battle of Trench (627 CE)]][[EVENTS/Major Historical Events]][[QURAN]][[Virtues and Merits/Aqa Muhammad PBUH/Miracle of Aqa at Khandaq]]
+[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Salman Farsi/Salman Farsi]][[Huzaifa Al Yaman]][[ISLAMIC EVENTS/The Battle of Trench (627 CE)]][[ISLAMIC EVENTS/Major Historical Events]][[QURAN]][[Virtues and Merits/Aqa Muhammad PBUH/Miracle of Aqa at Khandaq]]

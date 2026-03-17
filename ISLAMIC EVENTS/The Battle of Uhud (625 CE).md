@@ -69,4 +69,4 @@ Later Allah revealed verses announcing the forgiveness for the people who left A
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[EVENTS/The Battle of Uhud (625 CE)]][[EVENTS/Major Historical Events]][[QURAN]]][[Virtues and Merits/Mola Ali A.S/Ali will fight till his last breath for Aqa ﷺ]][[Virtues and Merits/Bibi Fatima A.S/Syeda used to wash wounds of Aqa ﷺ]][[Ali is from Aqa ﷺ]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa never took revenge]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[ISLAMIC EVENTS/The Battle of Uhud (625 CE)]][[ISLAMIC EVENTS/Major Historical Events]][[QURAN]]][[Virtues and Merits/Mola Ali A.S/Ali will fight till his last breath for Aqa ﷺ]][[Virtues and Merits/Bibi Fatima A.S/Syeda used to wash wounds of Aqa ﷺ]][[Ali is from Aqa ﷺ]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa never took revenge]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
