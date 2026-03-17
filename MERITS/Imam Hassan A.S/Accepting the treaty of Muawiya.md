@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ![[Accepting the treaty of Muawiya.png]]
 
 

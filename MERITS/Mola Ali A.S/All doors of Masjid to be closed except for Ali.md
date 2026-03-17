@@ -1,5 +1,5 @@
 ---
-weight: 33
+weight: 34
 ---
 ![[All doors of Masjid to be closed except for Ali.jpeg]]
 

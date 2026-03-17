@@ -1,3 +1,6 @@
+---
+weight: 14
+---
 ![[Syeda walked same as Aqa ﷺ.png]]
 
 [Al Adab Al Mufrad 1030](https://sunnah.com/adab:1030)

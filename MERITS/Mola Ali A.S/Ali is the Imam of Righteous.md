@@ -1,5 +1,5 @@
 ---
-weight: 18
+weight: 19
 ---
 ![[Ali is the Imam of Righteous.jpeg]]
 

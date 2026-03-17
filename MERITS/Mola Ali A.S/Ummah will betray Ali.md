@@ -1,5 +1,5 @@
 ---
-weight: 60
+weight: 59
 ---
 ![[Ummah will betray Ali.jpeg]]
 

@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 ![[Great favour of Allah.png]]
 
 [Quran 3:164](https://quran.com/3/164)

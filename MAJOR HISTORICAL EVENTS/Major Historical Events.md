@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 In Islam, **major historical events** are not just random occurrences. They are understood as **signs of God's power, lessons for humanity, and tests of faith.**
 
 Key meanings:

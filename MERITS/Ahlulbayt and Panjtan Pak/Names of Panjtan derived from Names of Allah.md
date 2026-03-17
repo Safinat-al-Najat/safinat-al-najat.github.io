@@ -1,3 +1,6 @@
+---
+weight: 14
+---
 ![[Names of Panjtan derived from Names of Allah.pdf]]
 
 

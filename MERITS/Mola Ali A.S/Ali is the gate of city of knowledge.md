@@ -1,5 +1,5 @@
 ---
-weight: 17
+weight: 18
 ---
 ![[Ali is the gate of city of knowledge.jpeg]]
 

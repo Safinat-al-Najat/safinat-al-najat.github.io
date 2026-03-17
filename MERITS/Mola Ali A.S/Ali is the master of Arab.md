@@ -1,5 +1,5 @@
 ---
-weight: 19
+weight: 20
 ---
 ![[Ali is the master of Arab 2.jpeg]]
 ![[Ali is the Master of Arab.jpeg]]

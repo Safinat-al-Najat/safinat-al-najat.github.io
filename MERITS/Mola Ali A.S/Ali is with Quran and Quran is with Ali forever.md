@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 24
 ---
 ![[Ali is with Quran and Quran is with Ali forever.jpeg]]
 

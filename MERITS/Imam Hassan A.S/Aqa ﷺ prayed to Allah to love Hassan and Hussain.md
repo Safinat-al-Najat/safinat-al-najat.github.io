@@ -1,3 +1,6 @@
+---
+weight: 7
+---
 ![[Aqa ﷺ prayed to Allah to love Hassan and Hussain.png]]
 
 [Jami at Tirmidhi 3782](https://sunnah.com/tirmidhi:3782)

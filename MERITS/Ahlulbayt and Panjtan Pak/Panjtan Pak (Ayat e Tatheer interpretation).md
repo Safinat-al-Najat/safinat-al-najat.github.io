@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 ![[Panjtan Pak.png]]
 
 [Sahih Muslim 2424](https://sunnah.com/2424)

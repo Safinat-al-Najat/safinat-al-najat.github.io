@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 ![[Aqa ﷺ loving Hassan and Hussain.jpeg]]
 
 [Mustadrak Al Hakim 4791](https://al-hadees.com/mustadrak/4791)

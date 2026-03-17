@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 
 ## Ahlulbayt (أهل البيت) — The People of the House
 

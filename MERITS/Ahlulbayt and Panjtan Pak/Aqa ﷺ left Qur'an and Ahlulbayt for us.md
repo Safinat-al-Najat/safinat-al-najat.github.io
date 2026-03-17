@@ -1,3 +1,6 @@
+---
+weight: 11
+---
 ![[Aqa ﷺ left Qur'an and Ahlulbayt for us.jpg]]
 
 [Tirmidhi 3786](https://sunnah.com/tirmidhi:3786)

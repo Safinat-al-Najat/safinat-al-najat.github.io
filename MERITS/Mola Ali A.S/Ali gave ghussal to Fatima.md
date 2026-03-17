@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 6
 ---
 ![[Ali gave ghussal to Fatima.jpeg]]
 

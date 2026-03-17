@@ -1,3 +1,6 @@
+---
+weight: 11
+---
 ![[Syeda is a part of Aqa ﷺ.png]]
 
 [Bukhari 3767](https://sunnah.com/bukhari:3767)

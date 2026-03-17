@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 
 ![[Allah has not created a creation better than Aqa ﷺ.png]]
 

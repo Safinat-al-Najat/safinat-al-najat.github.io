@@ -1,3 +1,6 @@
+---
+weight: 8
+---
 ![[Aqa ﷺ used to do Dum on Hassan and Hussain 2.jpeg]]
 
 [Sahih Bukhari 3371](https://sunnah.com/bukhari:3371) 

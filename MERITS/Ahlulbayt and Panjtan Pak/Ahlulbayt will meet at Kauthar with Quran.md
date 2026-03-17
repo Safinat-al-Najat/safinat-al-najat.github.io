@@ -1,3 +1,6 @@
+---
+weight: 8
+---
 ![[Ahlulbayt will meet at Kauthar with Quran.jpeg]]
 
 [Mustadrak Al Hakim 4711](https://hadithunlocked.com/hakim:4711)

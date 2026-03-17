@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 7
 ---
 ![[Ali has value greater than leaders of Jannah.png]]
 

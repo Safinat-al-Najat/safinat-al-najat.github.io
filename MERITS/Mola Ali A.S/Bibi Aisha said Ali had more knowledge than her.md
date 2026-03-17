@@ -1,5 +1,5 @@
 ---
-weight: 35
+weight: 36
 ---
 ![[Bibi Aisha said Ali had more knowledge than her.png]]
 

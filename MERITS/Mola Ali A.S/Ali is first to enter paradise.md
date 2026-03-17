@@ -1,5 +1,5 @@
 ---
-weight: 12
+weight: 13
 ---
 ![[Ali is first to enter paradise.jpeg]]
 

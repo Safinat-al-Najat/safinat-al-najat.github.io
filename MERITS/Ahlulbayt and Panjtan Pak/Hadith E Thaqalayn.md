@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 ![[Hadith e Thaqalayn 2.jpeg]]
 
 [Sahih Muslim 2408d](https://sunnah.com/muslim:2408d)

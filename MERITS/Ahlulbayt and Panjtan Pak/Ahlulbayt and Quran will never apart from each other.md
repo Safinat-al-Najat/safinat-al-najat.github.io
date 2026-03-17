@@ -1,3 +1,6 @@
+---
+weight: 6
+---
 ![[Ahlulbayt and Quran will never apart from each other 2.jpeg]]
 
 [Tirmidhi 3788](https://sunnah.com/tirmidhi:3788)
