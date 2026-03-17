@@ -1,5 +1,5 @@
 ---
-weight: 56
+weight: 55
 ---
 ![[Remembrance of Ali is Ibadah.png]
 ![[image-14.png]]

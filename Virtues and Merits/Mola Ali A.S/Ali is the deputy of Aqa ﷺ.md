@@ -1,5 +1,5 @@
 ---
-weight: 17
+weight: 16
 ---
 ![[Ali is the deputy of Aqa ﷺ.jpeg]]
 

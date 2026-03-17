@@ -1,5 +1,5 @@
 ---
-weight: 58
+weight: 57
 ---
 ![[Three things about Ali.jpg]]
 

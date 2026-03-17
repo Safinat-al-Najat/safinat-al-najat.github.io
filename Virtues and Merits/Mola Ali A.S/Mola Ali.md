@@ -1,3 +1,6 @@
+---
+weight: 62
+---
 Ali Ibn Abi Talib was the cousin and son-in-law of Prophet Muhammad, the husband of Fatima, and the father of Hassan and Hussain. He is universally revered across all sects of Islam as a paragon of faith, courage, and wisdom.
 
 His importance rests on several key pillars:

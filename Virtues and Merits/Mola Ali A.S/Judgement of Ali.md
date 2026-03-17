@@ -1,5 +1,5 @@
 ---
-weight: 48
+weight: 47
 ---
 ![[Judgement of Ali.jpeg]]
 

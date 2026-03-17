@@ -1,5 +1,5 @@
 ---
-weight: 27
+weight: 26
 ---
 ![[Ali spent most of his time with Aqa ﷺ.jpeg]]
 

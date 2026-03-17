@@ -1,5 +1,5 @@
 ---
-weight: 32
+weight: 31
 ---
 ![[Ali will fight till his last breath for Aqa ﷺ.jpeg]]
 

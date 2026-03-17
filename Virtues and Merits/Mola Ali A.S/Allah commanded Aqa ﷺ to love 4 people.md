@@ -1,5 +1,5 @@
 ---
-weight: 35
+weight: 34
 ---
 ![[Allah commanded Aqa ﷺ to love 4 people.png]]
 

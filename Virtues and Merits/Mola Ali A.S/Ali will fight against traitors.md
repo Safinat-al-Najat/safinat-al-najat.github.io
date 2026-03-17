@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 30
 ---
 ![[Ali will fight against traitors.jpeg]]
 

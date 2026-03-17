@@ -1,5 +1,5 @@
 ---
-weight: 22
+weight: 21
 ---
 ![[Taqwa of Ali.jpeg]]
 

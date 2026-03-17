@@ -1,5 +1,5 @@
 ---
-weight: 57
+weight: 56
 ---
 ![[The hadith of ‘Ali being sent to deliver Bara’a.png]]
 

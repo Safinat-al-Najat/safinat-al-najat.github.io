@@ -1,5 +1,5 @@
 ---
-weight: 29
+weight: 28
 ---
 ![[Ali was closest to commitment to Aqa ﷺ.jpeg]]
 

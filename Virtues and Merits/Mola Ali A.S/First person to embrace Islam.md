@@ -1,5 +1,5 @@
 ---
-weight: 41
+weight: 40
 ---
 ![[First person to embrace Islam.jpeg]]
 
