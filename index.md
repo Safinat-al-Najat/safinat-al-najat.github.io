@@ -15,10 +15,10 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 🌙
 
 "Hold firmly to the rope of Allah all together and do not become divided." — Surah Al-Imran 3:103
 
-## [🌟 Merits](Virtues%20and%20Merits)
+## [🌟 Merits](MERITS)
 Virtues of the Ahlulbayt & companions
 
-## [📜 History](ISLAMIC%20EVENTS)
+## [📜 History](MAJOR%20HISTORICAL%20EVENTS)
 Key events in Islamic history
 
 ## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
