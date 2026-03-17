@@ -1,5 +1,5 @@
 ---
-weight: 38
+weight: 39
 ---
 ![[Cursing Ali is cursing Aqa ﷺ (2).jpeg]]
 

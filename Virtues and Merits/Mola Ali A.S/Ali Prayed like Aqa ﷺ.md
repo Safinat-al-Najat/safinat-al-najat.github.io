@@ -1,5 +1,5 @@
 ---
-weight: 25
+weight: 26
 ---
 ![[Ali Prayed like Aqa ﷺ.png]]
 

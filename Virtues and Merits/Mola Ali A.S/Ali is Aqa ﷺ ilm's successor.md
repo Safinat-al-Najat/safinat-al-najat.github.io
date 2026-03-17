@@ -1,5 +1,5 @@
 ---
-weight: 11
+weight: 12
 ---
 ![[Ali is Aqa ﷺ ilm's successor.jpeg]]
 

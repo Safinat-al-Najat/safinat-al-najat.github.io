@@ -1,5 +1,5 @@
 ---
-weight: 42
+weight: 43
 ---
 ![[Following Ali is Following Allah.jpeg]]
 

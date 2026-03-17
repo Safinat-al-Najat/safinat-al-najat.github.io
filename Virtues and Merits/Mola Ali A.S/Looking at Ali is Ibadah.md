@@ -1,5 +1,5 @@
 ---
-weight: 49
+weight: 50
 ---
 ![[Looking at Ali is Ibadah.jpeg]]
 
