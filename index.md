@@ -24,26 +24,6 @@ Fiqh, obligations & Islamic law
 ## [📁 Virtues and Merits](Virtues%20and%20Merits)
 Folder from repository
 
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
-### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
-
+---
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
