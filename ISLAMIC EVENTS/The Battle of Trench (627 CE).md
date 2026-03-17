@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 5
 ---
 
 Following defeat at Uhud, the Quraysh, led by Abu Sufyan, sought to finally eliminate the Muslim community. They formed a powerful confederate army of approximately **10,000 men**, enlisting exiled Jewish tribes like the Banu Nadir and nomadic Arab tribes such as the Banu Ghatafan.
