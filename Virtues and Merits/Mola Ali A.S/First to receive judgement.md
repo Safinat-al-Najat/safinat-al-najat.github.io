@@ -1,5 +1,5 @@
 ---
-weight: 42
+weight: 41
 ---
 ![[First to receive judgement.png]]
 

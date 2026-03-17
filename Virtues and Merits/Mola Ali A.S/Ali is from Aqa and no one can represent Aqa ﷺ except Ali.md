@@ -1,5 +1,5 @@
 ---
-weight: 14
+weight: 13
 ---
 ![[Ali is from Aqa and no one can represent Aqa ﷺ except Ali.png]]
 

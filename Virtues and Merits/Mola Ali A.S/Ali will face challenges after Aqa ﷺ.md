@@ -1,5 +1,5 @@
 ---
-weight: 30
+weight: 29
 ---
 ![[Ali will face challenges.jpeg]]
 

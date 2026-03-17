@@ -1,5 +1,5 @@
 ---
-weight: 21
+weight: 20
 ---
 ![[Ali is the master of World and hereafter 2.jpeg]]
 

@@ -1,5 +1,5 @@
 ---
-weight: 38
+weight: 37
 ---
 ![[Combined Virtues of Ali.png]]
 

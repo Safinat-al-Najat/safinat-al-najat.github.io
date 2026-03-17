@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 9
 ---
 ![[Ali is a glimpse of Isa.jpeg]]
 

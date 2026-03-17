@@ -1,5 +1,5 @@
 ---
-weight: 47
+weight: 46
 ---
 ![[Imam Hassan explaining virtues of Ali.jpeg]]
 

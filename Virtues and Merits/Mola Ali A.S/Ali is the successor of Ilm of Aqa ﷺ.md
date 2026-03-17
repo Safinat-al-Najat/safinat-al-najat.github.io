@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 22
 ---
 ![[Ali is the successor of Ilm of Aqa ﷺ.jpeg]]
 

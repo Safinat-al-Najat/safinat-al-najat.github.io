@@ -1,5 +1,5 @@
 ---
-weight: 61
+weight: 60
 ---
 ![[Whoever hurted Ali hurted Aqa ﷺ.jpeg]]
 

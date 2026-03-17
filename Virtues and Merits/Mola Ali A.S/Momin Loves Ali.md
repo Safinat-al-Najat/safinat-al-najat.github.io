@@ -1,5 +1,5 @@
 ---
-weight: 52
+weight: 51
 ---
 ![[Recognition of Munafiqeen by Ali.jpeg]]
 
