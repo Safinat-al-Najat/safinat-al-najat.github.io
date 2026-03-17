@@ -2,4 +2,8 @@
 
 [Mustadrak Al Hakim 4688](https://quranohadith.com/mustadrak/4688)
 
-[[Mola Ali]][[Imam Hassan]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Imam Hassan A.S/Imam Hassan]]

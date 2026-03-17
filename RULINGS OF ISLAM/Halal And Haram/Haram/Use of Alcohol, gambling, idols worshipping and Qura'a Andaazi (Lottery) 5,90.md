@@ -1,1 +1,5 @@
-![[Use of Alcohol, gambling, idols worshipping and Qura'a Andaazi (Lottery) 5,90 4.png]][[Haram]][[QURAN]]
+![[Use of Alcohol, gambling, idols worshipping and Qura'a Andaazi (Lottery) 5,90 4.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

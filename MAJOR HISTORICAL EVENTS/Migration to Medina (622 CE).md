@@ -62,10 +62,5 @@ and many other known Interpreters
 [Quran 9:108](https://quran.com/9/108)
 
 
-
-
-
-
-
-
-[[Aqa Muhammad ﷺ]][[Mola Ali]][[QURAN]][[Major Historical Events]][[Salman Farsi]]
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Mola Ali A.S/Mola Ali]][[QURAN]][[MAJOR HISTORICAL EVENTS/Major Historical Events]][[MERITS/Salman Farsi/Salman Farsi]]

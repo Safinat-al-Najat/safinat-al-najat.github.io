@@ -1,4 +1,9 @@
 ![[Looking at Ali is Ibadah.jpeg]]
 
 [Mustadrak Al Hakim 4682](https://quranohadith.com/mustadrak/4682)
-[[Mola Ali]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

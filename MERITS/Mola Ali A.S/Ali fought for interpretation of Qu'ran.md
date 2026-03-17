@@ -3,4 +3,10 @@
 [Mustadrak Al Hakim 4621](https://quranohadith.com/mustadrak/4621)
 
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

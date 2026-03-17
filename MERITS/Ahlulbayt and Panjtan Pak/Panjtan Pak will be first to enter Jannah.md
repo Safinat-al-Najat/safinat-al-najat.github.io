@@ -5,4 +5,8 @@
 The hadith tells that these 5 will be the first one to enter jannah.
 By ''me'' in the hadith means Ali as it has been narrated by him.
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

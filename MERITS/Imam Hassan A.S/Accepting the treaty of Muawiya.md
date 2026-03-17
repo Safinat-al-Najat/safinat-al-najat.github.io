@@ -6,4 +6,6 @@
 Hadith shows the leadership qualities of Hassan that how great of a vision he had.
 
 
-[[Imam Hassan]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]]

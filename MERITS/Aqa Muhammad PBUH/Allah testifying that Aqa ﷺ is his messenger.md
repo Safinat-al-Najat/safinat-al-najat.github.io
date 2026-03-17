@@ -6,4 +6,8 @@ In the verse given above Allah himself testifies that Aqa Muhammad ﷺ is the me
 
 And testimony of Allah is the greatest testimony in the world and hereafter.
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

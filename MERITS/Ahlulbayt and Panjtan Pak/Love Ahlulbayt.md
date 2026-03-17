@@ -7,4 +7,8 @@ This hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we 
 
 
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

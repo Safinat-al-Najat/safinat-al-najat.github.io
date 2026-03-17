@@ -1,1 +1,4 @@
-![[Praying with hands relaxed.jpeg]][[Pillar of Islam]][[PNGS/Salah]]
+![[Praying with hands relaxed.jpeg]]
+
+
+##### **Backlinks:**[[Pillar of Islam]][[PNGS/Salah]]

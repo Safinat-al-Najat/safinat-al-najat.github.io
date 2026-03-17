@@ -2,4 +2,8 @@
 
 [Mustadrak Al Hakim 4658](https://quranohadith.com/mustadrak/4658)
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

@@ -16,4 +16,6 @@
 
 Salman was also declared as one of the person of Ahlulbayt A.S.
 
-[[n Farsi]][[Aqa Muhammad ﷺ]][[Ahlulbayt of Aqa ﷺ]][[Mola Ali]][[Ahlulbayt and Panjtan Pak]]
+
+##### **Backlinks:**
+[[Salman Farsi]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Ahlulbayt and Panjtan Pak/Mubahala ﷺ]][[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]]

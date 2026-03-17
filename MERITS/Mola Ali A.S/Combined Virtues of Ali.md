@@ -9,4 +9,8 @@ Main points are:
 3. Ali was included in the family of Aqa Muhammad ﷺ along with Fatimah, Hassan and Hussain.
 
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

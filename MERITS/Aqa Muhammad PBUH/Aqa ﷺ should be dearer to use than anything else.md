@@ -5,4 +5,8 @@
 It means that if we have to sacrifice everything for Aqa Muhammad ﷺ and his teachings we should do it.
 
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

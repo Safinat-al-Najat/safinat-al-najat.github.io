@@ -3,4 +3,8 @@
 [Sahih Bukhari 6470](https://sunnah.com/bukhari:6470)
 
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

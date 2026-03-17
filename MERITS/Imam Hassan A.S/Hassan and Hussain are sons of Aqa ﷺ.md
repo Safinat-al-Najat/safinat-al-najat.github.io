@@ -10,4 +10,6 @@
 
 [Mustadrak Al Hakim 4770](https://al-hadees.com/mustadrak/4770)
 
-[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

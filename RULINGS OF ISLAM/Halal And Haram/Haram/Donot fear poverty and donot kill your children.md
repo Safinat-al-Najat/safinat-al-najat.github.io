@@ -1,1 +1,5 @@
-![[Donot fear poverty and donot kill your children.png]][[Haram]][[QURAN]]
+![[Donot fear poverty and donot kill your children.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

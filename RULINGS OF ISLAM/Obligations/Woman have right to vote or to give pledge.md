@@ -1,1 +1,5 @@
-![[Woman gave independed pledge to Aqa ﷺ.png]][[Obligations]][[For Males]][[QURAN]]
+![[Woman gave independed pledge to Aqa ﷺ.png]]
+
+
+##### **Backlinks:**
+[[Obligations]][[For Males]][[QURAN]]

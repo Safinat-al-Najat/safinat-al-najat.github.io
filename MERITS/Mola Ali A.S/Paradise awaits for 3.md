@@ -3,4 +3,8 @@
 [Mustadrak Al Hakim 4666](https://quranohadith.com/mustadrak/4666)
 
 
-[[Mola Ali]][[Salman Farsi]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Salman Farsi/Salman Farsi]]

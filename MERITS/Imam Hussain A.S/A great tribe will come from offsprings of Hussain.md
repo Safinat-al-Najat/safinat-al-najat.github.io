@@ -3,4 +3,6 @@
 [Jami at Tirmidhi 3775](https://sunnah.com/tirmidhi:3775)
 
 
-[[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

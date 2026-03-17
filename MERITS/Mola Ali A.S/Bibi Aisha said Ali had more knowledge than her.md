@@ -2,4 +2,8 @@
 
 [Sunan Ibn Majah 552](https://sunnah.com/ibnmajah:552)
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

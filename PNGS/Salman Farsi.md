@@ -1,1 +1,0 @@
-[[Merits|Merits]][[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]S/Mola Ali]]

@@ -9,5 +9,5 @@ According to the hadith given above, Whoever engages in a fight against these 5 
 
 
 
-
-[Ahlulbayt and Panjtan Pak]] [[Aqa Muhammad ﷺ]]
+##### **Backlinks:**
+[Ahlulbayt and Panjtan Pak]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

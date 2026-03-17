@@ -7,4 +7,6 @@ It doesn't only tells us that they both are the leaders, but it also tells us th
 
 [Jami at Tirmidhi 3768](https://sunnah.com/tirmidhi:3768)
 
-[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

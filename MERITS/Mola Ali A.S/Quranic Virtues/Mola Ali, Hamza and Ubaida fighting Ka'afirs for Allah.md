@@ -9,4 +9,10 @@ To understand it's connection read the hadith below:
 
 [Sunan Ibn Majah 2835](https://sunnah.com/ibnmajah:2835)
 
-[[Mola Ali]][[Quran]]
+
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[Quran]]

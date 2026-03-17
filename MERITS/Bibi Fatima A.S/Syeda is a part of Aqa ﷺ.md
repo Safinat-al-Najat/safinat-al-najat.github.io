@@ -4,4 +4,6 @@
 
 It has a connection to [[Allah gets angry on anger of Fatimah]].
 
-[[Bibi Fatima]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Bibi Fatima A.S/Bibi Fatima]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

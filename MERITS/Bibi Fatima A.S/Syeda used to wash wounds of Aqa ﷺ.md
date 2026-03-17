@@ -4,4 +4,6 @@
 
 It shows immense love of Syeda for her father. That even during battles how much care Syeda showed for Aqa Muhammad ﷺ.
 
-[[Bibi Fatima]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Bibi Fatima A.S/Bibi Fatima]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

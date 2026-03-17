@@ -1,1 +1,5 @@
-![[Indecency, wickedness and agression 16,90.png]][[Haram]][[QURAN]]
+![[Indecency, wickedness and agression 16,90.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

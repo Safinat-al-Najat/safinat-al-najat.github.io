@@ -6,4 +6,8 @@ Given Hadith tells the strong connection between Quran and Ahlulbayt that they w
 
 So, one can derive that following Ahlulbayt is actually following Quran.
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]][[QURAN]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[QURAN]]

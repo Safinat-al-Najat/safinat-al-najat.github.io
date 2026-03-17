@@ -5,4 +5,9 @@
 
 To make it easier to understand, in this hadith Malik bin Dinar asked Said Ibn Jubayr that who was flag bearer of Aqa Muhammad ﷺ in every battle and he reply: "Ali".
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

@@ -2,4 +2,8 @@
 
 [Jami at Tirmidhi 3090](https://sunnah.com/tirmidhi:3090)
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

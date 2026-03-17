@@ -1,2 +1,5 @@
 ![[3 takbirs.jpeg]]
-[[Pillars of Islam]][[PNGS/Salah]]
+
+
+##### **Backlinks:**
+[[Pillar of Islam]][[PNGS/Salah]]

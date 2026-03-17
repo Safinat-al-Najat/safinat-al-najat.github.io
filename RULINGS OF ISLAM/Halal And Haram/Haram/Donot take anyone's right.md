@@ -1,1 +1,5 @@
-![[Donot take anyone's right.png]][[Haram]][[QURAN]]
+![[Donot take anyone's right.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

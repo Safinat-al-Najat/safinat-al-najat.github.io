@@ -8,4 +8,8 @@
 
 One hadith is from Shia sources and one from sunni sources.
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]][[Salman Farsi]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Salman Farsi/Salman Farsi]]

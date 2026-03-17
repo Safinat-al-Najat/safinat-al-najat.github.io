@@ -1,1 +1,5 @@
-![[Killing of other human.png]][[Haram]][[QURAN]]
+![[Killing of other human.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

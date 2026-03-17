@@ -2,4 +2,6 @@
 
 [Jami at Tirmidhi 3878](https://sunnah.com/tirmidhi:3878)
 
-[[Bibi Fatima]] [[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Bibi Fatima A.S/Bibi Fatima]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

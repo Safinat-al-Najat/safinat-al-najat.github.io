@@ -2,4 +2,8 @@
 
 [Quran 73:1](https://quran.com/73/1)
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

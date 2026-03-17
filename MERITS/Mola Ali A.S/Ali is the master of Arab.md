@@ -3,4 +3,8 @@
 
 Mustadrak Al Hakim [4625](https://quranohadith.com/mustadrak/4626) & [4626](https://quranohadith.com/mustadrak/4626)
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

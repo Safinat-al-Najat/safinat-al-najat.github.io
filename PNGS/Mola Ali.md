@@ -1,1 +1,0 @@
-[[Bibi Fatima]][[Imam Hassan]][[Imam Hussain]][[Salman Farsi]][[QURAN]] Muhammad ﷺ]][[Merits]]

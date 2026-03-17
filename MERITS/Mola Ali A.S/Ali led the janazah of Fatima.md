@@ -2,4 +2,8 @@
 
 [Mustadrak Al Hakim 4764](https://quranohadith.com/mustadrak/4764)
 
-[[Mola Ali]] [[Bibi Fatima]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Bibi Fatima A.S/Bibi Fatima]]

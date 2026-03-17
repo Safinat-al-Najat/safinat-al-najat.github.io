@@ -2,4 +2,6 @@
 
 [Mustadrak Al Hakim 4666](https://quranohadith.com/mustadrak/4666)
 
-[[Salman Farsi]]
+
+##### **Backlinks:**
+[[MERITS/Salman Farsi/Salman Farsi]]

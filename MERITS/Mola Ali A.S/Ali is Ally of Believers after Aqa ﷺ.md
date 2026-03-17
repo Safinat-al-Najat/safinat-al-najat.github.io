@@ -6,4 +6,7 @@
 
 It can also be supported by [[Wilayah of Ali]].
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]]
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

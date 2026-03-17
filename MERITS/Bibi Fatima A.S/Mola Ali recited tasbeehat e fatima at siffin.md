@@ -5,4 +5,6 @@
 
 Hadith shows that how much the tasbeeh was loved by Mola Ali that even during the times of battle he never left these recitations.
 
-[[Bibi Fatima]][[Mola Ali]]
+
+##### **Backlinks:**
+[[MERITS/Bibi Fatima A.S/Bibi Fatima]][[MERITS/Mola Ali A.S/Mola Ali]]

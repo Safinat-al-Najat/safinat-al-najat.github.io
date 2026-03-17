@@ -1,1 +1,5 @@
-![[Black Magic is Haram.png]][[Haram]][[QURAN]]
+![[Black Magic is Haram.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

@@ -1,1 +1,5 @@
-![[Sud (Riba) 2,275.png]][[Haram]][[QURAN]]
+![[Sud (Riba) 2,275.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

@@ -1,1 +1,5 @@
-![[Dont walk on earth arrogantly.png]][[Haram]][[QURAN]]
+![[Dont walk on earth arrogantly.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

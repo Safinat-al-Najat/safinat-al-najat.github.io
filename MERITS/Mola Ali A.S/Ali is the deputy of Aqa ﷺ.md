@@ -2,4 +2,9 @@
 
 [Mustadrak Al Hakim 4655](https://quranohadith.com/mustadrak/4655)
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

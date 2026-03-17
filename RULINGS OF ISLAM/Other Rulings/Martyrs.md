@@ -5,3 +5,8 @@
 ![[Drowned person is also martyred.png]]
 
 ![[Person killed while defending his wealth is Shaheed.png]]
+
+
+
+##### **Backlinks:**
+[[Other Rulings]]

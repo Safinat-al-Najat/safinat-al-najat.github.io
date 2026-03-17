@@ -2,4 +2,8 @@
 
 [Quran 33:45-46](https://quran.com/33/45)
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

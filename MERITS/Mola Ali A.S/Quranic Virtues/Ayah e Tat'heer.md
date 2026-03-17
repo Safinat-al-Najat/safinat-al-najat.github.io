@@ -4,4 +4,10 @@
 
 To understand how it is connected with Ali, Fatima, Hassan and Hussain. You have to read [[Panjtan Pak (Ayat e Tatheer interpretation)]].
 
-[[Mola Ali]] [[Bibi Fatima]][[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]][[QURAN]]
+
+
+
+##### **Backlinks:**
+
+
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Bibi Fatima A.S/Bibi Fatima]][[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[QURAN]]

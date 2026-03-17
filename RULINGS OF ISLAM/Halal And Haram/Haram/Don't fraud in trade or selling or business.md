@@ -1,1 +1,5 @@
-![[Don't fraud in trade or selling or business.png]][[Haram]][[QURAN]]
+![[Don't fraud in trade or selling or business.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

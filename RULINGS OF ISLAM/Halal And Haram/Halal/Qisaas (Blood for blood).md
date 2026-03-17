@@ -1,1 +1,5 @@
-![[Qisaas (Blood for blood).png]][[Halal]][[QURAN]]
+![[Qisaas (Blood for blood).png]]
+
+
+##### **Backlinks:**
+[[Halal]][[QURAN]]

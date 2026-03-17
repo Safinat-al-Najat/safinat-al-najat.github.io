@@ -5,4 +5,9 @@
 ![[Panjtan Pak.jpeg]]
 
 [Mustadrak Al Hakim 4664](https://al-hadees.com/mustadrak/4664)
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

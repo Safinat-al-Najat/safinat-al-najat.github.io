@@ -3,4 +3,6 @@
 [Sunan Abi Dawud 5105](https://sunnah.com/abudawud:5105)
 
 
-[[Imam Hassan]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

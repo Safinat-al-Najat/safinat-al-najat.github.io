@@ -81,15 +81,5 @@ Believers, call to mind Allah's favour to you when enemy hosts invaded you. Then
 | [Quran                        (Surah Ahzab)](https://quran.com/33/9) | [Verse 9](https://quran.com/33/9) |
 
 
-
-
-
-
-
-
-
-
-
-
-
-[[Aqa Muhammad ﷺ]][[Mola Ali]][[Bibi Fatima]][[Salman Farsi]][[Huzaifa Al Yaman]][[The Battle of Trench (627 CE)]][[Major Historical Events]][[QURAN]][[Miracle of Aqa at Khandaq]]
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Bibi Fatima A.S/Bibi Fatima]][[MERITS/Salman Farsi/Salman Farsi]][[Huzaifa Al Yaman]][[The Battle of Trench (627 CE)]][[MAJOR HISTORICAL EVENTS/Major Historical Events]][[QURAN]][[Miracle of Aqa at Khandaq]]

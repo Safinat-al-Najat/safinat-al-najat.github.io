@@ -13,4 +13,9 @@ So, the Messenger of God ﷺ said regarding ʿAlī, “For whomsoever I am his
 ![[Man Kunto Maula with background.jpeg]]
 
 [Musnad Ahmad 950](https://sunnah.com/ahmad:950)
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

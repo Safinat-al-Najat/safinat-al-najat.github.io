@@ -7,4 +7,8 @@
 According to this hadith, anyone who opposes Ahlulbayt is considered as a part of Shaitan's group. So it indicates how big of a problem it is.
 
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

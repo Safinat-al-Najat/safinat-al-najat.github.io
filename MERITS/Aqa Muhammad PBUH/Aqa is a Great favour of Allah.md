@@ -7,4 +7,5 @@ In the verse above Allah tells us that by sending Aqa Muhammad ﷺ, Allah did a 
 
 
 
-[[Aqa Muhammad ﷺ]]
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

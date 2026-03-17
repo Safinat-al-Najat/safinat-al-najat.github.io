@@ -1,1 +1,5 @@
-![[Duty of wife.jpg]][[Obligations]][[For Females]]
+![[Duty of wife.jpg]]
+
+
+##### **Backlinks:**
+[[Obligations]][[For Females]]

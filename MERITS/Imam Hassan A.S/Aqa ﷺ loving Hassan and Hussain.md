@@ -4,4 +4,6 @@
 
 Also in [[Aqa ﷺ prayed to Allah to love Hassan and Hussain]].
 
-[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

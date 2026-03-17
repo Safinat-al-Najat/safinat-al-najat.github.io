@@ -4,4 +4,8 @@
 
 Ali is also the one who buried Bibi Fatima as written in [[Bibi was buried at night by Ali]].
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

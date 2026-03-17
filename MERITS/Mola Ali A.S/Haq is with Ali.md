@@ -6,4 +6,8 @@
 
 [Bihar Al Anwar Vol 38 Pg#36](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V38.pdf)
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

@@ -1,1 +1,5 @@
-![[Hating Ali.png]][[Haram]]
+![[Hating Ali.png]]
+
+
+##### **Backlinks:**
+[[Haram]]

@@ -1,1 +1,5 @@
-![[Hurting Bibi Pak.png]][[Haram]]
+![[Hurting Bibi Pak.png]]
+
+
+##### **Backlinks:**
+[[Haram]]

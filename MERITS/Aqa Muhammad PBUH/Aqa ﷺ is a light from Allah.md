@@ -2,4 +2,8 @@
 
 [Quran 5:15-16](https://quran.com/5/15)
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

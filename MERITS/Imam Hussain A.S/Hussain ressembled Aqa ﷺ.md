@@ -2,4 +2,6 @@
 
 [Sahih Bukhari 3748](https://sunnah.com/bukhari:3748)
 
-[[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

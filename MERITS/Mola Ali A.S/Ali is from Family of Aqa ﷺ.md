@@ -4,4 +4,9 @@
 
 This hadith also has connection with [[Aqa ﷺ asks nothing except for the love of his family]].
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

@@ -11,4 +11,9 @@ Below is the hadith that confirms it.
 It has been cross graded by Dhahabi who is very strict in ranking a hadith that explains the virtues of Ali.
 
 
-[[Mola Ali]][[QURAN]]
+
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[QURAN]]

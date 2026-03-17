@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "line:(1214)",
+      "query": "file:Merits",
       "color": {
         "a": 1,
         "rgb": 0
@@ -137,6 +137,6 @@
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.05034417736651756,
+  "scale": 0.07058167567046428,
   "close": true
 }

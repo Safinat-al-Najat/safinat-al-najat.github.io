@@ -6,4 +6,8 @@
 Above hadith means like the ark of Noah was a source of Nijaat for the people on it, Ahlulbayt A.S are also a source of Nijaat whoever clings to them is saved.
 
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

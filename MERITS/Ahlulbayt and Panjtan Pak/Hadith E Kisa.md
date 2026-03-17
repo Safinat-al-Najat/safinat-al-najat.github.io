@@ -19,7 +19,7 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 ![[image-11.png]]
 
-![[Hadith e Qisa.jpeg]]
+!.jpeg]]
 
 [Mustadrak Al Hakim 4705](https://quranohadith.com/mustadrak/4705)
 
@@ -31,4 +31,8 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 [Mustadrak Al Hakim 4706](https://quranohadith.com/mustadrak/4706)
 
-[[Aqa Muhammad ﷺ]][[Mola Ali]][[Bibi Fatima]] [[Imam Hassan]] [[Imam Hussain]] 
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Bibi Fatima A.S/Bibi Fatima]] [[MERITS/Imam Hassan A.S/Imam Hassan]] [[MERITS/Imam Hussain A.S/Imam Hussain]] 

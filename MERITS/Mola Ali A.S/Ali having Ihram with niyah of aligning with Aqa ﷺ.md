@@ -4,4 +4,7 @@
 
 This shows how much devotion Ali had for Aqa Muhammad ﷺ.
 
-[[Mola Ali]] [[Aqa Muhammad ﷺ]]
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]] [[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

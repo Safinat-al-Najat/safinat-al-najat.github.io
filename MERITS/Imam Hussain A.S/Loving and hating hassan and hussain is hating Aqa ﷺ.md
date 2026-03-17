@@ -2,4 +2,6 @@
 
 [Sunan Ibn Majah 143](https://sunnah.com/ibnmajah:143)
 
-[[Imam Hassan]][[Imam Hussain]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Imam Hussain A.S/Imam Hussain]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

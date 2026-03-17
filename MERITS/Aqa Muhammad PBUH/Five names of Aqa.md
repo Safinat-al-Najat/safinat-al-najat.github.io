@@ -2,4 +2,6 @@
 
 [Sahih Bukhari 3532](https://sunnah.com/bukhari:3532)
 
-[[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

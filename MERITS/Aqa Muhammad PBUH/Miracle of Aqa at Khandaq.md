@@ -7,4 +7,7 @@
 | ----------------- | -------------------------------------------------------- |
 | **Reference**     | [Sahih al-Bukhari 4102](https://sunnah.com/bukhari:4102) |
 | In-book reference | [Book 64, Hadith 146](https://sunnah.com/bukhari:4102)   |
-[[Aqa Muhammad ﷺ]]
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

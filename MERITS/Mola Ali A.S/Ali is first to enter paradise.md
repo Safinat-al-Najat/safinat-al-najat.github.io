@@ -5,4 +5,8 @@
 There is difference of opinion on this hadith.
 
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

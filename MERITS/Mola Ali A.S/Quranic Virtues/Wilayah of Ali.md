@@ -9,4 +9,8 @@ Although, there is difference in opinion in translation of this verse but yet so
 
  [Al-Durr al-Manthur by Al Suyuti Vol 2 Pg: 804](https://archive.org/details/TafseerDurEMansoor6_201904/Tafseer%20Dur-e-Mansoor%202/page/804/mode/1up)
 
-[[Mola Ali]][[Quran]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[Quran]]

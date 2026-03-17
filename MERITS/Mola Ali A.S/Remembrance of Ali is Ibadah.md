@@ -14,4 +14,8 @@ As mentioned in the hadith below:
 
 If the dhikr of Ali or any other righteous person brings you closer to Allah then it is an act of worship.
 
-[[Mola Ali]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]]

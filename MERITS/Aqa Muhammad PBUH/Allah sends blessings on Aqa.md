@@ -4,4 +4,8 @@
 
 In the above it tells the significance of sending durood to Aqa Muhammad ﷺ, that how Allah himself blesses the Aqa Muhammad ﷺ.
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

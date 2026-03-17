@@ -3,4 +3,8 @@
 [Quran 53:2-4](https://quran.com/53/2)
 
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

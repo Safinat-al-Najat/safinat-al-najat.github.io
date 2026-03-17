@@ -2,4 +2,6 @@
 
 [Sahih Bukhari 3752](https://sunnah.com/bukhari:3752)
 
-[[Imam Hassan]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

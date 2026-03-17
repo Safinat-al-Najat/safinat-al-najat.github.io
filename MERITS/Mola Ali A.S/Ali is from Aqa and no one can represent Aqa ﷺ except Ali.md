@@ -3,4 +3,7 @@
 [Sunan Ibn Majah 119](https://sunnah.com/ibnmajah:119)
 
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

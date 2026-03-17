@@ -1,3 +1,7 @@
 ![[3,25.png]]
 
-![[22,7.png]][[Primary Imaan]][[Quran]]
+![[22,7.png]]
+
+
+##### **Backlinks:**
+[[Primary Imaan]][[Quran]]

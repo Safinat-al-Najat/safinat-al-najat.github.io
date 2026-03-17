@@ -2,4 +2,6 @@
 
 [Mustadrak Al Hakim 4794](https://al-hadees.com/mustadrak/4794)
 
-[[Imam Hassan]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Imam Hassan A.S/Imam Hassan]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

@@ -8,4 +8,8 @@ If we consider the hadith given above it tells us the significance of Ahlulbayt.
 It seems like their love and hatred is the division of Jannah and Jahanum.
 
 
-[[Ahlulbayt and Panjtan Pak]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

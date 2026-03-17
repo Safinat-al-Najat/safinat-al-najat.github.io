@@ -8,4 +8,6 @@
 
 One hadith is from Shia sources and one from sunni sources.
 
-[[Salman Farsi]]
+
+##### **Backlinks:**
+[[MERITS/Salman Farsi/Salman Farsi]]

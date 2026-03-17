@@ -3,4 +3,6 @@
 [Sahih Bukhari 5884](https://sunnah.com/bukhari:5884)
 
 
-[[Hassan]][[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[Imam Hassan]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

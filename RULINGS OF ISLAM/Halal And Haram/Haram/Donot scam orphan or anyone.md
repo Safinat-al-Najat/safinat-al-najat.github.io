@@ -1,1 +1,5 @@
-![[Donot scam orphan.png]][[Haram]][[QURAN]]
+![[Donot scam orphan.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

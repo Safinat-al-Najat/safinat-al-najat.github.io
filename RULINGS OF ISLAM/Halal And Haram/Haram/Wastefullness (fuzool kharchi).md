@@ -1,1 +1,5 @@
-![[Wastefullness (fuzool kharchi).png]][[Haram]][[QURAN]]
+![[Wastefullness (fuzool kharchi).png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

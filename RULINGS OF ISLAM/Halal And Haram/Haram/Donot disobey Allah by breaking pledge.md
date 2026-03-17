@@ -1,1 +1,5 @@
-![[Donot disobey Allah by breaking pledge 16,91.png]][[Haram]][[QURAN]]
+![[Donot disobey Allah by breaking pledge 16,91.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

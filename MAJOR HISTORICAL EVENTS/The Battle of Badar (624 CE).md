@@ -46,10 +46,5 @@ The above mentioned is a historical refrence.
 
 
 
-
-
-
-
-
-
-[[Aqa Muhammad ﷺ]][[Mola Ali]][[Hamza]][[Ubaidah]][[The Battle of Badar (624 CE)]][[ Historical Events]][[Quran[[Abu Bakar]][[Salman Farsi]]
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[MERITS/Mola Ali A.S/Mola Ali]][[The Battle of Badar (624 CE)]][[Major Historical Events]][[Quran]][[MERITS/Salman Farsi/Salman Farsi]]

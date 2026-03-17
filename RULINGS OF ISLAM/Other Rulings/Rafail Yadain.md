@@ -1,1 +1,6 @@
-![[Rafail Yadain.pdf]][[Other Rulings]]
+![[Rafail Yadain.pdf]]
+
+
+
+##### **Backlinks:**
+[[Other Rulings]]

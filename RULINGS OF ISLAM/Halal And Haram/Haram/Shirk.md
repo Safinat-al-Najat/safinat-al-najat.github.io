@@ -1,1 +1,5 @@
-![[Shirk 4,48.png]][[Haram]][[QURAN]]
+![[Shirk 4,48.png]]
+
+
+##### **Backlinks:**
+[[Haram]][[QURAN]]

@@ -9,4 +9,8 @@
 
 Ali loved this name so much that he told people to call him Abu Turab instead of Abul Hassan.
 
-[[Mola Ali]][[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Mola Ali A.S/Mola Ali]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

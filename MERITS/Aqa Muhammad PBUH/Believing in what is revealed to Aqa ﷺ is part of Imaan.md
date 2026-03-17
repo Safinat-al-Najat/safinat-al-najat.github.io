@@ -2,4 +2,6 @@
 
 [Quran 47:2](https://quran.com/47/2)
 
-[[Aqa Muhammad ﷺ]]
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

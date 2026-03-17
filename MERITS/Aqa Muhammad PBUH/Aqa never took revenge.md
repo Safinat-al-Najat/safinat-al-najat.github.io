@@ -4,4 +4,8 @@
 
 This hadith tells us about how great were the morals of Aqa Muhammad ﷺ. As Allah has said in the Quran [[Best example to follow]]
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

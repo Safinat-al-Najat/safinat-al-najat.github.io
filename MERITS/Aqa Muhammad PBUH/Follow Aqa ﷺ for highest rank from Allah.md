@@ -2,4 +2,8 @@
 
 [Quran 4:69](https://quran.com/4/69)
 
-[[Aqa Muhammad ﷺ]]
+
+
+
+##### **Backlinks:**
+[[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

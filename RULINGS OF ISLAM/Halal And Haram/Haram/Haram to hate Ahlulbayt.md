@@ -1,1 +1,5 @@
-![[Haram to hate Ahlulbayt.jpeg]][[Haram]]
+![[Haram to hate Ahlulbayt.jpeg]]
+
+
+##### **Backlinks:**
+[[Haram]]
