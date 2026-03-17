@@ -47,4 +47,4 @@ The above mentioned is a historical refrence.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[ISLAMIC EVENTS/The Battle of Badar (624 CE)]][[ISLAMIC EVENTS/Major Historical Events]][[Quran]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[EVENTS/The Battle of Badar (624 CE)]][[EVENTS/Major Historical Events]][[Quran]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
