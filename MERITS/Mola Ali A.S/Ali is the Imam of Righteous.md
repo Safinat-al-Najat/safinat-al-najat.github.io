@@ -1,3 +1,6 @@
+---
+weight: 18
+---
 ![[Ali is the Imam of Righteous.jpeg]]
 
 

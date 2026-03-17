@@ -1,3 +1,6 @@
+---
+weight: 45
+---
 ![[Hadith of Bird.png]]
 
 [Jami at Tirmidhi 3721](https://sunnah.com/tirmidhi:3721)

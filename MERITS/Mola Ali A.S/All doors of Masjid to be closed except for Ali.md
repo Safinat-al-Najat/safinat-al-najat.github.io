@@ -1,3 +1,6 @@
+---
+weight: 33
+---
 ![[All doors of Masjid to be closed except for Ali.jpeg]]
 
 [Mustadrak Al Hakim 4631](https://quranohadith.com/mustadrak/4631)

@@ -1,3 +1,6 @@
+---
+weight: 14
+---
 ![[Family of Aqa ﷺ.png]]
 
 [Jami at Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)

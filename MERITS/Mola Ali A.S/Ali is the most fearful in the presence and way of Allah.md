@@ -1,3 +1,6 @@
+---
+weight: 21
+---
 ![[Taqwa of Ali.jpeg]]
 
 [Mustadrak Al Hakim 4691](https://quranohadith.com/mustadrak/4691)

@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ![[Aqa ﷺ says Ali is Ally of Believers after him.png]]
 
 

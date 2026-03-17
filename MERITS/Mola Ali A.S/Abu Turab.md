@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 ![[Abu Turab.png]]
 
 [Sahih Bukhari 3703](https://sunnah.com/bukhari:3703)

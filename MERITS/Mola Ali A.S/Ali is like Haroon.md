@@ -1,3 +1,6 @@
+---
+weight: 15
+---
 ![[Ali is like Haroon.png]]
 
 [Sahih Bukhari 4416](https://sunnah.com/bukhari:4416)

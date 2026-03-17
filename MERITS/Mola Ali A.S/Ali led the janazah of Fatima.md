@@ -1,3 +1,6 @@
+---
+weight: 24
+---
 ![[Ali led the janazah of Fatima.jpeg]]
 
 [Mustadrak Al Hakim 4764](https://quranohadith.com/mustadrak/4764)
