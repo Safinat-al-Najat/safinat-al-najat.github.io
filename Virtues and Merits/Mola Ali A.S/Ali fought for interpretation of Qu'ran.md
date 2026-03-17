@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 3
 ---
 ![[Ali fought for interpretation of Qu'ran.jpg|438|438x496]]
 
