@@ -16,15 +16,34 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 "Hold firmly to the rope of Allah all together and do not become divided." — Surah Al-Imran 3:103
 
 ## [📁 ISLAMIC EVENTS](ISLAMIC%20EVENTS)
-Major Events in Islamic History
+Folder from repository
 
 ## [📁 Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
 ## [📁 Virtues and Merits](Virtues%20and%20Merits)
-Virtues of AhlulBayt and companions
+Folder from repository
 
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
 
----
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+### For any queries:
+📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 8
 ---
 ![[Ali having Ihram with niyah of aligning with Aqa ﷺ.png]]
 

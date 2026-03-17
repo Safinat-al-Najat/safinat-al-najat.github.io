@@ -1,5 +1,5 @@
 ---
-weight: 52
+weight: 53
 ---
 ![[Numerous Virtues of Ali.jpeg]]
 

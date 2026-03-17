@@ -1,5 +1,5 @@
 ---
-weight: 36
+weight: 37
 ---
 ![[Blood under stones after death of Mola Ali.jpeg]]
 

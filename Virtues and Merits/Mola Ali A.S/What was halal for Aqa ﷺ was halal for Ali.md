@@ -1,5 +1,5 @@
 ---
-weight: 59
+weight: 60
 ---
 ![[What was halal for Aqa ﷺ was halal for Ali.jpeg]]
 
