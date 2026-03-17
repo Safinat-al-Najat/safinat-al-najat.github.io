@@ -2,4 +2,4 @@
 
 
 ##### **Backlinks:**
-[[Primary Imaan]][[QURAN]][[MERITS/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Primary Imaan]][[QURAN]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

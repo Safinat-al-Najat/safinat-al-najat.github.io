@@ -1,0 +1,1 @@
+[[Virtues and Merits/Merits|Merits]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]S/Mola Ali]]

@@ -1,0 +1,13 @@
+---
+weight: 23
+---
+![[Ali is with Quran and Quran is with Ali forever.jpeg]]
+
+
+[Mustadrak Al Hakim 4628](https://quranohadith.com/mustadrak/4628)
+
+
+
+
+##### **Backlinks:**
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
