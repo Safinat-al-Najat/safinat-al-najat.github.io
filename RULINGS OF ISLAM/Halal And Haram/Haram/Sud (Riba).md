@@ -2,4 +2,4 @@
 
 
 ##### **Backlinks:**
-[[Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]

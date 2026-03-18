@@ -16,4 +16,4 @@
 
 
 ##### **Backlinks:**
-[[Pillar of Islam]][[Quran]]
+[[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[Quran]]

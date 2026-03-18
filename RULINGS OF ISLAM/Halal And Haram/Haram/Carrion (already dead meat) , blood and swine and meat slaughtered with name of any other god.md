@@ -1,5 +1,0 @@
-![[Carrion (already dead meat) , blood and swine and meat slaughtered with name of any other god 2,173.png]]
-
-
-##### **Backlinks:**
-[[Haram]][[QURAN]]

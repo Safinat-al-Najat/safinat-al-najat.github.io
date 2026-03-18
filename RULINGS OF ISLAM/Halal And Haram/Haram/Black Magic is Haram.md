@@ -1,5 +1,7 @@
 ![[Black Magic is Haram.png]]
 
+[Quran 2:102](https://quran.com/2/102)
 
+From the above Quranic Verse it means teaching and learning black magic is haram.
 ##### **Backlinks:**
-[[Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]

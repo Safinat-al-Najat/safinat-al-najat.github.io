@@ -3,10 +3,17 @@ weight: 13
 ---
 ![[Love Ahlulbayt.jpeg]]
 
-
 [Mustadrak Al Hakim 4716](https://quranohadith.com/mustadrak/4716)
 
-This hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we love him and Allah.
+![[image-25.png]]
+
+[Bihar Al Anwaar Vol 27 Pg 87](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
+
+![[image-24.png]]
+
+[Bihar Al Anwaar Vol 27 Pg 88](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
+
+The hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we love him and Allah.
 
 
 
