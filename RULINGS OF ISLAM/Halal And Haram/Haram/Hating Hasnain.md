@@ -1,3 +1,6 @@
+---
+weight: 13
+---
 ![[Haram to hate Hassan and Hussain.png]]
 
 [Sunan Ibn Majah 143](https://sunnah.com/ibnmajah:143)

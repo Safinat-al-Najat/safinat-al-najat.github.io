@@ -1,3 +1,6 @@
+---
+weight: 10
+---
 ![[Carrion (already dead meat) , blood and swine and meat slaughtered with name of any other god 2,173.png]]
 
 [Quran 2:173](https://quran.com/2/173)

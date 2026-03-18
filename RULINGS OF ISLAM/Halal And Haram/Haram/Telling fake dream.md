@@ -1,3 +1,6 @@
+---
+weight: 25
+---
 ![[To tell a fake dream.png]]
 
 [Musnad Ahmad 1088](https://sunnah.com/ahmad:1088)

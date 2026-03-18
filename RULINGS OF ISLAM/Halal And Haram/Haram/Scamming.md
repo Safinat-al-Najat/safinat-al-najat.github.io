@@ -1,3 +1,6 @@
+---
+weight: 20
+---
 ![[Donot scam orphan.png]]
 
 [Quran 17:34](https://quran.com/17/34)

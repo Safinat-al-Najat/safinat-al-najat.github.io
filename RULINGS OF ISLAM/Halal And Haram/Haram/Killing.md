@@ -1,3 +1,6 @@
+---
+weight: 18
+---
 ![[Killing of other human.png]]
 
 [Quran 17:33](https://quran.com/17/33)

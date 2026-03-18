@@ -1,3 +1,6 @@
+---
+weight: 24
+---
 ![[Donot suspect, spy or backbite.png]]
 [Quran 49:12](https://quran.com/49/12)
 

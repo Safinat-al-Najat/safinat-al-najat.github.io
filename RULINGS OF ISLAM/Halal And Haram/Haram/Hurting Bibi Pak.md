@@ -1,3 +1,6 @@
+---
+weight: 15
+---
 ![[Hurting Bibi Pak.png]]
 
 [Sahih Bukhari 3767](https://sunnah.com/bukhari:3767)

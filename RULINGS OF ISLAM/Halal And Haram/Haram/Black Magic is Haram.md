@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 ![[Black Magic is Haram.png]]
 
 [Quran 2:102](https://quran.com/2/102)

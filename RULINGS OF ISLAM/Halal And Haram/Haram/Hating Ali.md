@@ -1,3 +1,6 @@
+---
+weight: 12
+---
 ![[Hating Ali.png]]
 
 [Sahih Muslim 78](https://sunnah.com/muslim:78)

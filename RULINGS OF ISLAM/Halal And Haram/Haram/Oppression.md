@@ -1,3 +1,6 @@
+---
+weight: 19
+---
 
 ![[Oppression 3,57.png]]
 
