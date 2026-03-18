@@ -25,15 +25,6 @@ Major Islamic Events
 ## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
 Fiqh, obligations & Islamic law
 
-## [📁 ISLAMIC EVENTS](ISLAMIC%20EVENTS)
-Major Islamic Events
-
-## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
-Fiqh, obligations & Islamic law
-
-## [⚖️ Rulings](RULINGS%20OF%20ISLAM)
-Fiqh, obligations & Islamic law
-
 ---
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
