@@ -5,6 +5,7 @@ Above hadith tells about the Leather socks. Which are also called Khuff or Khuff
 ![[image-16.png]]
 
 Above tells about simple socks not too thin but also thick that water doesn't enters inside. It's ok if you feel a little cold after wiping over socks but water shouldn't enter.
+The reason behind water not entering is that it should act as a part of your skin. It must act a as a substitute for your skin.
 
 It is to be noted that to perform this act you must have worn the socks after Wudu and then if wudu breaks while wearing socks you can wipe over it.
 

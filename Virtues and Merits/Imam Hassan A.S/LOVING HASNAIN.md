@@ -1,6 +1,8 @@
-![[Hassan and Hussain on back of Aqa ﷺ during Sujood 1.jpeg]]
+![[Aqa ﷺ loving Hassan and Hussain.jpeg|420]]
 
-[Mustadrak Al Hakim 4775](https://al-hadees.com/mustadrak/4775)
+[Mustadrak Al Hakim 4791](https://al-hadees.com/mustadrak/4791)
+
+Also in [[Virtues and Merits/Imam Hassan A.S/DUA FOR HASNAIN]].
 
 
 ##### **Backlinks:**

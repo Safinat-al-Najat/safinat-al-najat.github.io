@@ -11,7 +11,7 @@ His importance is absolute for three key reasons:
     
 2. **The Perfect Example (The Sunnah):** His entire way of life—his actions, sayings, and habits—is known as the **Sunnah**. For Muslims, he is the living embodiment of the Quran's teachings and the perfect model to follow in all aspects of life, from prayer and charity to kindness and business dealings.
     
-3. **The Beloved Prophet:** More than just a teacher, he is deeply loved and revered by Muslims as the [[Virtues and Merits/Aqa Muhammad PBUH/Seal of Prophets]] the one who delivered God's final message to humanity.
+3. **The Beloved Prophet:** More than just a teacher, he is deeply loved and revered by Muslims as the [[Virtues and Merits/Aqa Muhammad PBUH/SEAL OF PROPHETS]] the one who delivered God's final message to humanity.
 
 
 

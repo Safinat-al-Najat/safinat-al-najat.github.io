@@ -12,7 +12,7 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 [Al Kafi Book 4 Ch 64 H#1 Paragraph# 4 ](https://thaqalayn.net/hadith/1/4/64/1)
 
-![[image-12.png]]
+![[image-12.png|440]]
 
 [Bihar Al Anwar Vol 35 Pg# 206](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V35.pdf)
 
@@ -26,11 +26,11 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 [Mustadrak Al Hakim 4705](https://quranohadith.com/mustadrak/4705)
 
-![[Hadith e Qisa 2.jpeg]]
+![[Hadith e Qisa 2.jpeg|452]]
 
 [Mustadrak Al Hakim 4709](https://quranohadith.com/mustadrak/4709)
 
-![[Hadith e Qisa 3.jpeg]]
+![[Hadith e Qisa 3.jpeg|456]]
 
 [Mustadrak Al Hakim 4706](https://quranohadith.com/mustadrak/4706)
 

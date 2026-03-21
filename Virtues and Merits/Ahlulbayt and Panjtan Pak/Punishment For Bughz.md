@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[Punishment for hatred of Ahlulbayt.jpeg]]
+![[Punishment for hatred of Ahlulbayt.jpeg|533]]
 
 
 [Mustadrak Al Hakim 4717](https://quranohadith.com/mustadrak/4717)

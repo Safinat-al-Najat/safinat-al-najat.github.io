@@ -2,7 +2,7 @@
 
 [Bukhari 3767](https://sunnah.com/bukhari:3767)
 
-It has a connection to [[Virtues and Merits/Bibi Fatima A.S/Allah gets angry on anger of Fatimah]].
+It has a connection to [[Virtues and Merits/Bibi Fatima A.S/ANGER OF FATIMAH]].
 
 
 ##### **Backlinks:**

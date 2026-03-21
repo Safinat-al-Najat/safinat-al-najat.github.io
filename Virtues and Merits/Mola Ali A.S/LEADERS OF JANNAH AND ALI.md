@@ -5,7 +5,7 @@ weight: 7
 
 [Sunan Ibn Majah 118](https://ibnmajah:118)
 
-As mentioned in [[Virtues and Merits/Imam Hassan A.S/Leaders of paradise]].
+As mentioned in [[Virtues and Merits/Imam Hassan A.S/LEADERS OF JANNAH]].
 
 
 

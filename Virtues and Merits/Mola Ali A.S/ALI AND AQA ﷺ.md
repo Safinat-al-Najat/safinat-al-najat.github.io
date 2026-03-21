@@ -7,6 +7,9 @@ weight: 8
 
 This shows how much devotion Ali had for Aqa Muhammad ﷺ.
 
+![[What was halal for Aqa ﷺ was halal for Ali.jpeg|524|450x360]]
+
+[Mustadrak Al Hakim 4632](https://quranohadith.com/mustadrak/4632)
 
 
 ##### **Backlinks:**

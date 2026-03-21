@@ -1,11 +1,11 @@
 ---
 weight: 13
 ---
-![[Love Ahlulbayt.jpeg]]
+![[Love Ahlulbayt.jpeg|494]]
 
 [Mustadrak Al Hakim 4716](https://quranohadith.com/mustadrak/4716)
 
-![[image-25.png]]
+![[image-25.png|499]]
 
 [Bihar Al Anwaar Vol 27 Pg 87](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
 

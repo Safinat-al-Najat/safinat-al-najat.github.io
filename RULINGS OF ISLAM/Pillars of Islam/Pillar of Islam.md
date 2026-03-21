@@ -12,4 +12,4 @@ These are the most fundamental obligations in Islam:
 
 **Hajj** — pilgrimage to Makkah, obligatory once in a lifetime for those physically and financially capable.
 
-[[RULINGS OF ISLAM/RULINGS]]
+[[PNGS/RULINGS]]

@@ -25,5 +25,12 @@
 ![[image-43.png]]
 
 [Sunan Nasai 602](https://sunnah.com/nasai:602)
+
+![[image-53.png]]
+
+[Al Kafi Book 3 Vol 4 Ch 9](https://thaqalayn.net/chapter/3/4/9)
+
+
+
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[RULINGS OF ISLAM/Pillars of Islam/Salah/Salah]]

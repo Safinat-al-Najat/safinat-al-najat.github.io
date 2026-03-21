@@ -1,11 +1,11 @@
 ---
 weight: 8
 ---
-![[Aqa ﷺ used to do Dum on Hassan and Hussain 2.jpeg]]
+![[Aqa ﷺ used to do Dum on Hassan and Hussain 2.jpeg|485]]
 
 [Sahih Bukhari 3371](https://sunnah.com/bukhari:3371) 
 
-![[Aqa ﷺ used to do Dum on Hassan and Hussain.jpeg]]
+![[Aqa ﷺ used to do Dum on Hassan and Hussain.jpeg|483]]
 
 [Mustadrak Al Hakim 4781](https://al-hadees.com/mustadrak/4781)
 
