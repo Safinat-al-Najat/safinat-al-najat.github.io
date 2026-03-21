@@ -14,3 +14,4 @@ Key meanings:
 - **Fulfillment of Promises:** Events like the **splitting of the moon** or the victory after hardship are seen as proofs of prophethood and God's support for believers.
     
 - **Moral Guidance:** The stories of prophets and past communities teach what to emulate and what to avoid.
+- testing
