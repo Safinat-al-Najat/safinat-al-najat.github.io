@@ -10,4 +10,8 @@
 
 [Jami at Tirmidhi 1075](https://sunnah.com/tirmidhi:1075)
 
+![[image-41.png]]
+
+[Sahih Muslim 710b](https://sunnah.com/muslim:710b)
+
 [[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]]
