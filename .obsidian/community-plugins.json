@@ -1,10 +1,8 @@
 [
   "obsidian-style-settings",
-  "ai-image-analyzer",
   "obsidian-git",
   "global-search-and-replace",
   "image-converter",
   "obsidian-version-history-diff",
-  "omnisearch",
-  "text-extractor"
+  "omnisearch"
 ]

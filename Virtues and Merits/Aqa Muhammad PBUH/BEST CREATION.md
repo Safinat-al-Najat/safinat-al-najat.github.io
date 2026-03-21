@@ -4,6 +4,7 @@ weight: 2
 
 ![[PNGS/Aqa Muhammad PBUH/3.png]]
 
+**When mentioning the Messenger of Allah ﷺ he said, “Amir al-Mu’minin Ali has said, “Allah has not created any creature better than Muhammad ﷺ.”**
 
 [Al Kafi Book 4 Ch 111 H#2](https://thaqalayn.net/hadith/1/4/111/2)
 
