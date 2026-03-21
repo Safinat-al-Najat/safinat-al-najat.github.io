@@ -18,11 +18,11 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 ---
 
-<style> .btn { display: inline-block; padding: 12px 20px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { background: #f0f0f0; border-color: #999; } </style>
+<style> .btn { display: inline-block; padding: 12px 20px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
 <a href="/Virtues%20and%20Merits" class="btn">📁 Virtues and Merits<br><small>Virtues of ahlulbayt and companions</small></a>
 
-<a href="/ISLAMIC%20EVENTS " class="btn">📁 ISLAMIC EVENTS<br><small>Major Islamic Events</small></a>
+<a href="/ISLAMIC%20EVENTS" class="btn">📁 ISLAMIC EVENTS<br><small>Major Islamic Events</small></a>
 
 <a href="/RULINGS%20OF%20ISLAM" class="btn">⚖️ Rulings<br><small>Fiqh, obligations & Islamic law</small></a>
 
