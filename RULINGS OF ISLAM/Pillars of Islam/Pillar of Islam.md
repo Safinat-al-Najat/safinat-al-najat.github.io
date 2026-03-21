@@ -1,3 +1,6 @@
+---
+weight: 6
+---
 ## The Five Pillars — Core Obligations
 
 These are the most fundamental obligations in Islam:
