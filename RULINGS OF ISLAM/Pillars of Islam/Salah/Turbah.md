@@ -38,6 +38,11 @@ In Majmoo Al Fatawa by Ibn Taymiyyah he supports placing turbah or dirt or stone
 
 The prayer mat that is allowed to be used is called Khumrah that is specifically made of Date-Palm leaves.
 
-But if the place of worship is dirty then you can use simple mat too but it is better to place turbah on it. So that it will maintain your status of following the sunnah.
+But if the place of worship is dirty then you can use simple mat too but it is better to place turbah on it. So that it will maintain your status of following the sunnah. As said by Imam:
+
+![[image-56.png]]
+
+[Al Kafi Vol 3 Book 4 Ch 27 H#5](https://thaqalayn.net/hadith/3/4/27/5)
+
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[RULINGS OF ISLAM/Pillars of Islam/Salah/Salah]]
