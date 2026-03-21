@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 
 
 ![[PNGS/pngs 3/Pasted image 20260308140500.png]]

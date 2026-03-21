@@ -1,3 +1,6 @@
+---
+weight: 6
+---
 
 ## Primary Imaan (Faith) in Islam
 

@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 [[RULINGS OF ISLAM/Other Teachings/Other Teachings]]
 
 ![[PNGS/pngs/63.png]]
