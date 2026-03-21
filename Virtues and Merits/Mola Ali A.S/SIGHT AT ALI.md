@@ -13,4 +13,6 @@ Supporting hadith:
 
 [Sunan Ibn Majah 4119](https://sunnah.com/ibnmajah:4119)
 
-So if sight of any pious person makes us close to Allah then it 
+So if sight of any pious person makes us close to Allah then it is Ibadah indeed.
+##### **Backlinks:**
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]]

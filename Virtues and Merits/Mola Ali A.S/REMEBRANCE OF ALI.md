@@ -17,7 +17,7 @@ As mentioned in the hadith below:
 
 If the dhikr of Ali or any other righteous person brings you closer to Allah then it is an act of worship.
 
-
+So, it can be said that Remembrance of Ali is Ibadah or Dhikr of Ali is Ibadah.
 
 
 ##### **Backlinks:**

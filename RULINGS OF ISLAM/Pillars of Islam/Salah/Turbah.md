@@ -1,3 +1,6 @@
+
+Turbah is also known as Sajda Gah.
+
 ![[PNGS/pngs 3/28.png]]
 
 [Sahih Bukhari 381](https://sunnah.com/bukhari:381)

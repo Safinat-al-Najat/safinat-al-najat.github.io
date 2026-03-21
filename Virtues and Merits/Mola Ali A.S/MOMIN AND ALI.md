@@ -9,8 +9,6 @@ weight: 52
 
 [Sahih Muslim 78](https://sunnah.com/muslim:78)
 
-
-
-
+Momin loves Ali and Munafiq hates Ali.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

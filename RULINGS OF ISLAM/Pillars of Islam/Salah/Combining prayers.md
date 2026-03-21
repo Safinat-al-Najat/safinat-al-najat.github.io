@@ -30,7 +30,7 @@
 
 [Al Kafi Book 3 Vol 4 Ch 9](https://thaqalayn.net/chapter/3/4/9)
 
-
+So, there is no problem in combining prayer without any reason.
 
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[RULINGS OF ISLAM/Pillars of Islam/Salah/Salah]]

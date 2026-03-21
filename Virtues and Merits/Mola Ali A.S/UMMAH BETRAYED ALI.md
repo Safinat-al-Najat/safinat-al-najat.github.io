@@ -9,8 +9,6 @@ weight: 59
 
 [Mustadrak Al Hakim 4686](https://quranohadith.com/mustadrak/4686)
 
-
-
-
+Aqa Muhammad ﷺ said that Ummah will betray Ali after him.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]]
