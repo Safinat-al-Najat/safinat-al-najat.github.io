@@ -16,7 +16,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 "Hold firmly to the rope of Allah all together and do not become divided." — [Surah Al-Imran 3:103](https://quran.com/3/103)
 
-<!DOCTYPE html>
+---
 ## [📁 ISLAMIC EVENTS](ISLAMIC%20EVENTS)
 Major Events in Islamic History
 
