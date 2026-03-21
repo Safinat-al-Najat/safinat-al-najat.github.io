@@ -13,3 +13,10 @@ It can be explained by the following hadith:
 [Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 
 For women Aqa Muhammad ﷺ took Fatima with him. For sons, Aqa Muhammad ﷺ took Hassan and Hussain and for Nafs of Aqa Muhammad ﷺ he called Ali.
+
+
+
+##### **Backlinks:**
+
+
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[QURAN]]
