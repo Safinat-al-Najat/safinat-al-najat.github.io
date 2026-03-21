@@ -1,4 +1,4 @@
-![[Family of Aqa ﷺ 2.png]]
+![[PNGS/pngs/86.png]]
 
 
 [Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)

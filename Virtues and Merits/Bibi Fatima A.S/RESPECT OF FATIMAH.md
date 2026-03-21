@@ -1,14 +1,14 @@
 ---
 weight: 3
 ---
-![[Aqa ﷺ treated Syeda with respect.png]]
+![[PNGS/pngs/51.png]]
 
 [Al Adab Al Mufrad 971](https://sunnah.com/adab:971)
 
 Hadith shows that how much our Aqa Muhammad ﷺ used to care for his beloved daughter.
 
 
-![[Tazeem e Fatima 1.jpeg]]
+![[PNGS/pngs 3/41.jpeg]]
 
 [Mustadrak Al Hakim 4753](https://al-hadees.com/mustadrak/4753)
 

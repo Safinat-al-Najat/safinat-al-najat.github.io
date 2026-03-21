@@ -1,7 +1,7 @@
 ---
 weight: 27
 ---
-![[Wastefullness (fuzool kharchi).png]]
+![[PNGS/pngs 3/60.png]]
 
 [Quran 17:27](https://quran.com/17/27)
 ##### **Backlinks:**

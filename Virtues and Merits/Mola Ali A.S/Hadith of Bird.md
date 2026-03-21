@@ -1,10 +1,10 @@
 ---
 weight: 44
 ---
-![[Hadith of Bird.png]]
+![[PNGS/pngs 2/10.png]]
 
 [Jami at Tirmidhi 3721](https://sunnah.com/tirmidhi:3721)
-![[Hadith of Bird.jpeg]]
+![[PNGS/pngs 2/9.jpeg]]
 
 [Mustadrak Al Hakim 4651](https://quranohadith.com/mustadrak/4651)
 

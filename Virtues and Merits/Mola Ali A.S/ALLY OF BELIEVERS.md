@@ -1,7 +1,7 @@
 ---
 weight: 11
 ---
-![[Aqa ﷺ says Ali is Ally of Believers after him.png]]
+![[PNGS/pngs/50.png]]
 
 
 [Jami at Tirmidhi 3712](https://sunnah.com/tirmidhi:3712)

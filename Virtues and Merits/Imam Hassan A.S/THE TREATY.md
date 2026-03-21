@@ -1,7 +1,7 @@
 ---
 weight: 10
 ---
-![[Accepting the treaty of Muawiya.png]]
+![[PNGS/pngs/18.png]]
 
 
 [Sahih Bukhari 2704](https://sunnah.com/bukhari:2704)

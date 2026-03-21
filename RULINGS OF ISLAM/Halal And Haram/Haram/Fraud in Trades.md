@@ -1,7 +1,7 @@
 ---
 weight: 8
 ---
-![[Don't fraud in trade or selling or business.png]]
+![[PNGS/pngs/69.png]]
 
 [Quran 17:35](https://quran.com/17/35)
 

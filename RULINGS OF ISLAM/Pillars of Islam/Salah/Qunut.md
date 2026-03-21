@@ -1,4 +1,4 @@
-![[Qunut.jpg|492]]
+![[PNGS/pngs 3/21.jpg|492]]
 
 [Sahih Bukhari 1002](https://sunnah.com/bukhari:1002)
 ##### **Backlinks:**

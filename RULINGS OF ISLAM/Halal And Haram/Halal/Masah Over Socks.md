@@ -1,4 +1,4 @@
-![[Masah Over Socks.png]]
+![[PNGS/pngs 2/40.png]]
 
 Above hadith tells about the Leather socks. Which are also called Khuff or Khuffain.
 

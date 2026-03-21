@@ -1,7 +1,7 @@
 ---
 weight: 21
 ---
-![[Shirk 4,48.png]]
+![[PNGS/pngs 3/31.png]]
 
 [Quran 4:48](https://quran.com/4/48)
 

@@ -1,7 +1,7 @@
 ---
 weight: 8
 ---
-![[Mola recited tasbeehat e fatima at siffin.jpeg]]
+![[PNGS/pngs 2/46.jpeg]]
 
 
 [Mustadrak Al Hakim 4724](https://al-hadees.com/mustadrak/4724)

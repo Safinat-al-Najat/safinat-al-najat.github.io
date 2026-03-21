@@ -1,7 +1,7 @@
 ---
 weight: 30
 ---
-![[Ali will face challenges.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/30.jpeg]]
 
 [Mustadrak Al Hakim 4677](https://quranohadith.com/mustadrak/4677)
 

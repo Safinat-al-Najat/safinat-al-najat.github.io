@@ -1,6 +1,6 @@
-![[3,25.png]]
+![[PNGS/pngs/11.png]]
 
-![[22,7.png]]
+![[PNGS/pngs/8.png]]
 
 
 ##### **Backlinks:**

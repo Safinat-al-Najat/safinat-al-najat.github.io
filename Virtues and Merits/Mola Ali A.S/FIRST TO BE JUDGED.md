@@ -1,7 +1,7 @@
 ---
 weight: 42
 ---
-![[First to receive judgement.png]]
+![[PNGS/pngs 2/1.png]]
 
 [Sahih Bukhari 3695](https://sunnah.com/bukhari:3695)
 

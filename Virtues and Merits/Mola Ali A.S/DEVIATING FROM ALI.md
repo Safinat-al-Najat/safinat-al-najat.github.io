@@ -1,7 +1,7 @@
 ---
 weight: 40
 ---
-![[Deviating from Ali is deviating from Allah.jpeg]]
+![[PNGS/pngs/68.jpeg]]
 
 [Mustadrak Al Hakim 4703](https://quranohadith.com/mustadrak/4703)
 

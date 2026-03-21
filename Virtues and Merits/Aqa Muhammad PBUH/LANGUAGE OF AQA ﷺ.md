@@ -1,7 +1,7 @@
 ---
 weight: 12
 ---
-![[Pasted image 20260308142800.png]]
+![[PNGS/pngs 3/Pasted image 20260308142800.png]]
 
 [Sahih Bukhari 3559](https://sunnah.com/bukhari:3559)
 

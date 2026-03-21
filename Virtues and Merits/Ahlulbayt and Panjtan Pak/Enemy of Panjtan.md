@@ -1,7 +1,7 @@
 ---
 weight: 12
 ---
-![[Enemy of Panjtan.jpeg]]
+![[PNGS/pngs/83.jpeg]]
 
 
 [Mustadrak Al Hakim 4713](https://quranohadith.com/mustadrak/4713)

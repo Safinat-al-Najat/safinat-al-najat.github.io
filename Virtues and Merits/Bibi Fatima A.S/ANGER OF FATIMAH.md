@@ -1,4 +1,4 @@
-![[Allah gets angry on anger of Fatimah.jpeg]]
+![[PNGS/pngs/25.jpeg]]
 
 [Mustadrak Al Hakim 4730](https://al-hadees.com/mustadrak/4730)
 

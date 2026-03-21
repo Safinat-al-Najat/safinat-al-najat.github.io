@@ -1,4 +1,4 @@
-![[Wilayah.png]]
+![[PNGS/5.png]]
 
 [Quran 5:55](https://quran.com/5/55)
 

@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[Allah testifying that Aqa ﷺ is his messenger.png]]
+![[PNGS/Aqa Muhammad PBUH/5.png]]
 
 [Quran 48:29](https://quran.com/48/29)
 

@@ -1,7 +1,7 @@
 ---
 weight: 10
 ---
-![[Ali is a glimpse of Isa.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/10.jpeg]]
 
 
 [Mustadrak Al Hakim 4622](https://quranohadith.com/mustadrak/4622)

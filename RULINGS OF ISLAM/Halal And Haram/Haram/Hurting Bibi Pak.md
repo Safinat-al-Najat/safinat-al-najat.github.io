@@ -1,11 +1,11 @@
 ---
 weight: 15
 ---
-![[Hurting Bibi Pak.png]]
+![[PNGS/pngs 2/22.png]]
 
 [Sahih Bukhari 3767](https://sunnah.com/bukhari:3767)
 
-![[Allah gets angry on anger of Fatimah.jpeg|422]]
+![[PNGS/pngs/25.jpeg|422]]
 
 [Mustadrak Al Hakim 4730](https://al-hadees.com/mustadrak/4730)
 

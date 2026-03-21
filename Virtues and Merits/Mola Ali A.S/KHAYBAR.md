@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[Ali in Khaibar.png]]
+![[PNGS/Aqa Muhammad ﷺ/8.png]]
 
 [Sahih Bukhari 3702](https://sunnah.com/bukhari:3702)
 

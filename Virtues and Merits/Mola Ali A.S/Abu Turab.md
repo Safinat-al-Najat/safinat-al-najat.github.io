@@ -1,7 +1,7 @@
 ---
 weight: 3
 ---
-![[Abu Turab.png]]
+![[PNGS/Aqa Muhammad ﷺ/1.png]]
 
 [Sahih Bukhari 3703](https://sunnah.com/bukhari:3703)
 

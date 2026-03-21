@@ -1,7 +1,7 @@
 ---
 weight: 32
 ---
-![[Ali will fight till his last breath for Aqa ﷺ.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/33.jpeg]]
 
 [Mustadrak Al Hakim 4635](https://quranohadith.com/mustadrak/4635)
 

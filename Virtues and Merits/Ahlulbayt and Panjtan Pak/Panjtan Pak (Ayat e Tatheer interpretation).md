@@ -1,11 +1,11 @@
 ---
 weight: 5
 ---
-![[Panjtan Pak.png]]
+![[PNGS/pngs 3/10.png]]
 
 [Sahih Muslim 2424](https://sunnah.com/2424)
 
-![[Panjtan Pak.jpeg]]
+![[PNGS/pngs 3/9.jpeg]]
 
 [Mustadrak Al Hakim 4664](https://al-hadees.com/mustadrak/4664)
 

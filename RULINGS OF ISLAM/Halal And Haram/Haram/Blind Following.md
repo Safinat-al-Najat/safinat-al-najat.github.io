@@ -1,7 +1,7 @@
 ---
 weight: 6
 ---
-![[Don't follow something or say something that you have no knowledge about.png]]
+![[PNGS/pngs/70.png]]
 
 [Quran 17:36](https://quran.com/17/36)
 

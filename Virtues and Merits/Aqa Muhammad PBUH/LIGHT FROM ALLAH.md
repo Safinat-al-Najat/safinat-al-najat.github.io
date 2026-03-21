@@ -1,7 +1,7 @@
 ---
 weight: 17
 ---
-![[Aqa ﷺ is a light from Allah.png]]
+![[PNGS/Aqa Muhammad PBUH/7.png]]
 
 [Quran 5:15-16](https://quran.com/5/15)
 

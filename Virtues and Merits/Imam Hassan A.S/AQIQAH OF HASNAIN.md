@@ -1,4 +1,4 @@
-![[Aqa ﷺ offered Aqiqah for Hassan and Hussain.png]]
+![[PNGS/pngs/48.png]]
 
 [Sunan an Nasai 4213](https://sunnah.com/nasai:4213)
 

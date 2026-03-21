@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[Ali carried the flag of Aqa ﷺ.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/3.jpeg]]
 
 
 [Mustadrak Al Hakim 4665](https://quranohadith.com/mustadrak/4665)

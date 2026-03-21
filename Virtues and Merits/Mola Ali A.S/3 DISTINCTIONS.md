@@ -1,7 +1,7 @@
 ---
 weight: 58
 ---
-![[Three things about Ali.jpg]]
+![[PNGS/pngs 3/47.jpg]]
 
 [Mustadrak Al Hakim 4668](https://quranohadith.com/mustadrak/4668)
 

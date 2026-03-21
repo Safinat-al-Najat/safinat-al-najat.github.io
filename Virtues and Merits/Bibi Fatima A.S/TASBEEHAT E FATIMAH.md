@@ -1,7 +1,7 @@
 ---
 weight: 15
 ---
-![[Tasbeehat e Fatima.png]]
+![[PNGS/pngs 3/40.png]]
 
 [Sahih Bukhari 3705](https://sunnah.com/bukhari:3705)
 

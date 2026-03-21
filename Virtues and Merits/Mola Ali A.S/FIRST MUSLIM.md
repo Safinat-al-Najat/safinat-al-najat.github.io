@@ -1,7 +1,7 @@
 ---
 weight: 41
 ---
-![[First person to embrace Islam.jpeg]]
+![[PNGS/pngs/90.jpeg]]
 
 [Mustadrak Al Hakim 4663](https://quranohadith.com/mustadrak/4633)
 

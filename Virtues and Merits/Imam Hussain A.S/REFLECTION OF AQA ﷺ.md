@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[Hussain ressembled Aqa ﷺ.png]]
+![[PNGS/pngs 2/24.png]]
 
 [Sahih Bukhari 3748](https://sunnah.com/bukhari:3748)
 

@@ -1,7 +1,7 @@
 ---
 weight: 3
 ---
-![[Dont walk on earth arrogantly.png]]
+![[PNGS/pngs/78.png]]
 
 [Quran 17:37](https://quran.com/17/37)
 ##### **Backlinks:**

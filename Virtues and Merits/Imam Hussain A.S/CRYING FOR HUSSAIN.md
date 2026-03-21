@@ -1,12 +1,12 @@
 ---
 weight: 4
 ---
-![[Aqa ﷺ crying for Imam Hussain.jpeg]]
+![[PNGS/pngs/39.jpeg]]
 
 [Mustadrak Al Hakim 4818](https://al-hadees.com/mustadrak/4818)
 
 
-![[Aqa ﷺ crying for Imam Hussain 2.jpeg]]
+![[PNGS/pngs/38.jpeg]]
 
 [Jami at Tirmidhi 3771](https://sunnah.com/tirmidhi:3771)
 

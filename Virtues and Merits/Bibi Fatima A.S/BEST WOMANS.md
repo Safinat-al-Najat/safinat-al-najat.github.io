@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[The Best Womans of all time.png]]
+![[PNGS/pngs 3/43.png]]
 
 [Jami at Tirmidhi 3878](https://sunnah.com/tirmidhi:3878)
 

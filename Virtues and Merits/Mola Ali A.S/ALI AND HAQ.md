@@ -1,7 +1,7 @@
 ---
 weight: 45
 ---
-![[Keep Haq wherver Ali is.jpeg]]
+![[PNGS/pngs 2/30.jpeg]]
 
 [Mustadrak Al Hakim 4629](https://quranohadith.com/mustadrak/4629)
 

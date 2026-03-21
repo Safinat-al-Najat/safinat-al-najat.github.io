@@ -1,7 +1,7 @@
 ---
 weight: 14
 ---
-![[Ali is from Aqa and no one can represent Aqa ﷺ except Ali.png]]
+![[PNGS/Aqa Muhammad ﷺ/12.png]]
 
 [Sunan Ibn Majah 119](https://sunnah.com/ibnmajah:119)
 

@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[Fatima is part of my liver.jpeg]]
+![[PNGS/pngs/88.jpeg]]
 
 [Mustadrak Al Hakim 4743](https://al-hadees.com/mustadrak/4743)
 

@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[Donot disobey Allah by breaking pledge 16,91.png]]
+![[PNGS/pngs/73.png]]
 
 [Quran 16:91](https://quran.com/16/91)
 

@@ -1,4 +1,4 @@
-![[Allah wants to purify the family of Aqa.png]]
+![[PNGS/pngs/26.png]]
 
 [Quran 33:33](https://quran.com/33/33)
 

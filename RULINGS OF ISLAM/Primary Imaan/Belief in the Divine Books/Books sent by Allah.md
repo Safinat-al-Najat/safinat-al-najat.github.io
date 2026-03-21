@@ -1,6 +1,6 @@
-![[3,3.png]]
+![[PNGS/pngs/10.png]]
 
-![[Quran was sent down in Ramadan.png]]
+![[PNGS/pngs 3/22.png]]
 
 
 ##### **Backlinks:**

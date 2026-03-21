@@ -1,5 +1,5 @@
-![[Men have a degree above woman but same rights.png]]
+![[PNGS/pngs 2/43.png]]
 
 [Quran 2:228](https://quran.com/2/228)
 ##### **Backlinks:**
-[[PNGS/Ethics and Rights]][[PNGS/For Males]][[PNGS/Ethics and Rights]][[PNGS/For Females]][[QURAN]]
+[[PNGS/15]][[PNGS/14]][[PNGS/15]][[PNGS/13]][[QURAN]]

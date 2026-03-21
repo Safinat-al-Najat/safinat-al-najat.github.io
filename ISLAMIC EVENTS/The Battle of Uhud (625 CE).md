@@ -34,18 +34,18 @@ Hamza was Martyred in Uhud by a slave of Wife of Abu Sufyan named Wahshi. Aqa Mu
 The mindset of Ali when fake announcement of death of Aqa Muhammad ﷺ was spread at Uhud:
 
 
-![[Pasted image 20260309130531.png]]
+![[PNGS/pngs 3/Pasted image 20260309130531.png]]
 
 [Mustadrak Al Hakim 4635](https://al-hadees.com/mustadrak/4635)
 
 Other events of this battle from Shia Book Bihar Al Anwar are as follows:
 
 
-![[Pasted image 20260309124301.png]]
-![[Pasted image 20260309124331.png]]
-![[Pasted image 20260309124403.png]]
-![[Pasted image 20260309124438.png]]
-![[Pasted image 20260309124534.png]]
+![[PNGS/pngs 3/Pasted image 20260309124301.png]]
+![[PNGS/pngs 3/Pasted image 20260309124331.png]]
+![[PNGS/pngs 3/Pasted image 20260309124403.png]]
+![[PNGS/pngs 3/Pasted image 20260309124438.png]]
+![[PNGS/pngs 3/Pasted image 20260309124534.png]]
 
 > [!NOTE]
 > The above mentioned hadith are from Bihar Al Anwar Vol 20 starting from page 35 available on [https://hubeali.com/](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf)
@@ -53,11 +53,11 @@ Other events of this battle from Shia Book Bihar Al Anwar are as follows:
 
 Aqa Muhammad ﷺ was also injured his incisors were also broken.
 
-![[Pasted image 20260309124925.png]]
+![[PNGS/pngs 3/Pasted image 20260309124925.png]]
 
 [Bukhari 4073](https://sunnah.com/bukhari:4073)
 
-![[Syeda used to wash wounds of Aqa ﷺ 1.png]]
+![[PNGS/pngs 3/36.png]]
 
 [Bukhari 4075](https://sunnah.com/bukhari:4075)
 

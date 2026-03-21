@@ -1,10 +1,10 @@
-![[Ayat e Najwa.png]]
+![[PNGS/pngs/54.png]]
 
 [Quran 58:13](https://quran.com/58/13)
 
 Below is the hadith that confirms it.
 
-![[image.png]]
+![[PNGS/17.png]]
 
 [Mustadrak Al Hakim 3794](https://quranohadith.com/mustadrak/3794)
 

@@ -1,7 +1,7 @@
 ---
 weight: 47
 ---
-![[Imam Hassan explaining virtues of Ali.jpeg]]
+![[PNGS/pngs 2/26.jpeg]]
 
 [Mustadrak Al Hakim 4688](https://quranohadith.com/mustadrak/4688)
 

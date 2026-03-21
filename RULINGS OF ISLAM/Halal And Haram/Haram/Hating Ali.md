@@ -1,7 +1,7 @@
 ---
 weight: 12
 ---
-![[Hating Ali.png]]
+![[PNGS/pngs 2/20.png]]
 
 [Sahih Muslim 78](https://sunnah.com/muslim:78)
 

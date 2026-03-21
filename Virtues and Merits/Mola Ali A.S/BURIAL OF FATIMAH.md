@@ -1,11 +1,11 @@
 ---
 weight: 6
 ---
-![[Ali gave ghussal to Fatima.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/5.jpeg]]
 
 [Mustadrak Al Hakim 4769](https://quranohadith.com/mustadrak/4769)
 
-![[Ali led the janazah of Fatima.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/25.jpeg]]
 
 [Mustadrak Al Hakim 4764](https://quranohadith.com/mustadrak/4764)
 

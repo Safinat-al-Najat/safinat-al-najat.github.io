@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[Bibi Ayesha explaining virtue of Bibi Fatimah.jpeg]]
+![[PNGS/pngs/56.jpeg]]
 
 
 [Mustadrak Al Hakim 4756](https://al-hadees.com/mustadrak/4756)

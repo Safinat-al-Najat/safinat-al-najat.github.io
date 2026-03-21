@@ -1,7 +1,7 @@
 ---
 weight: 5
 ---
-![[Great favour of Allah.png]]
+![[PNGS/Aqa Muhammad PBUH/20.png]]
 
 [Quran 3:164](https://quran.com/3/164)
 

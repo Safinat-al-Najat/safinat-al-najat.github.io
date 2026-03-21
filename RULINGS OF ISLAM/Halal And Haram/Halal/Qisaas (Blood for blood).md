@@ -1,4 +1,4 @@
-![[Qisaas (Blood for blood).png]]
+![[PNGS/pngs 3/19.png]]
 
 Firstly, Allah tells not to kill anyone unjustly. And if someone does exceed then Qisaas should be taken that is supported by law. The law for Qisaas is explained below:
 

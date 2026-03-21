@@ -1,7 +1,7 @@
 ---
 weight: 33
 ---
-![[Ali will never let you go astray.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/34.jpeg]]
 
 [Mustadrak Al Hakim 4642](https://quranohadith.com/mustadrak/4642)
 

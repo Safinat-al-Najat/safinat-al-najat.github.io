@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[Most beloved man and woman towards Aqa ﷺ.jpeg]]
+![[PNGS/pngs 2/49.jpeg]]
 
 
 [Mustadrak Al Hakim 4731](https://al-hadees.com/mustadrak/4731)
@@ -10,7 +10,7 @@ Hadith itself is enough and doesn't needs any explanation.
 
 
 
-![[Most beloved man and woman 2.jpeg]]
+![[PNGS/pngs 2/48.jpeg]]
 
 [Mustadrak Al Hakim 4744](https://al-hadees.com/mustadrak/4744)
 

@@ -1,7 +1,7 @@
 ---
 weight: 39
 ---
-![[Cursing Ali is cursing Aqa ﷺ (2).jpeg]]
+![[PNGS/pngs/66.jpeg]]
 
 [Mustadrak Al Hakim 4616](https://quranohadith.com/mustadrak/4616)
 

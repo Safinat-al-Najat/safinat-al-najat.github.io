@@ -1,7 +1,7 @@
 ---
 weight: 24
 ---
-![[Distinction of qualities.png]]
+![[PNGS/Aqa Muhammad PBUH/15.png]]
 
 [Musnad Ahmad 763](https://sunnah.com/ahmad:763)
 

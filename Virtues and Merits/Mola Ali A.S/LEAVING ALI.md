@@ -1,7 +1,7 @@
 ---
 weight: 62
 ---
-![[whoever left Ali left Aqa ﷺ.jpeg]]
+![[PNGS/11.jpeg]]
 
 [Mustadrak Al Hakim 4624](https://quranohadith.com/mustadrak/4624)
 

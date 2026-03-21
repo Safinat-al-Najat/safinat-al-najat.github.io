@@ -1,4 +1,4 @@
-![[Syeda is a part of Aqa ﷺ.png]]
+![[PNGS/pngs 3/34.png]]
 
 [Bukhari 3767](https://sunnah.com/bukhari:3767)
 

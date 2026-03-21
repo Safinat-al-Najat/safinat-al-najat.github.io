@@ -1,7 +1,7 @@
 ---
 weight: 19
 ---
-![[Ali is the Imam of Righteous.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/14.jpeg]]
 
 
 [Mustadrak Al Hakim 4644](https://quranohadith.com/mustadrak/4644)

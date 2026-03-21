@@ -1,7 +1,7 @@
 ---
 weight: 21
 ---
-![[Ali is the master of World and hereafter 2.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/20.jpeg]]
 
 [Mustadrak Al Hakim 4640](https://quranohadith.com/mustadrak/4640)
 

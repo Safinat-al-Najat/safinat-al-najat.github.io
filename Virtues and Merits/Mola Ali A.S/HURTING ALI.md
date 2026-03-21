@@ -1,7 +1,7 @@
 ---
 weight: 46
 ---
-![[hurting Ali is hurting Aqa ﷺ.jpeg]]
+![[PNGS/8.jpeg]]
 
 [Mustadrak Al Hakim 4619](https://quranohadith.com/mustadrak/4619)
 

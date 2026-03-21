@@ -1,7 +1,7 @@
 ---
 weight: 8
 ---
-![[Mercy to all universe.png]]
+![[PNGS/Aqa Muhammad PBUH/22.png]]
 
 [Quran 21:107](https://quran.com/21/107)
 

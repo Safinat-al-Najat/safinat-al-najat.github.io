@@ -1,11 +1,11 @@
 ---
 weight: 52
 ---
-![[Recognition of Munafiqeen by Ali.jpeg]]
+![[PNGS/pngs 3/23.jpeg]]
 
 [Mustadrak Al Hakim 4643](https://quranohadith.com/mustadrak/4643)
 
-![[Momin Loves Ali.png]]
+![[PNGS/pngs 2/47.png]]
 
 [Sahih Muslim 78](https://sunnah.com/muslim:78)
 

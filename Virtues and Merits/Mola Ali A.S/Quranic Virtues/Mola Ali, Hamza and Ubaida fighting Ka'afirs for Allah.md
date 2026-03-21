@@ -1,4 +1,4 @@
-![[Mola Ali, Hamza and Ubaida fighting Ka'afirs for Allah.png]]
+![[PNGS/pngs 2/45.png]]
 
 [Quran 22:19](https://quran.com/22/19)
 

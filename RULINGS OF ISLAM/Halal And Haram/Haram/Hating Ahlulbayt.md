@@ -7,7 +7,7 @@ weight: 11
 [Mustadrak Al Hakim 4713](https://quranohadith.com/mustadrak/4712)
 
 
-![[Haram to hate Ahlulbayt.jpeg|437]]
+![[PNGS/pngs 2/11.jpeg|437]]
 
 [Mustadrak Al Hakim 4712](https://quranohadith.com/mustadrak/4712)
 

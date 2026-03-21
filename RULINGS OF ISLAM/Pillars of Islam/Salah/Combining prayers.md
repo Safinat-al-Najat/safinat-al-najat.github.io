@@ -1,4 +1,4 @@
-![[Combining of prayer is allowed.png]]
+![[PNGS/pngs/65.png]]
 
 [Sahih Muslim 705a](https://sunnah.com/muslim:705a)
 

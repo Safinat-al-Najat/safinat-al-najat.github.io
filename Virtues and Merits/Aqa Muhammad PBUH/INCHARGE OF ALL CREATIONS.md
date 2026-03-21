@@ -2,7 +2,7 @@
 weight: 7
 ---
 
-![[Aqa ﷺ is in charge of all creations.png|630]]
+![[PNGS/Aqa Muhammad PBUH/8.png|630]]
 
 
 [Al Kafi Book 4 Ch 52 H#3](https://thaqalayn.net/hadith/1/4/52/3)

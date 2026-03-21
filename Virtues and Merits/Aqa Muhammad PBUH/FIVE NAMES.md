@@ -1,7 +1,7 @@
 ---
 weight: 26
 ---
-![[Five names of Aqa.png]]
+![[PNGS/pngs 2/2.png]]
 
 [Sahih Bukhari 3532](https://sunnah.com/bukhari:3532)
 

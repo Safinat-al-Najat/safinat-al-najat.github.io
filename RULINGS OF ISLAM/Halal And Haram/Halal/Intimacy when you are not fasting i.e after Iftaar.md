@@ -1,4 +1,4 @@
-![[Intimacy when you are not fasting i.e after Iftaar.png]]
+![[PNGS/pngs 2/28.png]]
 
 So Allah has provided ease for humans.
 ##### **Backlinks:**

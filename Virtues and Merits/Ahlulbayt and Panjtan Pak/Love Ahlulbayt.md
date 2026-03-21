@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[Love Ahlulbayt.jpeg|494]]
+![[PNGS/pngs 2/34.jpeg|494]]
 
 [Mustadrak Al Hakim 4716](https://quranohadith.com/mustadrak/4716)
 

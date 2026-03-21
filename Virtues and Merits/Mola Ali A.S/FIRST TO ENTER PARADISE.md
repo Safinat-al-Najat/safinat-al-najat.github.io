@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[Ali is first to enter paradise.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/11.jpeg]]
 
 [Mustadrak Al Hakim 4662](https://quranohadith.com/mustadrak/4662)
 

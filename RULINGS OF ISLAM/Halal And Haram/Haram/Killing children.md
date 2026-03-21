@@ -1,7 +1,7 @@
 ---
 weight: 17
 ---
-![[Donot fear poverty and donot kill your children.png]]
+![[PNGS/pngs/74.png]]
 
 [Quran 17:31](https://quran.com/17/31)
 

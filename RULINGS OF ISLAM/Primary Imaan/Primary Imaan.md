@@ -13,4 +13,4 @@
 
 **Belief in the Day of Judgement** — that every soul will be resurrected and held accountable for its deeds.
 
-[[PNGS/RULINGS]]
+[[PNGS/16]]

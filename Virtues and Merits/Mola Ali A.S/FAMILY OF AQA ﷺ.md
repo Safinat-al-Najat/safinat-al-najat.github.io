@@ -1,7 +1,7 @@
 ---
 weight: 15
 ---
-![[Family of Aqa ﷺ.png]]
+![[PNGS/pngs/87.png]]
 
 [Jami at Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 

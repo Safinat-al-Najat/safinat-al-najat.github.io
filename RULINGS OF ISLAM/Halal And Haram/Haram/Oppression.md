@@ -2,7 +2,7 @@
 weight: 19
 ---
 
-![[Oppression 3,57.png]]
+![[PNGS/pngs 3/6.png]]
 
 [Quran 3:57](https://quran.com/3/57)
 

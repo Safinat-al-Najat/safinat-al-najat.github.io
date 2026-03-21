@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[Aqa ﷺ love Hassan.png]]
+![[PNGS/pngs/44.png]]
 
 [Sahih Bukhari 5884](https://sunnah.com/bukhari:5884)
 

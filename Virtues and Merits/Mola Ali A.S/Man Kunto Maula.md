@@ -9,11 +9,11 @@ So, the Messenger of God ﷺ said regarding ʿAlī, “For whomsoever I am his
 [Al Kafi Book 4 Ch 64 H#1 Paragraph# 3 ](https://thaqalayn.net/hadith/1/4/64/1)
 
 
-![[Mawla Ali.png]]
+![[PNGS/pngs 2/41.png]]
 
 [Jami at Tirmidhi 3713](https://sunnah.com/tirmidhi:3713)
 
-![[Man Kunto Maula with background.jpeg]]
+![[PNGS/pngs 2/37.jpeg]]
 
 [Musnad Ahmad 950](https://sunnah.com/ahmad:950)
 

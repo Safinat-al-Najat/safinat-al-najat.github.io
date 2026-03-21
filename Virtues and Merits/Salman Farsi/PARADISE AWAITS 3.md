@@ -1,7 +1,7 @@
 ---
 weight: 3
 ---
-![[Paradise awaits for 3.jpeg]]
+![[PNGS/pngs 3/11.jpeg]]
 
 [Mustadrak Al Hakim 4666](https://quranohadith.com/mustadrak/4666)
 

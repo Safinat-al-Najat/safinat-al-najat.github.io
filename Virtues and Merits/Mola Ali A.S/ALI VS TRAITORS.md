@@ -1,7 +1,7 @@
 ---
 weight: 31
 ---
-![[Ali will fight against traitors.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/32.jpeg]]
 
 
 [Mustadrak Al Hakim 4675](https://quranohadith.com/mustadrak/4675)

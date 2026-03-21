@@ -1,7 +1,7 @@
 ---
 weight: 28
 ---
-![[Zina 17,32.png]]
+![[PNGS/7.png]]
 
 
 ##### **Backlinks:**

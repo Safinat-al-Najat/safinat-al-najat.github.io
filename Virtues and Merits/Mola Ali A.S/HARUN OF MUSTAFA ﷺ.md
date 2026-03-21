@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[Ali is like Haroon.png]]
+![[PNGS/Aqa Muhammad ﷺ/13.png]]
 
 [Sahih Bukhari 4416](https://sunnah.com/bukhari:4416)
 

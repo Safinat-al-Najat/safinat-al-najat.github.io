@@ -1,4 +1,4 @@
-![[3 takbirs.jpeg]]
+![[PNGS/pngs/1.jpeg]]
 
 [Sahih Muslim 583c](https://sunnah.com/muslim:583c)
 

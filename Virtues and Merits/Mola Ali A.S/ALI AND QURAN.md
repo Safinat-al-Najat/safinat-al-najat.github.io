@@ -1,7 +1,7 @@
 ---
 weight: 24
 ---
-![[Ali is with Quran and Quran is with Ali forever.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/24.jpeg]]
 
 
 [Mustadrak Al Hakim 4628](https://quranohadith.com/mustadrak/4628)

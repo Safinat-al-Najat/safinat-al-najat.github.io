@@ -1,7 +1,7 @@
 ---
 weight: 32
 ---
-![[Seal of Prophets.png]]
+![[PNGS/Aqa Muhammad PBUH/25.png]]
 
 [Quran 33:40](https://quran.com/33/40)
 

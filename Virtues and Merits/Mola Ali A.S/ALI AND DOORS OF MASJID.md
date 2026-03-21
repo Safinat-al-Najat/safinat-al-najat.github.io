@@ -1,11 +1,11 @@
 ---
 weight: 34
 ---
-![[All doors of Masjid to be closed except for Ali.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/35.jpeg]]
 
 [Mustadrak Al Hakim 4631](https://quranohadith.com/mustadrak/4631)
 
-![[All gates to Masjid to be closed except for the gate of Ali.png]]
+![[PNGS/Aqa Muhammad ﷺ/36.png]]
 
 [Jami at Tirmidhi 3732](https://sunnah.com/tirmidhi:3732)
 

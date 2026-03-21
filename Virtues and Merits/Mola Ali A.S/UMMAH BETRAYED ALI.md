@@ -1,11 +1,11 @@
 ---
 weight: 59
 ---
-![[Ummah will betray Ali.jpeg]]
+![[PNGS/pngs 3/53.jpeg]]
 
 [Mustadrak Al Hakim 4676](https://quranohadith.com/mustadrak/4676)
 
-![[Ummah will betray Ali 2.jpeg]]
+![[PNGS/pngs 3/52.jpeg]]
 
 [Mustadrak Al Hakim 4686](https://quranohadith.com/mustadrak/4686)
 

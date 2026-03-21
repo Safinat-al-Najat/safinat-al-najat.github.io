@@ -1,10 +1,10 @@
 [[RULINGS OF ISLAM/Other Teachings/Other Teachings]]
 
-![[Child who isn't born yet is also martyr.png]]
+![[PNGS/pngs/63.png]]
 
 [Sunan an Nasai 3163](https://sunnah.com/nasai:3163)
 
-![[Drowned person is also martyred.png]]
+![[PNGS/pngs/79.png]]
 
 [Sahih Muslim 1915a](https://sunnah.com/muslim:1915a)
 

@@ -1,7 +1,7 @@
 ---
 weight: 23
 ---
-![[Sud (Riba) 2,275.png]]
+![[PNGS/pngs 3/33.png]]
 
 
 ##### **Backlinks:**

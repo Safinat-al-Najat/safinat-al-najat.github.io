@@ -1,7 +1,7 @@
 ---
 weight: 14
 ---
-![[Aqa sweat was better than perfume.png]]
+![[PNGS/pngs/34.png]]
 
 [Sahih Bukhari 3561](https://sunnah.com/bukhari:3561)
 

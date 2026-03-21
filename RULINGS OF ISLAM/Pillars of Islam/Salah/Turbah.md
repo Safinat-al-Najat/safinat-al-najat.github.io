@@ -1,4 +1,4 @@
-![[Sajda Gah is valid.png]]
+![[PNGS/pngs 3/28.png]]
 
 [Sahih Bukhari 381](https://sunnah.com/bukhari:381)
 

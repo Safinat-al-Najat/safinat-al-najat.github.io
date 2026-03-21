@@ -1,4 +1,4 @@
-![[Aqa ﷺ prayed to Allah to love Hassan and Hussain.png]]
+![[PNGS/pngs/49.png]]
 
 [Jami at Tirmidhi 3782](https://sunnah.com/tirmidhi:3782)
 

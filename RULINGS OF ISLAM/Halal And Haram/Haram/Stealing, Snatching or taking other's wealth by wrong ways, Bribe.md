@@ -1,7 +1,7 @@
 ---
 weight: 22
 ---
-![[Stealing, Snatching or taking other's wealth by wrong ways, Bribe 2,188.png]]
+![[PNGS/pngs 3/32.png]]
 
 
 ##### **Backlinks:**

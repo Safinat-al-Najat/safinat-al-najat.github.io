@@ -1,12 +1,12 @@
 ---
 weight: 12
 ---
-![[Ali is Aqa ﷺ ilm's successor.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/9.jpeg]]
 
 
 [Mustadrak Al Hakim 4634](https://quranohadith.com/mustadrak/4634)
 
-![[Ali is the successor of Ilm of Aqa ﷺ.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/23.jpeg]]
 
 [Mustadrak Al Hakim 4635](https://quranohadith.com/mustadrak/4635)
 

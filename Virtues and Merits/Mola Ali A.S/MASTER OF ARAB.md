@@ -1,8 +1,8 @@
 ---
 weight: 20
 ---
-![[Ali is the master of Arab 2.jpeg]]
-![[Ali is the Master of Arab.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/18.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/15.jpeg]]
 
 Mustadrak Al Hakim [4625](https://quranohadith.com/mustadrak/4626) & [4626](https://quranohadith.com/mustadrak/4626)
 

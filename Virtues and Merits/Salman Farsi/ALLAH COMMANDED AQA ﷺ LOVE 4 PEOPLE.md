@@ -1,11 +1,11 @@
 ---
 weight: 2
 ---
-![[Allah commanded Aqa ﷺ to love 4 people.png]]
+![[PNGS/pngs/23.png]]
 
 [Al Amali Book 15 Ch 2 H#1](https://thaqalayn.net/chapter/13/15/2)
 
-![[Allah commanded to love 4 people.jpeg]]
+![[PNGS/pngs/24.jpeg]]
 
 [Mustadrak Al Hakim 4649](https://quranohadith.com/mustadrak/4649)
 

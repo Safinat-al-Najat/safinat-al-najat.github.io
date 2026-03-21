@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[Indecency, wickedness and agression 16,90.png]]
+![[PNGS/pngs 2/27.png]]
 
 [Quran 16:90](https://quran.com/16/90)
 ##### **Backlinks:**

@@ -1,7 +1,7 @@
 ---
 weight: 27
 ---
-![[Follow Aqa ﷺ for highest rank from Allah.png]]
+![[PNGS/Aqa Muhammad PBUH/17.png]]
 
 [Quran 4:69](https://quran.com/4/69)
 

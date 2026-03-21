@@ -1,7 +1,7 @@
 ---
 weight: 17
 ---
-![[Ali is the deputy of Aqa ﷺ.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/16.jpeg]]
 
 [Mustadrak Al Hakim 4655](https://quranohadith.com/mustadrak/4655)
 

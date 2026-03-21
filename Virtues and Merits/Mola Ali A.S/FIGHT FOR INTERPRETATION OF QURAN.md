@@ -1,7 +1,7 @@
 ---
 weight: 5
 ---
-![[Ali fought for interpretation of Qu'ran.jpg|438|438x496]]
+![[PNGS/Aqa Muhammad ﷺ/4.jpg|438|438x496]]
 
 [Mustadrak Al Hakim 4621](https://quranohadith.com/mustadrak/4621)
 

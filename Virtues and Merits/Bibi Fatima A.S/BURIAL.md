@@ -1,7 +1,7 @@
 ---
 weight: 6
 ---
-![[Bibi was buried at night.jpeg]]
+![[PNGS/pngs/57.jpeg]]
 
 [Mustadrak Al Hakim 4763](https://al-hadees.com/mustadrak/4763)
 

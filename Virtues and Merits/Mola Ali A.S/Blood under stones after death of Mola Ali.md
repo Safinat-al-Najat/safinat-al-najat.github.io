@@ -1,7 +1,7 @@
 ---
 weight: 37
 ---
-![[Blood under stones after death of Mola Ali.jpeg]]
+![[PNGS/pngs/59.jpeg]]
 
 [Mustadrak Al Hakim 4694](https://quranohadith.com/mustadrak/4694)
 

@@ -26,11 +26,11 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 [Mustadrak Al Hakim 4705](https://quranohadith.com/mustadrak/4705)
 
-![[Hadith e Qisa 2.jpeg|452]]
+![[PNGS/pngs 2/4.jpeg|452]]
 
 [Mustadrak Al Hakim 4709](https://quranohadith.com/mustadrak/4709)
 
-![[Hadith e Qisa 3.jpeg|456]]
+![[PNGS/pngs 2/5.jpeg|456]]
 
 [Mustadrak Al Hakim 4706](https://quranohadith.com/mustadrak/4706)
 

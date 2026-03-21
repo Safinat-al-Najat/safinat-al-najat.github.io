@@ -1,7 +1,7 @@
 ---
 weight: 29
 ---
-![[Ali was closest to commitment to Aqa ﷺ.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/31.jpeg]]
 
 
 [Mustadrak Al Hakim 4671](https://quranohadith.com/mustadrak/4671)

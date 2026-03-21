@@ -1,4 +1,4 @@
-![[2,285.png]]
+![[PNGS/pngs/7.png]]
 
 
 ##### **Backlinks:**

@@ -1,7 +1,7 @@
 ---
 weight: 2
 ---
-![[A great tribe will come from offsprings of Hussain.jpeg]]
+![[PNGS/pngs/17.jpeg]]
 
 [Jami at Tirmidhi 3775](https://sunnah.com/tirmidhi:3775)
 

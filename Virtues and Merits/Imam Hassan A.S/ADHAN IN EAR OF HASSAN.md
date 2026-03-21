@@ -1,7 +1,7 @@
 ---
 weight: 3
 ---
-![[Aqa ﷺ gave Adhan in ear of Hassan.png]]
+![[PNGS/pngs/41.png]]
 
 [Sunan Abi Dawud 5105](https://sunnah.com/abudawud:5105)
 

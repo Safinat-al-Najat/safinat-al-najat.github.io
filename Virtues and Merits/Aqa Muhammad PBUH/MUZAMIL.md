@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[Aqa ﷺ called Muzamil by Allah.png]]
+![[PNGS/Aqa Muhammad PBUH/6.png]]
 
 [Quran 73:1](https://quran.com/73/1)
 

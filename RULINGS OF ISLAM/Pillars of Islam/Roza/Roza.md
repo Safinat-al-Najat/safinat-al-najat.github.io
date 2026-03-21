@@ -1,23 +1,23 @@
-![[2,183.png]]
+![[PNGS/pngs/6.png]]
 
 [Quran 2:183](https://quran.com/2/183)
 
 **1st reference tells about fasting that is obligatory on us all**
 
 
-![[Don't open fast before time.jpeg|465]]
+![[PNGS/pngs/72.jpeg|465]]
 
 [Mustadrak Al Hakim 1568](https://quranohadith.com/mustadrak/1568)
 
 **2nd reference explains the punishment for opening fast earlier than the time told**
 
-![[Qaza Roza for someone who is ill or travelling.png]]
+![[PNGS/pngs 3/18.png]]
 
 [Quran 2:185](https://quran.com/2/185)
 
 **3rd reference tells about the exclusions who are free from roza**
 
-![[Time of Sehri, Iftaar and limits of Roza.png]]
+![[PNGS/pngs 3/49.png]]
 
 [Quran 2:187](https://quran.com/2/187)
 

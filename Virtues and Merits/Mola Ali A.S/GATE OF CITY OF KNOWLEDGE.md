@@ -1,7 +1,7 @@
 ---
 weight: 18
 ---
-![[Ali is the gate of city of knowledge.jpeg]]
+![[PNGS/Aqa Muhammad ﷺ/17.jpeg]]
 
 
 [Mustadrak Al Hakim 4638](https://quranohadith.com/mustadrak/4638)

@@ -1,8 +1,8 @@
-![[4,103.png]]
+![[PNGS/pngs/14.png]]
 
 [Quran 4:103](https://quran.com/4/103)
 
-![[19,59.png]]
+![[PNGS/pngs/2.png]]
 
 [Quran 19:59](https://quran.com/19/59)
 

@@ -1,4 +1,4 @@
-![[Aqa ﷺ loving Hassan and Hussain.jpeg|420]]
+![[PNGS/pngs/45.jpeg|420]]
 
 [Mustadrak Al Hakim 4791](https://al-hadees.com/mustadrak/4791)
 

@@ -1,7 +1,7 @@
 ---
 weight: 26
 ---
-![[Ali Prayed like Aqa ﷺ.png]]
+![[PNGS/Aqa Muhammad ﷺ/2.png]]
 
 [Sahih Bukhari 784](https://sunnah.com/bukhari:784)
 

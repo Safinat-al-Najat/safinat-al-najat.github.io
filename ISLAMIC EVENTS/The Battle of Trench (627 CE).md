@@ -8,12 +8,12 @@ Upon learning of the impending threat, the Aqa Muhammad ﷺ gathered his compani
 
 
 
-![[Pasted image 20260309143758.png]]
+![[PNGS/pngs 3/Pasted image 20260309143758.png]]
 
 | [Bihar Al Anwar Vol 20](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf) | Page 149 |
 | ---------------------------------------------------------------------------------------------------- | -------- |
 
-![[Pasted image 20260309143146.png]]
+![[PNGS/pngs 3/Pasted image 20260309143146.png]]
 
 | [Al-Mustadrak alal-Sahihayn Al-Hakim al-Nishapuri](https://al-hadees.com/mustadrak/6539) | [6539](https://al-hadees.com/mustadrak/6539) |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -33,8 +33,8 @@ Another main event that happened is as below:
 
 Another Major event that happened is that when a fighter from Pagans crossed the trench and started mocking the muslims to come and fight.
 
-![[Pasted image 20260309144819.png]]
-![[Pasted image 20260309144924.png]]
+![[PNGS/pngs 3/Pasted image 20260309144819.png]]
+![[PNGS/pngs 3/Pasted image 20260309144924.png]]
 
 |                                                                                                      |              |
 | ---------------------------------------------------------------------------------------------------- | ------------ |

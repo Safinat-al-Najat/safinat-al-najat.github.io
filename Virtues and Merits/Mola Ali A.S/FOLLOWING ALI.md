@@ -1,7 +1,7 @@
 ---
 weight: 43
 ---
-![[Following Ali is Following Allah.jpeg]]
+![[PNGS/pngs 2/3.jpeg]]
 
 [Mustadrak Al Hakim 4641](https://quranohadith.com/mustadrak/4641)
 

@@ -1,7 +1,7 @@
 ---
 weight: 48
 ---
-![[Judgement of Ali.jpeg]]
+![[PNGS/pngs 2/29.jpeg]]
 
 [Mustadrak Al Hakim 4658](https://quranohadith.com/mustadrak/4658)
 

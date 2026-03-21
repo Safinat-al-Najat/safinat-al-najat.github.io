@@ -1,7 +1,7 @@
 ---
 weight: 57
 ---
-![[The hadith of ‘Ali being sent to deliver Bara’a.png]]
+![[PNGS/pngs 3/45.png]]
 
 [Jami at Tirmidhi 3090](https://sunnah.com/tirmidhi:3090)
 

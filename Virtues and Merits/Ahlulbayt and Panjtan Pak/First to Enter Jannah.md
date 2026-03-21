@@ -1,7 +1,7 @@
 ---
 weight: 15
 ---
-![[Panjtan Pak will be first to enter Jannah.jpeg]]
+![[PNGS/pngs 3/8.jpeg]]
 
 [Mustadrak Al Hakim 4723](https://quranohadith.com/mustadrak/4723)
 

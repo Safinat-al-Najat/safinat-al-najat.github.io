@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[Syeda used to wash wounds of Aqa ﷺ.png]]
+![[PNGS/pngs 3/37.png]]
 
 [Sahih Bukhari 4075](https://sunnah.com/bukhari:4075)
 

@@ -1,7 +1,7 @@
 ---
 weight: 49
 ---
-![[Most wretched person.jpeg]]
+![[PNGS/pngs 2/50.jpeg]]
 
 [Mustadrak Al Hakim 4679](https://quranohadith.com/mustadrak/4679)
 

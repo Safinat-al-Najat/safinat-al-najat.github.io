@@ -1,5 +1,5 @@
-![[Older woman can take off Hijab.png]]
+![[PNGS/pngs 3/3.png]]
 
 [Quran 24:60](https://quran.com/24/60)
 ##### **Backlinks:**
-[[PNGS/Ethics and Rights]][[PNGS/For Females]][[QURAN]]
+[[PNGS/15]][[PNGS/13]][[QURAN]]

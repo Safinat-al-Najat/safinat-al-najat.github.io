@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[Ali has value greater than leaders of Jannah.png]]
+![[PNGS/Aqa Muhammad ﷺ/6.png]]
 
 [Sunan Ibn Majah 118](https://ibnmajah:118)
 

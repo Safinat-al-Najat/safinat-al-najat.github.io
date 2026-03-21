@@ -1,7 +1,7 @@
 ---
 weight: 20
 ---
-![[Bashira, Nazeera and Sirajan Munira.png]]
+![[PNGS/Aqa Muhammad PBUH/11.png]]
 
 [Quran 33:45-46](https://quran.com/33/45)
 

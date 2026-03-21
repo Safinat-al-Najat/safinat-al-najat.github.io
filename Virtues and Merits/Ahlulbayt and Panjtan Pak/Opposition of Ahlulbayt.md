@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[Anyone opposing Ahlulbayt is Group of shaytan.jpeg|461]]
+![[PNGS/pngs/29.jpeg|461]]
 
 
 [Mustadrak Al Hakim 4715](https://quranohadith.com/mustadrak/4715)

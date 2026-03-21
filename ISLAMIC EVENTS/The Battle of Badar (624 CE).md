@@ -18,13 +18,13 @@ If we go to the background of Badr the Pagan used to loot the Trading Caravans o
 
 - **Tarikh al-Tabari:** This canonical Sunni history records that Ali killed approximately **35 out of the 70** Meccan polytheists. Tabari reportedly lists the names of **36 commanders** specifically killed by Ali during the battle.
 
-![[Mola Ali, Hamza and Ubaida fighting Ka'afirs for Allah 1.png]]
+![[PNGS/pngs 2/44.png]]
 
 [Quran 22:19](https://quran.com/22/19)
 
 The above Quranic verse was revealed to honor Ali, Hamza and Ubaidah.
 
-![[Verse revealed for Ali Hamza and Ubaidah.png]]
+![[PNGS/pngs 3/59.png]]
 
 [Ibn Majah 2835](https://sunnah.com/ibnmajah:2835)
 

@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[Imam Hassan Ressembled Aqa ﷺ.png]]
+![[PNGS/pngs 2/25.png]]
 
 [Sahih Bukhari 3752](https://sunnah.com/bukhari:3752)
 

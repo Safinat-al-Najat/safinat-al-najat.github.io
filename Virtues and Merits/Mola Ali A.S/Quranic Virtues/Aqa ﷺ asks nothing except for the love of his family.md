@@ -1,4 +1,4 @@
-![[Aqa ﷺ asks nothing except for the love of his family.png]]
+![[PNGS/pngs/36.png]]
 
 [Quran 42:23](https://quran.com/42/23)
 

@@ -1,24 +1,24 @@
-![[Hadith e Thaqalayn 2.jpeg|438]]
+![[PNGS/pngs 2/7.jpeg|438]]
 
 [Sahih Muslim 2408d](https://sunnah.com/muslim:2408d)
 
-![[Hadith e Thaqalayn.jpeg|484]]
+![[PNGS/pngs 2/8.jpeg|484]]
 
 [Sahih Muslim 2408a](https://sunnah.com/muslim:2408a)
 
-![[Ahlulbayt and Quran will never apart from each other 2.jpeg|435]]
+![[PNGS/pngs/19.jpeg|435]]
 
 [Tirmidhi 3788](https://sunnah.com/tirmidhi:3788)
 
-![[Ahlulbayt and Quran will never apart from each other.jpeg|445]]
+![[PNGS/pngs/20.jpeg|445]]
 
 [Mustadrak Al Hakim 4711](https://hadithunlocked.com/hakim:4711)
 
-![[Aqa ﷺ left Qur'an and Ahlulbayt for us.jpg|448]]
+![[PNGS/pngs/42.jpg|448]]
 
 [Tirmidhi 3786](https://sunnah.com/tirmidhi:3786)
 
-![[Aqa ﷺ left two things for his ummah.png|452]]
+![[PNGS/pngs/43.png|452]]
 
 
 [Al Khisal Book 3 Chapter 80](https://thaqalayn.net/chapter/10/3/80)

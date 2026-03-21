@@ -1,11 +1,11 @@
 ---
 weight: 10
 ---
-![[Respect of Bibi In Akhirah 2.jpeg]]
+![[PNGS/pngs 3/25.jpeg]]
 
 [Mustadrak Al Hakim 4757](https://al-hadees.com/mustadrak/4757)
 
-![[Respect of Bibi in Akhirah.jpeg]]
+![[PNGS/pngs 3/26.jpeg]]
 
 
 [Mustadrak Al Hakim 4728](https://al-hadees.com/mustadrak/4728)

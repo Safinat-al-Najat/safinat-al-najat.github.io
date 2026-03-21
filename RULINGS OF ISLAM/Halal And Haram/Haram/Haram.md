@@ -11,4 +11,4 @@ weight: 1
 
 Haram requires clear and explicit evidence from scripture. Scholars follow the rule that **doubt does not establish prohibition** — if evidence is unclear or weak, the default remains permissibility. This ensures the law remains just and not unnecessarily burdensome upon believers.
 
-[[Halal and Haram]]
+[[PNGS/12]]

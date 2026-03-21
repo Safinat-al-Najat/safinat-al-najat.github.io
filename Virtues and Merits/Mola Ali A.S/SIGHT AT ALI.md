@@ -1,7 +1,7 @@
 ---
 weight: 50
 ---
-![[Looking at Ali is Ibadah.jpeg]]
+![[PNGS/pngs 2/32.jpeg]]
 
 [Mustadrak Al Hakim 4682](https://quranohadith.com/mustadrak/4682)
 

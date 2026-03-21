@@ -1,4 +1,4 @@
-![[Allowed to pray with shoes on.png]]
+![[PNGS/pngs/28.png]]
 
 [Sahih Bukhari 386](https://sunnah.com/bukhari:386)
 ##### **Backlinks:**

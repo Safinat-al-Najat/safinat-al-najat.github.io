@@ -1,4 +1,4 @@
-![[Praying with hands relaxed.jpeg]]
+![[PNGS/pngs 3/15.jpeg]]
 
 [Sunan Abu Dawud 730](https://sunnah.com/abudawud:730)
 ##### **Backlinks:**

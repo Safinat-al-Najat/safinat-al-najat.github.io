@@ -1,7 +1,7 @@
 ---
 weight: 53
 ---
-![[Numerous Virtues of Ali.jpeg]]
+![[PNGS/pngs 3/2.jpeg]]
 
 [Mustadrak Al Hakim 4652](https://quranohadith.com/mustadrak/4652)
 
