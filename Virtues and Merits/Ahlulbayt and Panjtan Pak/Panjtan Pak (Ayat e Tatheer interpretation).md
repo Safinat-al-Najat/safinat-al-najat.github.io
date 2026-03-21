@@ -15,7 +15,7 @@ weight: 5
 
 [Mustadrak Al Hakim 4664](https://al-hadees.com/mustadrak/4664)
 
-
+It is also known as [[Hadith E Kisa]]
 
 
 ##### **Backlinks:**

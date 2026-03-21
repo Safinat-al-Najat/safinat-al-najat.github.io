@@ -13,5 +13,6 @@ weight: 28
 
 [Quran 8:46](https://quran.com/8/46)
 
+Following Aqa Muhammad ﷺ is following Allah.
 ##### **Backlinks:**
 [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

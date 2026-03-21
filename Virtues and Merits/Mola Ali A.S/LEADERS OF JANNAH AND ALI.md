@@ -5,6 +5,8 @@ weight: 7
 
 [Sunan Ibn Majah 118](https://ibnmajah:118)
 
+So, Ali is better than the leaders of Jannah.
+
 As mentioned in [[Virtues and Merits/Imam Hassan A.S/LEADERS OF JANNAH]].
 
 

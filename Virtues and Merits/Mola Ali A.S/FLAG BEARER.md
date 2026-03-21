@@ -8,6 +8,8 @@ weight: 4
 
 To make it easier to understand, in this hadith Malik bin Dinar asked Said Ibn Jubayr that who was flag bearer of Aqa Muhammad ﷺ in every battle and he reply: "Ali".
 
+So, Ali was the flag bearer of Aqa Muhammad ﷺ.
+
 
 
 

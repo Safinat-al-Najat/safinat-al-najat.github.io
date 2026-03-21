@@ -16,7 +16,7 @@ weight: 16
 This hadith has been graded at Mutwatir Hadith.
 It is also called as Hadith of Manzila.
 
-
+Ali is like Harun to Aqa Muhammad ﷺ.
 
 
 ##### **Backlinks:**

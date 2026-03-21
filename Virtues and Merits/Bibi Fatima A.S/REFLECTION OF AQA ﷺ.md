@@ -5,7 +5,7 @@ weight: 14
 
 [Al Adab Al Mufrad 1030](https://sunnah.com/adab:1030)
 
-
+Bibi Fatima walked like Aqa Muhammad ﷺ.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

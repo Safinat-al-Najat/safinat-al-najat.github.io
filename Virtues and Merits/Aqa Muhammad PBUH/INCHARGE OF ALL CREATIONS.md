@@ -10,6 +10,8 @@ weight: 7
 
 The above hadith tells us how significant our Aqa Muhammad ﷺ is in this world. We must obey what he says and must forbid ourselves from doing what he prohibits.
 
+We can say that Aqa Muhammad ﷺ is the incharge of all creations.
+
 The Quranic Verse used in the hadith is [Quran 59:7](https://quran.com/59/7)
 
 

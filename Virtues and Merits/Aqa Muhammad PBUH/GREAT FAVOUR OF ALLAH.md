@@ -9,7 +9,7 @@ weight: 5
 
 In the verse above Allah tells us that by sending Aqa Muhammad ﷺ, Allah did a great favor upon us. As Aqa Muhammad ﷺ is a mercy to all universe as also mentioned in [[Virtues and Merits/Aqa Muhammad PBUH/MERCY TO ALL UNIVERSE]].
 
-
+Aqa ﷺ is a great favor of Allah indeed.
 
 
 ##### **Backlinks:**

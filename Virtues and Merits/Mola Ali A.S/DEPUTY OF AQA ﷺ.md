@@ -5,9 +5,6 @@ weight: 17
 
 [Mustadrak Al Hakim 4655](https://quranohadith.com/mustadrak/4655)
 
-
-
-
-
+Ali is the deputy of Aqa Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

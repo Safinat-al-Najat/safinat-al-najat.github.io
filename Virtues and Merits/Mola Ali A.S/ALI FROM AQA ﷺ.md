@@ -5,7 +5,7 @@ weight: 14
 
 [Sunan Ibn Majah 119](https://sunnah.com/ibnmajah:119)
 
-
+Ali is from Aqa Muhammad ﷺ and Aqa Muhammad ﷺ is from Ali
 
 
 ##### **Backlinks:**

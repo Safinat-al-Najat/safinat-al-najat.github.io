@@ -11,6 +11,7 @@ This shows how much devotion Ali had for Aqa Muhammad ﷺ.
 
 [Mustadrak Al Hakim 4632](https://quranohadith.com/mustadrak/4632)
 
-
+So, Ali did the same Niyah for Ihram as Aqa Muhammad ﷺ.
+Ali had three distinctions.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

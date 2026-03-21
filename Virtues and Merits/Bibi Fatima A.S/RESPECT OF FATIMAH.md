@@ -14,6 +14,7 @@ Hadith shows that how much our Aqa Muhammad ﷺ used to care for his beloved dau
 
 Above hadith shows that it was a mutual act among both of them. Both of them used to welcome each other in the same way.
 
+Aqa Muhammad ﷺ respect Bibi Fatima so much that Aqa Muhammad ﷺ used to stand to greet Bibi Fatima.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

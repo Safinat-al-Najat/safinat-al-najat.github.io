@@ -9,6 +9,7 @@ weight: 15
 
 The hadith tells that these 5 will be the first one to enter jannah.
 By ''me'' in the hadith means Ali as it has been narrated by him.
+Ahlulbayt(Panjtan Pak) will be the first to enter jannah according to this.
 
 
 

@@ -14,6 +14,6 @@ Hadith itself is enough and doesn't needs any explanation.
 
 [Mustadrak Al Hakim 4744](https://al-hadees.com/mustadrak/4744)
 
-
+Bibi Fatima was most beloved to Aqa Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

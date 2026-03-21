@@ -10,6 +10,6 @@ weight: 10
 
 [Mustadrak Al Hakim 4728](https://al-hadees.com/mustadrak/4728)
 
-
+The hadith shows that how much there is respect of Bibi Fatima even in Akhirah.
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

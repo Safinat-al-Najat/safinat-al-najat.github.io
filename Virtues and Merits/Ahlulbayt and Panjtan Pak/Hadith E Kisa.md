@@ -30,7 +30,7 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 Narrated 'Umar bin Abi Salamah - the step-son of the Prophet (ﷺ):
 
-**"When these Ayat were revealed to the Prophet (ﷺ): 'Allah only wishes to remove the Rijs from you, O members of the family, and to purify you with a thorough purification...' (33:33) in the home of Umm Salamah, he called for Fatimah, Hasan, Husain, and wrapped them in a cloak, and 'Ali was behind him, so he wrapped him in the cloak, then he said: 'O Allah! These are the people of my house, so remove the Rijs from them, and purify them with a thorough purification.' So Umm Salamah said: 'And am I with them O Messenger of Allah?' He said: 'You are in your place, and you are more virtuous to me.'"**
+**"When these Ayat were revealed to the Prophet (ﷺ): 'Allah only wishes to remove the Rijs from you, O members of the family, and to purify you with a thorough purification...' (33:33) in the home of Umm Salamah, he called for Bibi Fatima, Hasan, Husain, and wrapped them in a cloak, and 'Ali was behind him, so he wrapped him in the cloak, then he said: 'O Allah! These are the people of my house, so remove the Rijs from them, and purify them with a thorough purification.' So Umm Salamah said: 'And am I with them O Messenger of Allah?' He said: 'You are in your place, and you are more virtuous to me.'"**
 
 [Jami at Tirmidhi 3787](https://sunnah.com/tirmidhi:3787)
 
@@ -52,8 +52,7 @@ Narrated 'Umar bin Abi Salamah - the step-son of the Prophet (ﷺ):
 
 [Mustadrak Al Hakim 4706](https://quranohadith.com/mustadrak/4706)
 
-
-
+It is also called as The Hadith of Cloak.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Imam Hassan A.S/Imam Hassan]] [[Virtues and Merits/Imam Hussain A.S/Imam Hussain]] 

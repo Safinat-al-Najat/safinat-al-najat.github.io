@@ -5,6 +5,6 @@ weight: 22
 
 [Quran 47:2](https://quran.com/47/2)
 
-
+Reward for following Aqa Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

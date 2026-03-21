@@ -9,6 +9,6 @@ weight: 26
 
 [Sahih Bukhari 3532](https://sunnah.com/bukhari:3532)
 
-
+Five names of Aqa Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

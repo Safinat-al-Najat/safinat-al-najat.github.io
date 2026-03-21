@@ -5,6 +5,7 @@ weight: 13
 
 [Sahih Bukhari 3752](https://sunnah.com/bukhari:3752)
 
+Hassan resembled Aqa Muhammad ﷺ the most.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

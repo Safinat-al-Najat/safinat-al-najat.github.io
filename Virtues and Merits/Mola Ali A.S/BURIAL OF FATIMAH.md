@@ -9,6 +9,8 @@ weight: 6
 
 [Mustadrak Al Hakim 4764](https://quranohadith.com/mustadrak/4764)
 
+Ali buried Bibi Fatima.
+
 
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]]

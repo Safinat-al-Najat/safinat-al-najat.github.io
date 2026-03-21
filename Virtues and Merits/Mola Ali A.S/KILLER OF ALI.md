@@ -5,8 +5,6 @@ weight: 49
 
 [Mustadrak Al Hakim 4679](https://quranohadith.com/mustadrak/4679)
 
-
-
-
+Killer of Ali is the most wretched man of the whole mankind.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]]

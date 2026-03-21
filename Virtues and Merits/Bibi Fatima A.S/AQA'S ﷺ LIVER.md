@@ -7,7 +7,7 @@ weight: 7
 
 This hadith shows the love of Aqa Muhammad ﷺ for his great daughter. Whatever please Bibi Fatima pleases Aqa Muhammad ﷺ and whatever hurts Bibi Fatima hurts Aqa Muhammad ﷺ.
 
-
+Bibi Fatima is a part of Aqa Muhammad ﷺ indeed.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

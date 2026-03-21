@@ -9,7 +9,7 @@ weight: 12
 
 [Sahih Bukhari 3559](https://sunnah.com/bukhari:3559)
 
-Another reflection of the great character of Aqa Muhammad ﷺ.
+Another reflection of the great character of Aqa Muhammad ﷺ. Aqa Muhammad ﷺ never swore in his entire life.
 
 
 

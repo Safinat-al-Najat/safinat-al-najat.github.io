@@ -42,6 +42,7 @@
 
 [Al Khisal Book 3 Chapter 80](https://thaqalayn.net/chapter/10/3/80)
 
+Thaqalayn means two weighty things.
 
 Given Hadith tells the strong connection between Quran and Ahlulbayt that they wont even separate from each other and will meet with Aqa Muhammad ﷺ at Kauthar.
 

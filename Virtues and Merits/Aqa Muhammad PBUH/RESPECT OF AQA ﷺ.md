@@ -5,6 +5,9 @@ weight: 21
 
 [Quran 49:2](https://quran.com/49/2)
 
+It clearly says that believers should not raise their voices above the voice of 
+Aqa Muhammad ﷺ.
+
 
 
 

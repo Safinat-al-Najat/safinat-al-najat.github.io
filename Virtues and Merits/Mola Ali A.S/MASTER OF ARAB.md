@@ -7,7 +7,6 @@ weight: 20
 Mustadrak Al Hakim [4625](https://quranohadith.com/mustadrak/4626) & [4626](https://quranohadith.com/mustadrak/4626)
 
 
-
-
+Ali is the master of Arab and Aqa Muhammad ﷺ is the master of all mankind.
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]

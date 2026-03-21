@@ -20,6 +20,7 @@ weight: 13
 [Bihar Al Anwaar Vol 27 Pg 88](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
 
 The hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we love him and Allah.
+So, love Ahlulbayt if you love Aqa Muhammad ﷺ.
 
 
 

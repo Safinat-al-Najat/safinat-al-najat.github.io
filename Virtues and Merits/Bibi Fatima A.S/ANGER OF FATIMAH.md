@@ -7,6 +7,7 @@ It might be confusing for some people that how can it be like this? Allah also g
 
 Another supporting evidence for it is that [[Virtues and Merits/Bibi Fatima A.S/PART OF AQA ﷺ]] . In that hadith it clearly says whoever hurts Syeda has hurt Aqa Muhammad ﷺ and whoever has hurt Aqa Muhammad ﷺ has displeased Allah.
 
+So, Allah gets angry on anger of Bibi Fatima.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]]
