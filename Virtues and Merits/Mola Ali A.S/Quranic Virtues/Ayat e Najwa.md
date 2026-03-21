@@ -10,6 +10,8 @@ Below is the hadith that confirms it.
 
 It has been cross graded by Dhahabi who is very strict in ranking a hadith that explains the virtues of Ali.
 
+[Tafsir by Ibn Kathir](https://www.alim.org/quran/tafsir/ibn-kathir/surah/58/12/) also reports this event.
+
 
 
 
