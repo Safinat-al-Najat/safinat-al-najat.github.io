@@ -40,6 +40,8 @@ So there is no shame if one does sin in ignorance but the main thing is that one
 
 ![[image-88.png]]
 
+[Quran 6:54](https://quran.com/6/54)
+
 Here Allah clarifies that Correcting oneself is necessary for forgiveness.
 
 ![[image-97.png]]
