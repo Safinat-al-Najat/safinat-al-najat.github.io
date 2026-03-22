@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quranic Topics/Repentance.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repentance"
+              "title": "index"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "7d819a984e9098b0",
   "lastOpenFiles": [
+    "Quranic Topics/Repentance.md",
     "PNGS/image-102.png",
     "PNGS/image-101.png",
     "PNGS/image-100.png",
@@ -237,9 +238,7 @@
     "PNGS/image-95.png",
     "PNGS/image-94.png",
     "PNGS/image-93.png",
-    "PNGS/image-92.png",
     "ISLAMIC EVENTS/Isra Wa Miraj.md",
-    "Quranic Topics/Repentance.md",
     "Quranic Topics",
     "ISLAMIC EVENTS/Major Historical Events.md",
     "ISLAMIC EVENTS/The Battle of Trench (627 CE).md",
