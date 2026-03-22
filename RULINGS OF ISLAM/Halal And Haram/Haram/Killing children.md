@@ -6,4 +6,4 @@ weight: 17
 [Quran 17:31](https://quran.com/17/31)
 
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

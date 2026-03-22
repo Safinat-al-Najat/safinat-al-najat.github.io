@@ -4,4 +4,4 @@
 
 Woman used to give pledge to Aqa Muhammad ﷺ it means they can do it.
 ##### **Backlinks:**
-[[PNGS/15]][[PNGS/14]][[QURAN]]
+[[Quranic Topics/Quran]]

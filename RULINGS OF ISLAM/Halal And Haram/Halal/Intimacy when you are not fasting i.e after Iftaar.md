@@ -2,4 +2,4 @@
 
 So Allah has provided ease for humans.
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[Quranic Topics/Quran]]

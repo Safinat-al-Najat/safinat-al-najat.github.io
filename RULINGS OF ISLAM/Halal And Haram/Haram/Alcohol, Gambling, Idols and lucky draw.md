@@ -5,4 +5,4 @@ weight: 2
 
 [Quran 5:90](https://quran.com/5/90)
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

@@ -2,4 +2,4 @@
 
 [Quran 24:30](https://quran.com/24/30)
 ##### **Backlinks:**
-[[PNGS/13]][[quran]]
+[[Quranic Topics/Quran]]

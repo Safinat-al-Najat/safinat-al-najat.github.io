@@ -5,4 +5,4 @@ weight: 3
 
 [Quran 17:37](https://quran.com/17/37)
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

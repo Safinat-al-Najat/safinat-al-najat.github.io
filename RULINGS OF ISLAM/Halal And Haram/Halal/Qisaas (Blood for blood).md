@@ -21,4 +21,4 @@ So blood money is the price of 100 camels.
 This is just a overview of Qisaas while the whole topic is very detailed so one should always take a look on rulings of all school of thoughts and then make his decision. The basic Qisaas is this while the conditions can change the result.
 
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[Quranic Topics/Quran]]

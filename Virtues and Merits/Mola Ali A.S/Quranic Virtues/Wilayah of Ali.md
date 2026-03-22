@@ -13,4 +13,4 @@ Although, there is difference in opinion in translation of this verse but yet so
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Quran]]
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Quranic Topics/Quran]]

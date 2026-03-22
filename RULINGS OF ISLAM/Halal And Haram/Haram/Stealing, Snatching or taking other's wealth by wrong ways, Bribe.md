@@ -5,4 +5,4 @@ weight: 22
 
 
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

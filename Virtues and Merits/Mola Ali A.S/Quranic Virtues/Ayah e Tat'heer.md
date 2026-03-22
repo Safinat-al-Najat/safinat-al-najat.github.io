@@ -10,4 +10,4 @@ To understand how it is connected with Ali, Fatima, Hassan and Hussain. You have
 ##### **Backlinks:**
 
 
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[QURAN]]
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Quranic Topics/Quran]]

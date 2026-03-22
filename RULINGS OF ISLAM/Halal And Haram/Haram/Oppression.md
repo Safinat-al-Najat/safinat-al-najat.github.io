@@ -12,4 +12,4 @@ Here from wrongdoers are meant oppressors.
 
 [Quran 42:42](https://quran.com/42/42)
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

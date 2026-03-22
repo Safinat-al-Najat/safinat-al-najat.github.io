@@ -7,4 +7,4 @@ weight: 7
 
 It is haram to disobey Allah and neglect his commands.
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

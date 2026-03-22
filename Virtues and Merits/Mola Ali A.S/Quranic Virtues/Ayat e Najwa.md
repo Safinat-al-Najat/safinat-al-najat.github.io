@@ -18,4 +18,4 @@ It has been cross graded by Dhahabi who is very strict in ranking a hadith that 
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[QURAN]]
+[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Quranic Topics/Quran]]

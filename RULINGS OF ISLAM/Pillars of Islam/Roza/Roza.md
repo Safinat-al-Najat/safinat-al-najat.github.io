@@ -30,4 +30,4 @@
 So when darkness starts appearing from eastern side it is the time to break fast. It is approx 8-10 minutes after sunset.
 
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[Quran]]
+[[RULINGS OF ISLAM/Pillars of Islam/Pillar of Islam]][[Quranic Topics/Quran]]

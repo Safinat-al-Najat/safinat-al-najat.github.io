@@ -2,4 +2,4 @@
 
 [Quran 4:7](https://quran.com/4/7)
 ##### **Backlinks:**
-[[PNGS/15]][[PNGS/14]][[QURAN]]
+[[Quranic Topics/Quran]]

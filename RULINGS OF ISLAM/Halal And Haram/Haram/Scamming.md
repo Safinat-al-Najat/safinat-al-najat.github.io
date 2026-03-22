@@ -11,4 +11,4 @@ weight: 20
 
 So we cannot consume wealth of another person unless until we have consent of that person and the deal should be lawful and halal.
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

@@ -6,4 +6,4 @@ weight: 24
 
 Suspicion itself if necessary is not haram but excessive unnecessary suspicion is haram. While spying and backbiting is completely haram.
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[QURAN]]
+[[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]][[Quranic Topics/Quran]]

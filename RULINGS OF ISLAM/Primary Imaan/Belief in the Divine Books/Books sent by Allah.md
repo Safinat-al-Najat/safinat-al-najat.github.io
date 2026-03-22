@@ -4,4 +4,4 @@
 
 
 ##### **Backlinks:**
-[[RULINGS OF ISLAM/Primary Imaan/Primary Imaan]][[Quran]]
+[[RULINGS OF ISLAM/Primary Imaan/Primary Imaan]][[Quranic Topics/Quran]]
