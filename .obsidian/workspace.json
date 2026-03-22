@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/Other Teachings/Tayammum.md",
+                "file": "ISLAMIC EVENTS/Major Historical Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tayammum"
+              "title": "Major Historical Events"
+            }
+          },
+          {
+            "id": "7d819a984e9098b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quranic Topics/Repentance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Repentance"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,19 +225,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b596d5961048f56",
+  "active": "7d819a984e9098b0",
   "lastOpenFiles": [
-    "RULINGS OF ISLAM/Other Teachings/Taraweeh or Salat Al Layl.md",
+    "PNGS/image-102.png",
+    "PNGS/image-101.png",
+    "PNGS/image-100.png",
+    "PNGS/image-99.png",
+    "PNGS/image-98.png",
+    "PNGS/image-97.png",
+    "PNGS/image-96.png",
+    "PNGS/image-95.png",
+    "PNGS/image-94.png",
+    "PNGS/image-93.png",
+    "PNGS/image-92.png",
+    "ISLAMIC EVENTS/Isra Wa Miraj.md",
+    "Quranic Topics/Repentance.md",
+    "Quranic Topics",
+    "ISLAMIC EVENTS/Major Historical Events.md",
+    "ISLAMIC EVENTS/The Battle of Trench (627 CE).md",
+    "ISLAMIC EVENTS/The Battle of Uhud (625 CE).md",
+    "ISLAMIC EVENTS/Migration to Medina (622 CE).md",
+    "ISLAMIC EVENTS/The Battle of Badar (624 CE).md",
     "RULINGS OF ISLAM/Other Teachings/Tayammum.md",
-    "PNGS/image-67.png",
-    "PNGS/image-66.png",
-    "PNGS/image-65.png",
-    "PNGS/image-64.png",
-    "PNGS/image-63.png",
+    "RULINGS OF ISLAM/Other Teachings/Taraweeh or Salat Al Layl.md",
     "RULINGS OF ISLAM/Other Teachings/Other Teachings.md",
     "Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ.md",
     "Virtues and Merits/Mola Ali A.S/ALI AND AYAH E BARA'A.md",
-    "PNGS/image-62.png",
     "Virtues and Merits/Mola Ali A.S/Quranic Virtues/Ayat e Mubahala.md",
     "Virtues and Merits/Mola Ali A.S/Quranic Virtues/Ayat e Najwa.md",
     "Virtues and Merits/Mola Ali A.S/Quranic Virtues/Ayah e Tat'heer.md",
@@ -237,19 +264,7 @@
     "RULINGS OF ISLAM/Pillars of Islam/Salah/index.md",
     "RULINGS OF ISLAM/Pillars of Islam/Roza/index.md",
     "RULINGS OF ISLAM/Pillars of Islam/Hajj/index.md",
-    "Virtues and Merits/Mola Ali A.S/Quranic Virtues/Wilayah of Ali.md",
-    "Virtues and Merits/Mola Ali A.S/Quranic Virtues/index.md",
-    "Virtues and Merits/Mola Ali A.S/Quranic Virtues/Aqa ﷺ asks nothing except for the love of his family.md",
-    "Virtues and Merits/Ahlulbayt and Panjtan Pak/Mubahala ﷺ.md",
-    "Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak.md",
-    "PNGS/image-61.png",
-    "PNGS/image-60.png",
-    "conflict-files-obsidian-git.md",
     "quartz.layout.ts",
-    "index.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Combining prayers.md",
-    "PNGS/image-59.png",
-    "PNGS/image-58.png",
     "Virtues and Merits/Ahlulbayt and Panjtan Pak/Untitled.base",
     "PNGS/pngs 3/1.pdf",
     "PNGS/pngs 3",
@@ -258,7 +273,6 @@
     "PNGS/pngs/84.pdf",
     "PNGS/Aqa Muhammad PBUH/23.pdf",
     "MERITS/Imam Hassan A.S",
-    "MERITS/Salman Farsi",
     "Untitled.canvas"
   ]
 }
