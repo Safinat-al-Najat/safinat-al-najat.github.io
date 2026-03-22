@@ -5,6 +5,10 @@ weight: 14
 
 [Sunan Ibn Majah 119](https://sunnah.com/ibnmajah:119)
 
+![[image-62.png]]
+
+[Bihar Al Anwar Vol 21 Pg# 267](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V21.pdf)
+
 Ali is from Aqa Muhammad ﷺ and Aqa Muhammad ﷺ is from Ali
 
 

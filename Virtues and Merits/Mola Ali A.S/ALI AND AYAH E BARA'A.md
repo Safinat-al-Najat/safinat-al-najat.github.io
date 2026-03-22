@@ -5,6 +5,10 @@ weight: 57
 
 [Jami at Tirmidhi 3090](https://sunnah.com/tirmidhi:3090)
 
+![[image-62.png]]
+
+[Bihar Al Anwar Vol 21 Pg# 267](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V21.pdf)
+
 Ali was sent to deliver the Ayah of Barah and when Aqa Muhammad ﷺ was asked why he did so he said [[ALI FROM AQA ﷺ]].
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
