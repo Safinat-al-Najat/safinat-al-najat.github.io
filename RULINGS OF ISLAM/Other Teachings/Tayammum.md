@@ -24,4 +24,5 @@ It can also be used for purification in need of ghusl if water is not available.
 
 
 **Backlinks:**
+
 [[Other Teachings]][[Quran]]
