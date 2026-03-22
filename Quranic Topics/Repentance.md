@@ -187,7 +187,7 @@ Allah tells about the people who argue in this world for worldly matter but are 
 
 [Quran 11:3](https://quran.com/11/3)
 
-But even after repentance we turn away then Allah again warns us of the punishment.
+But even after repentance if we turn away then Allah again warns us of the punishment.
 
 ![[image-98.png]]
 ![[image-99.png]]
