@@ -1,4 +1,4 @@
 ---
-title: Obligations
+title: ETHICS AND RIGHTS
 weight: 4
 ---
