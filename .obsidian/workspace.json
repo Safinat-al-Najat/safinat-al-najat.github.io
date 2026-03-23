@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RULINGS OF ISLAM/Ethics and Rights/index.md",
+                "file": "Quranic Topics/Repentance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Repentance"
+            }
+          },
+          {
+            "id": "515cb7f96b3c4863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quranic Topics/Parents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parents"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,8 +253,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c045babb6d7918c5",
+  "active": "515cb7f96b3c4863",
   "lastOpenFiles": [
+    "PNGS/image-112.png",
+    "PNGS/image-111.png",
+    "PNGS/image-110.png",
+    "PNGS/image-109.png",
+    "PNGS/image-108.png",
+    "PNGS/image-107.png",
+    "Quranic Topics/Repentance.md",
+    "Quranic Topics/Parents.md",
+    "RULINGS OF ISLAM/Ethics and Rights/index.md",
     "RULINGS OF ISLAM/Ethics and Rights/Taqwa.md",
     "RULINGS OF ISLAM/Ethics and Rights/Allies.md",
     "RULINGS OF ISLAM/Ethics and Rights/Equal Rights.md",
@@ -264,19 +287,10 @@
     "RULINGS OF ISLAM/Halal And Haram/Haram/Alcohol, Gambling, Idols and lucky draw.md",
     "RULINGS OF ISLAM/Halal And Haram/Haram/Shirk.md",
     "RULINGS OF ISLAM/Halal And Haram/Haram/Hating Ali.md",
-    "RULINGS OF ISLAM/Halal And Haram/Haram/Hurting Bibi Pak.md",
-    "RULINGS OF ISLAM/Halal And Haram/Haram/Hating Ahlulbayt.md",
-    "RULINGS OF ISLAM/Halal And Haram/Haram/Hating Hasnain.md",
-    "RULINGS OF ISLAM/Halal And Haram/Haram/Haram.md",
     "PNGS/image-105.png",
     "PNGS/image-104.png",
     "PNGS/image-103.png",
     "PNGS/image-102.png",
-    "PNGS/image-101.png",
-    "PNGS/image-100.png",
-    "PNGS/image-99.png",
-    "PNGS/image-98.png",
-    "PNGS/image-97.png",
     "Quranic Topics",
     "quartz.layout.ts",
     "Virtues and Merits/Ahlulbayt and Panjtan Pak/Untitled.base",
