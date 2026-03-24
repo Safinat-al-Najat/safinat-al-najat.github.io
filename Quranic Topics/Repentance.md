@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 
 Repentance in Islam, known as Tawbah, is the sincere act of returning to Allah by abandoning sins, feeling deep remorse, and resolving never to repeat them.
 
