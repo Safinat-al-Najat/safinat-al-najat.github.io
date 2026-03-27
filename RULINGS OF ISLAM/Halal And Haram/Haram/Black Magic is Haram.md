@@ -1,7 +1,7 @@
 ---
 weight: 5
 ---
-![[PNGS/pngs/58.png]]
+![[PNGS/pngs/58.png|697]]
 
 [Quran 2:102](https://quran.com/2/102)
 

@@ -16,6 +16,8 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 "Hold firmly to the rope of Allah all together and do not become divided." — [Surah Al-Imran 3:103](https://quran.com/3/103)
 
+
+
 ---
 
 <style> .btn { display: inline-block; padding: 12px 20px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
@@ -30,5 +32,10 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 
 ---
+
+> [!note]
+> The explanations provided are based on personal study and reflection; they are not definitive and may be subject to correction. While I strive to include only **authentic and reliable Hadith**, if any weak or fabricated (**Mawdu**) narration has been included carelessly, I seek Allah’s forgiveness. There is no intention to spread misinformation.
+> If you spot an error, please reach out via the email provided so it can be corrected. **Jazakallah khayran.**
+
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
