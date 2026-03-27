@@ -1,7 +1,7 @@
 ---
 weight: 3
 ---
-
+**Taraweeh** is a special night prayer performed only during the month of **Ramadan**. It consists of several units of prayer (_rak'ahs_) and is characterized by long recitations of the Quran.
 
 ![[PNGS/pngs 3/Pasted image 20260308140500.png]]
 
