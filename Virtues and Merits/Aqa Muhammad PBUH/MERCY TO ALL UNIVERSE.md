@@ -12,4 +12,4 @@ The above verse tells us that Aqa Muhammad ﷺ is a mercy to all universe. His m
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

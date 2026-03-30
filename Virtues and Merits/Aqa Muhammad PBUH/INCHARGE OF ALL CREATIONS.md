@@ -17,4 +17,4 @@ The Quranic Verse used in the hadith is [Quran 59:7](https://quran.com/59/7)
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

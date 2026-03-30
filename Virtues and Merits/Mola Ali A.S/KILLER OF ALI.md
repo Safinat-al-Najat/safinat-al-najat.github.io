@@ -7,4 +7,4 @@ weight: 49
 
 Killer of Ali is the most wretched man of the whole mankind.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

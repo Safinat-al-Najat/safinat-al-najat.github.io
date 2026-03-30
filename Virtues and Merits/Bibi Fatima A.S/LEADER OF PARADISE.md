@@ -7,4 +7,4 @@ weight: 12
 
 Bibi Fatima is the leader of the woman of Paradise.
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

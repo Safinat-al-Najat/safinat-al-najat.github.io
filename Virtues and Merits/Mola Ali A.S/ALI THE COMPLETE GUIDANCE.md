@@ -7,4 +7,4 @@ weight: 33
 
 Ali will never let you go astray.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

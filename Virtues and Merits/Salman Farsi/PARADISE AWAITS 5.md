@@ -7,4 +7,4 @@ weight: 4
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Salman Farsi/SALMAN FARSI]]

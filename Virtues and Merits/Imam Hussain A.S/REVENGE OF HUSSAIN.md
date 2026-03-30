@@ -8,4 +8,4 @@ weight: 3
 Hadith clearly states that Allah will kill more people for revenge of Hussain.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

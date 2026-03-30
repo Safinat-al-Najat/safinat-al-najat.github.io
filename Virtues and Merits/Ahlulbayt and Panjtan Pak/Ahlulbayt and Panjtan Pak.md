@@ -3,13 +3,13 @@
 
 **Ahlulbayt** refers to the purified household of the Prophet Muhammad (ﷺ), who hold a central and sacred place in theology, spirituality, and religious authority.
 
-The concept is rooted in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/Mubahala ﷺ]], where Allah declares He has willed to remove all impurity from them and purify them completely — interpreted as conferring **infallibility (_ismah_)** upon them.
+The concept is rooted in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUABAHALAﷺ]], where Allah declares He has willed to remove all impurity from them and purify them completely — interpreted as conferring **infallibility (_ismah_)** upon them.
 
 ---
 
 ## Panjtan Pak (پنجتن پاک) — The Five Pure Ones
 
-**Panjtan Pak** ("the five pure ones") is a term particularly beloved in Shia devotion. It refers to the five individuals gathered under the cloak (_kisa_) in the famous [[Virtues and Merits/Ahlulbayt and Panjtan Pak/Hadith E Kisa]], confirmed also in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/Mubahala ﷺ|Mubahala ﷺ]].
+**Panjtan Pak** ("the five pure ones") is a term particularly beloved in Shia devotion. It refers to the five individuals gathered under the cloak (_kisa_) in the famous [[Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E KISA]], confirmed also in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUABAHALAﷺ|MUABAHALAﷺ]].
 
 |#|Name|Title/Relation|
 |---|---|---|
@@ -20,7 +20,7 @@ The concept is rooted in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/Mub
 |5|**Imam Husayn ibn Ali** (ع)|Grandson of the Prophet|
 
 
-**[[Virtues and Merits/Ahlulbayt and Panjtan Pak/Hadith E Thaqalayn]]** — The Prophet is reported to have said: _"I leave among you two weighty things: the Book of Allah and my Ahlulbayt — they will not separate until they return to me at the Hawd."_ This hadith is a central belief in the inseparable authority of the Quran and the Imams.
+**[[Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E THAQALAYN]]** — The Prophet is reported to have said: _"I leave among you two weighty things: the Book of Allah and my Ahlulbayt — they will not separate until they return to me at the Hawd."_ This hadith is a central belief in the inseparable authority of the Quran and the Imams.
 
 
 
@@ -30,4 +30,4 @@ The concept is rooted in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/Mub
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Merits]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Merits]]

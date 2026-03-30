@@ -10,4 +10,4 @@ Since Aqa ﷺ says whatever is revealed to him then it is divine speech. Whateve
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

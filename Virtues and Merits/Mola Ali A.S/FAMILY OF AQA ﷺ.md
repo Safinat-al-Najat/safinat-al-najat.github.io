@@ -5,11 +5,11 @@ weight: 15
 
 [Jami at Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 
-This hadith also has connection with [[Virtues and Merits/Mola Ali A.S/Quranic Virtues/Aqa ﷺ asks nothing except for the love of his family]].
+This hadith also has connection with [[Virtues and Merits/Mola Ali A.S/Quranic Virtues/LOVE OF AHLULBAIT]].
 
 
 
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -7,4 +7,4 @@ weight: 36
 
 Bibi Aisha stating that Ali knows more than her.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

@@ -13,4 +13,4 @@ One hadith is from Shia sources and one from sunni sources.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Salman Farsi/SALMAN FARSI]]

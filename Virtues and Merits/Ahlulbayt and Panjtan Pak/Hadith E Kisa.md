@@ -55,4 +55,4 @@ Narrated 'Umar bin Abi Salamah - the step-son of the Prophet (ﷺ):
 It is also called as The Hadith of Cloak.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Imam Hassan A.S/Imam Hassan]] [[Virtues and Merits/Imam Hussain A.S/Imam Hussain]] 
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]] [[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]] [[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]] 

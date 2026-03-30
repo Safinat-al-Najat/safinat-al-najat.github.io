@@ -2,4 +2,4 @@
 
 [Quran 24:60](https://quran.com/24/60)
 ##### **Backlinks:**
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]

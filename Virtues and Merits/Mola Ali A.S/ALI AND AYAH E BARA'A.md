@@ -11,4 +11,4 @@ weight: 57
 
 Ali was sent to deliver the Ayah of Barah and when Aqa Muhammad ﷺ was asked why he did so he said [[ALI FROM AQA ﷺ]].
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

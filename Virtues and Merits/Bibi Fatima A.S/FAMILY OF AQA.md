@@ -9,4 +9,4 @@ weight: 5
 So, these five are actually family/ahlulbayt of Aqa Muhammad ﷺ.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -17,4 +17,4 @@ Above hadith shows that it was a mutual act among both of them. Both of them use
 Aqa Muhammad ﷺ respect Bibi Fatima so much that Aqa Muhammad ﷺ used to stand to greet Bibi Fatima.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

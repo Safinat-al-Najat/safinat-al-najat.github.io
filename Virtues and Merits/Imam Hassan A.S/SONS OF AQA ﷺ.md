@@ -16,4 +16,4 @@ weight: 9
 According to this hadith, Hassan and Hussain are the sons of Aqa Muhammad ﷺ.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -13,4 +13,4 @@ Aqa ﷺ is a great favor of Allah indeed.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

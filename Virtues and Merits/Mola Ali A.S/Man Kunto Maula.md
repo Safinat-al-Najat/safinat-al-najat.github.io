@@ -18,4 +18,4 @@ So, the Messenger of God ﷺ said regarding ʿAlī, “For whomsoever I am his
 [Musnad Ahmad 950](https://sunnah.com/ahmad:950)
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

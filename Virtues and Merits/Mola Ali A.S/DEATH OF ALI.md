@@ -7,4 +7,4 @@ weight: 37
 
 Blood was found under stones after death of Ali.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

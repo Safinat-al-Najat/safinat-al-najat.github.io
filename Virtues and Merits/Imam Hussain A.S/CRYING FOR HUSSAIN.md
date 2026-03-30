@@ -13,4 +13,4 @@ weight: 4
 Aqa Muhammad ﷺ used to cry for Hussain.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

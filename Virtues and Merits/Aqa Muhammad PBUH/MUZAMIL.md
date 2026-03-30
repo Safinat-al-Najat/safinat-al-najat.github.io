@@ -9,4 +9,4 @@ Allah called Aqa Muhammad ﷺ as Muzamil.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

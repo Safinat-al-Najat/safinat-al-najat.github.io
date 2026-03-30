@@ -11,4 +11,4 @@ Although it's background is that everyone was reciting Quran but still we have t
 
 **BACKLINKS:**
 
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]

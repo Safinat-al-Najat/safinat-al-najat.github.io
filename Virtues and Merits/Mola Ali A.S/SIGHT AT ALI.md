@@ -15,4 +15,4 @@ Supporting hadith:
 
 So if sight of any pious person makes us close to Allah then it is Ibadah indeed.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

@@ -13,4 +13,4 @@ Ibrahim A.S the great messenger did dua for Aqa Muhammad ﷺ to be revealed.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -7,4 +7,4 @@ weight: 48
 
 Ali got dua from Aqa Muhammad ﷺ for his judgmental qualities.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

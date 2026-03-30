@@ -8,4 +8,4 @@ weight: 4
 So, Aqa Muhammad ﷺ just said that Love Hassan and love those who loves Hassan.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

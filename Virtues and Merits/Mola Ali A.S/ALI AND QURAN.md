@@ -9,4 +9,4 @@ weight: 24
 Ali is with Quran and Quran is with Ali.
 To be with Quran is not a big thing in comparison of Quran being with you.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -7,4 +7,4 @@ weight: 6
 
 Ali buried Bibi Fatima, also read [[BURIAL OF FATIMAH]].
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]]

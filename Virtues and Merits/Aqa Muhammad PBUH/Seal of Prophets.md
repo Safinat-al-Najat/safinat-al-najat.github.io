@@ -7,4 +7,4 @@ weight: 32
 
 Aqa Muhammad ﷺ is the seal of Prophets.
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -63,5 +63,5 @@ Narrated Al-Bara' bin Azib: Abu Bakr came to my father who was at home and purch
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Quranic Topics/Quran]][[ISLAMIC EVENTS/Major Historical Events]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Quranic Topics/QURAN]][[ISLAMIC EVENTS/MAJOR HISTORICAL EVENTS]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]]
 

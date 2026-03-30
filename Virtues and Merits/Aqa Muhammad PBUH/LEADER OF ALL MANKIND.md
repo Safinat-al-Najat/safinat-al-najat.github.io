@@ -16,4 +16,4 @@ The above hadith tells us that Aqa is the leader of all mankind. Every human on 
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

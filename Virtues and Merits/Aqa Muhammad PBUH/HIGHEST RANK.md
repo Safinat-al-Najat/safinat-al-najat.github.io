@@ -9,4 +9,4 @@ weight: 27
 Follow Aqa Muhammad ﷺ for the highest rank.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -6,4 +6,4 @@
 
 [Quran 33:32-33](https://quran.com/33/32)
 ##### **Backlinks:**
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]

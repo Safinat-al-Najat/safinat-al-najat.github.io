@@ -13,4 +13,4 @@ In the above it tells the significance of sending durood to Aqa Muhammad ﷺ, th
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

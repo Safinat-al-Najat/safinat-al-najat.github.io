@@ -10,4 +10,4 @@ It shows immense love of Syeda for her father. That even during battles how Bibi
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

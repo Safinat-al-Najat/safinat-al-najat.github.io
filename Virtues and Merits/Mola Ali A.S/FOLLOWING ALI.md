@@ -7,4 +7,4 @@ weight: 43
 
 Following Ali is following Aqa Muhammad ﷺ and following Aqa Muhammad ﷺ is following Allah.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

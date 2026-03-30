@@ -10,4 +10,4 @@ This hadith shows the love of Aqa Muhammad ﷺ for his great daughter. Whatever 
 Bibi Fatima is a part of Aqa Muhammad ﷺ indeed.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -15,4 +15,4 @@ This hadith tells us about how great were the morals of Aqa Muhammad ﷺ. As All
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

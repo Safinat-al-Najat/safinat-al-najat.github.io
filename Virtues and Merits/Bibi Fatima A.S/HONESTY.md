@@ -11,4 +11,4 @@ Bibi Ayesha tells that how mannered was Bibi Fatima and how she was honest like 
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]]

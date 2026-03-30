@@ -9,4 +9,4 @@ Aqa Muhammad ﷺ is called as Basheera,Nazeera and Sirajan Munira.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

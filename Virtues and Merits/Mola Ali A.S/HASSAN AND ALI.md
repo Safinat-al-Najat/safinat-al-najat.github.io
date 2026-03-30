@@ -7,4 +7,4 @@ weight: 47
 
 Hassan explaining the virtues of Ali.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]]

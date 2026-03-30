@@ -15,4 +15,4 @@ To understand it's connection read the hadith below:
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Quranic Topics/Quran]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Quranic Topics/QURAN]]

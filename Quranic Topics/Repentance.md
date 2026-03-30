@@ -203,6 +203,6 @@ So those who repent then they will surely be in Jannah.
 
 **Backlinks:**
 
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]
 
 

@@ -4,4 +4,4 @@
 
 Aqa Muhammad ﷺ named Hassan and Hussain.
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -21,4 +21,4 @@ So, it can be said that Remembrance of Ali is Ibadah or Dhikr of Ali is Ibadah.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

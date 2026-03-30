@@ -7,4 +7,4 @@ weight: 12
 
 Hassan used to ride on the shoulders of Aqa Muhammad ﷺ.
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

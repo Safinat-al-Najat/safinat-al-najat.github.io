@@ -2,4 +2,4 @@
 
 [Quran 2:228](https://quran.com/2/228)
 ##### **Backlinks:**
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]

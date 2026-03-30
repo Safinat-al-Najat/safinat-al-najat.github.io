@@ -15,8 +15,8 @@ weight: 5
 
 [Mustadrak Al Hakim 4664](https://al-hadees.com/mustadrak/4664)
 
-It is also known as [[Hadith E Kisa]]
+It is also known as [[Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E KISA]]
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -10,4 +10,4 @@ weight: 54
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Salman Farsi/Salman Farsi]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]]

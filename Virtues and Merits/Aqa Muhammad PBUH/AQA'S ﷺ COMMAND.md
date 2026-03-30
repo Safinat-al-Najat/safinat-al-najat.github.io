@@ -7,4 +7,4 @@ weight: 22
 
 Reward for following Aqa Muhammad ﷺ.
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

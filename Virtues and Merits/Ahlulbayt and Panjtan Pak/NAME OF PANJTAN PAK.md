@@ -12,4 +12,4 @@ According to the given hadith names of Panjtan Pak are derived from names of All
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

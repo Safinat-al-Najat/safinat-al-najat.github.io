@@ -15,4 +15,4 @@ As Aqa Muhammad ﷺ was a mercy to all universe so how could he ever criticize a
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

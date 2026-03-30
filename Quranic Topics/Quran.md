@@ -6,4 +6,4 @@ The Quran is the central, sacred scripture of Islam, believed by Muslims to be 
 
 **BACKLINKS:**
 
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -8,6 +8,6 @@ weight: 13
 There is difference of opinion on this hadith.
 
 Ali will be the first to enter Jannah according to this hadith.
-Also read [[First to Enter Jannah]]
+Also read [[Virtues and Merits/Ahlulbayt and Panjtan Pak/FIRST TO ENTER JANNAH]]
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

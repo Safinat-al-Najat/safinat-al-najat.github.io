@@ -9,4 +9,4 @@ Aqa Muhammad ﷺ is a light from Allah in sense of guidance.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

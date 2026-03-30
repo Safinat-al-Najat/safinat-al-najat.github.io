@@ -11,4 +11,4 @@ weight: 59
 
 Aqa Muhammad ﷺ said that Ummah will betray Ali after him.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

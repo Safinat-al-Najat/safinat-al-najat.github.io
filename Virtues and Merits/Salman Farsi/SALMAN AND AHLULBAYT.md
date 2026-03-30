@@ -21,4 +21,4 @@ Salman was also declared as one of the person of Ahlulbayt A.S.
 
 So, Salman Al Farsi is also from Ahlulbayt.
 ##### **Backlinks:**
-[[Virtues and Merits/Salman Farsi/Salman Farsi]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/Mubahala ﷺ]][[Virtues and Merits/Mola Ali A.S/Mola Ali]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]]
+[[Virtues and Merits/Salman Farsi/SALMAN FARSI]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUABAHALAﷺ]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]]

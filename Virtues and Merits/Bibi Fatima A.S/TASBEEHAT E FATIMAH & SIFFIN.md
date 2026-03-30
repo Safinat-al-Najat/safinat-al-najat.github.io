@@ -10,4 +10,4 @@ Hadith shows that how much the tasbeeh was loved by Mola Ali that even during th
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]][[Virtues and Merits/Mola Ali A.S/Mola Ali]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

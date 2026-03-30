@@ -12,4 +12,4 @@ weight: 10
 
 The hadith shows that how much there is respect of Bibi Fatima even in Akhirah.
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

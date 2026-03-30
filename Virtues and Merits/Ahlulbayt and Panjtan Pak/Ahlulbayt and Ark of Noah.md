@@ -15,7 +15,7 @@ Above hadith means like the ark of Noah was a source of Nijaat for the people on
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/Ahlulbayt and Panjtan Pak]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
 
 ---
 

@@ -2,4 +2,4 @@
 
 [Quran 4:7](https://quran.com/4/7)
 ##### **Backlinks:**
-[[Quranic Topics/Quran]]
+[[Quranic Topics/QURAN]]

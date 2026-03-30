@@ -7,4 +7,4 @@ weight: 8
 
 Hussain is from Aqa Muhammad ﷺ and Aqa Muhammad ﷺ is from Hussain.
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hussain A.S/Imam Hussain]][[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -7,4 +7,4 @@ weight: 16
 
 These 4 are the best woman of their time.
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/Bibi Fatima]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

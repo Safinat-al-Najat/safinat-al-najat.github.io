@@ -45,4 +45,4 @@ Allah tells how much hardship mother goes through.
 
 **BACKLINKS:**
 
-[[QURAN]]
+[[Quranic Topics/QURAN]]

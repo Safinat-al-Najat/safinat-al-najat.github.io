@@ -7,4 +7,4 @@ weight: 40
 
 Who deviates from Ali deviates from Aqa Muhammad ﷺ and who deviates from Aqa Muhammad ﷺ deviates from Allah.
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/Mola Ali]] [[Virtues and Merits/Aqa Muhammad PBUH/Aqa Muhammad ﷺ]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
