@@ -1,7 +1,7 @@
 ---
 weight: 14
 ---
-![[PNGS/pngs/34.png]]
+![[image-122.png]]
 
 **Narrated Anas:**
 

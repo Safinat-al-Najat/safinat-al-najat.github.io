@@ -1,7 +1,7 @@
 ---
 weight: 12
 ---
-![[PNGS/pngs 3/Pasted image 20260308142800.png]]
+![[image-115.png]]
 
 **Narrated Abdullah bin Amr:**
 

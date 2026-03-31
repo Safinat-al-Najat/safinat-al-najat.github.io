@@ -1,7 +1,7 @@
 ---
 weight: 10
 ---
-![[PNGS/pngs/31.png]]
+![[image-120.png]]
 
 **Narrated Abu Huraira:**
 

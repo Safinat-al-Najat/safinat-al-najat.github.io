@@ -1,7 +1,7 @@
 ---
 weight: 26
 ---
-![[PNGS/pngs 2/2.png]]
+![[image-125.png]]
 
 **Narrated Jubair bin Mutim:
 

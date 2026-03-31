@@ -1,7 +1,7 @@
 ---
 weight: 15
 ---
-![[PNGS/pngs/35.png]]
+![[image-123.png]]
 
 **Narrated Abu Said:**
 

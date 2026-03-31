@@ -1,7 +1,7 @@
 ---
 weight: 11
 ---
-![[PNGS/pngs 3/Pasted image 20260308142955.png]]
+![[image-121.png]]
 
 **Narrated Aisha:**
 

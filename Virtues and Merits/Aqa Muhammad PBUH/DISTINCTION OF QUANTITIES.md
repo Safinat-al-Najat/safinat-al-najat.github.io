@@ -1,7 +1,7 @@
 ---
 weight: 24
 ---
-![[PNGS/Aqa Muhammad PBUH/15.png]]
+![[image-124.png]]
 
 **It was narrated from Muhammad bin Ali that he heard Ali bin Abi Talib (رضي الله عنه) say:**
 
