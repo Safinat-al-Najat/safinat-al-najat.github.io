@@ -1,6 +1,10 @@
 ---
 weight: 9
 ---
+![[image-114.png]]
+
+[Sahih Bukhari 3753](https://sunnah.com/bukhari:3753)
+
 ![[PNGS/pngs 2/13.jpeg]]
 
 [Mustadrak Al Hakim 4776](https://al-hadees.com/mustadrak/4730)

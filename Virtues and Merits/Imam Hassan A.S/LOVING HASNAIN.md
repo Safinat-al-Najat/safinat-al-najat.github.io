@@ -1,3 +1,7 @@
+![[image-113.png]]
+
+[Sahih Muslim 2421b](https://sunnah.com/muslim:2421b)
+
 ![[PNGS/pngs/45.jpeg|420]]
 
 [Mustadrak Al Hakim 4791](https://al-hadees.com/mustadrak/4791)
