@@ -23,11 +23,5 @@ The concept is rooted in the [[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUA
 **[[Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E THAQALAYN]]** — The Prophet is reported to have said: _"I leave among you two weighty things: the Book of Allah and my Ahlulbayt — they will not separate until they return to me at the Hawd."_ This hadith is a central belief in the inseparable authority of the Quran and the Imams.
 
 
-
-
-
-
-
-
 ##### **Backlinks:**
 [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Merits]]

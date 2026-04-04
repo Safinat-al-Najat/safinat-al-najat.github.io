@@ -1,6 +1,11 @@
 ![[PNGS/pngs 2/35.png]]
 
 [Sunan Ibn Majah 143](https://sunnah.com/ibnmajah:143)
+![[image-144.png]]
+
+**Graded as Hasan**
+
+[Al Adab Al Mufrad 364](https://sunnah.com/adab:364)
 
 Loving Hussain is loving Aqa Muhammad ﷺ and Hating Hussain Aqa Muhammad ﷺ.
 ##### **Backlinks:**
