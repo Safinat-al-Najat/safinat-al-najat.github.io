@@ -1,3 +1,6 @@
+---
+weight: 11
+---
 ![[PNGS/pngs/48.png]]
 
 [Sunan an Nasai 4213](https://sunnah.com/nasai:4213)

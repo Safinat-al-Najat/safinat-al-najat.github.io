@@ -1,3 +1,6 @@
+---
+weight: 14
+---
 ![[image-113.png]]
 
 [Sahih Muslim 2421b](https://sunnah.com/muslim:2421b)
