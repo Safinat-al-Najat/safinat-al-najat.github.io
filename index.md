@@ -35,6 +35,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 > [!note]
 > The explanations provided are based on personal study and reflection; they are not definitive and may be subject to correction. While I strive to include only **authentic and reliable Hadith**, if any weak or fabricated (**Mawdu**) narration has been included carelessly, I seek Allah’s forgiveness. There is no intention to spread misinformation.
+> And make sure to read [[Blind Following]] before you start reading.
 > If you spot an error, please reach out via the email provided so it can be corrected. **Jazakallah khayran.**
 
 ### For any queries:
