@@ -60,7 +60,7 @@ Corroborating hadith for the above hadith is given below:
 
 [Jami at Tirmidhi 381](https://sunnah.com/tirmidhi:381)
 
-Here by blowing means he was blowing the dust from the place of prostation.
+Here by blowing means he was blowing the dust from the place of prostration.
 
 ![[image-46.png]]
 
