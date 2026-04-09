@@ -25,12 +25,42 @@ In Majmoo Al Fatawa by Ibn Taymiyyah he supports placing turbah or dirt or stone
 
 ![[image-44.png]]
 
+"He replied: Praise be to Allah, Lord of the Worlds. As for praying on a prayer rug (sajadah) in such a way that the worshiper specifically seeks it out—this was not the practice (_Sunnah_) of the early predecessors (_Salaf_) among the Migrants (_Muhajireen_) and the Supporters (_Ansar_), nor those who followed them in righteousness during the time of the Messenger of Allah, peace and blessings be upon him.
+
+Rather, they used to pray in his mosque on the ground; none of them would take a rug specifically for prayer. It was narrated that when Abd al-Rahman bin Mahdi arrived in Medina, he spread out a prayer rug. Consequently, [Imam] Malik ordered that he be imprisoned. It was said to him: 'He is Abd al-Rahman bin Mahdi.' Malik replied: 'Do you not know that spreading a prayer rug in our mosque is an innovation (_bid’ah_)?'
+
+In the _Sahih_ [collection], it is narrated from Abu Sa’id al-Khudri regarding the _Hadith_ of the Prophet’s seclusion (_I’tikaf_), peace be upon him" (Translated)
+
 [Majmoo Al Fatawa Vol 22 Pg 162](https://archive.org/details/ar_22_Fatawa_Ibn_Taymiyyah/page/n162/mode/1up)
 
 
 ![[image-45.png]]
 
+'We performed **I'tikaf** (seclusion in the mosque) with the Messenger of Allah, peace and blessings be upon him...' He then mentioned the rest of the Hadith, in which the Prophet said: 'Whoever was in I'tikaf, let him return to his place of retreat, for I have been shown this night Laylat al-Qadr, and I saw myself **prostrating in water and mud**.'
+
+At the end of the Hadith, it says: 'I saw on the morning of the twenty-first, on his nose and the tip of his nose, the **traces of water and mud**.'
+
+This clearly shows that his prostration was on the mud. His mosque was roofed with palm branches through which the rain leaked, so the floor of his mosque was of the same nature as the earth." (Translated)
+
+
 [Majmoo Al Fatawa Vol 22 Pg 163](https://archive.org/details/ar_22_Fatawa_Ibn_Taymiyyah/page/n163/mode/1up)
+
+![[image-152.png]]
+
+"I was with Umm Salama (the Prophet's wife) when a young relative of hers with long hair entered. He stood up to pray and **blew at the dust on the ground**. She said, 'O my son, do not blow, for I heard the Messenger of Allah ﷺ say to a black slave of ours named Rabah: **"O Rabah, let your face be covered with dust during prostration."**
+
+"This is a Hadith with a **Sahih** (authentic) chain of narration, though it was not recorded by Bukhari or Muslim.
+**Verification:** Confirmed as **Sahih** by Al-Dhahabi (Translated)"
+
+[Mustadrak Al Hakim 1001](https://hadithunlocked.com/hakim:1001)
+
+Corroborating hadith for the above hadith is given below:
+
+![[image-153.png]]
+
+[Jami at Tirmidhi 381](https://sunnah.com/tirmidhi:381)
+
+Here by blowing means he was blowing the dust from the place of prostation.
 
 ![[image-46.png]]
 

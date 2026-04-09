@@ -5,9 +5,14 @@ weight: 12
 
 [Sahih Muslim 78](https://sunnah.com/muslim:78)
 
+![[image-154.png]]
+
+[Al Amali Book 8 Ch 10 H#1](https://thaqalayn.net/hadith/13/8/10/1)
+
 ![[image-26.png]]
 
 [Bihar Al Anwaar Vol 27 Pg# 94](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
+
 
 As Allah says in [Quran 4:80](https://quran.com/4/80):
 
