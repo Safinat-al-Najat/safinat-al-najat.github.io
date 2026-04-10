@@ -16,11 +16,10 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 "Hold firmly to the rope of Allah all together and do not become divided." — [Surah Al-Imran 3:103](https://quran.com/3/103)
 
-a
 
 ---
 
-<style> .btn { display: inline-block; padding: 30px 40px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
+<style> .btn { display: inline-block; padding: 30px 40px !important; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
 <a href="/Tawhid" class="btn">🕋 Tawhid<br><small>The Oneness of Allah</small></a>
 
