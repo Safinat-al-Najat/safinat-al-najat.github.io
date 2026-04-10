@@ -20,7 +20,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 ---
 
-<style> .btn { display: inline-block; padding: 12px 20px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
+<style> .btn { display: inline-block; padding: 20px 30px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
 <a href="/Tawhid" class="btn">🕋 Tawhid<br><small>The Oneness of Allah</small></a>
 
