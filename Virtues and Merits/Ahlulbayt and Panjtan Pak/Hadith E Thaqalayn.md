@@ -1,9 +1,5 @@
 ![[PNGS/pngs 2/7.jpeg|438]]
 
-**Yazid b. Hayyan reported:**
-
-**We went to him (Zaid b. Arqam) and said to him. You have found goodness (for you had the honour) to live in the company of Allah's Messenger (ﷺ) and offered prayer behind him, and the rest of the hadith is the same but with this variation of wording that lie said: Behold, for I am leaving amongst you two weighty things, one of which is the Book of Allah, the Exalted and Glorious, and that is the rope of Allah. He who holds it fast would be on right guidance and he who abandons it would be in error, and in this (hadith) these words are also found: We said: Who are amongst the members of the household? Aren't the wives (of the Holy Prophet) included amongst the members of his house hold? Thereupon he said: No, by Allah, a woman lives with a man (as his wife) for a certain period; he then divorces her and she goes back to her parents and to her people; the members of his household include his ownself and his kith and kin (who are related to him by blood) and for him the acceptance of Zakat is prohibited.**
-
 [Sahih Muslim 2408d](https://sunnah.com/muslim:2408d)
 
 ![[PNGS/pngs 2/8.jpeg|484]]
@@ -43,9 +39,13 @@
 [Sahih Al-Jami’ Al Sagheer Al-Albani Vol 1 Pg 482 H 2457](https://waqfeya.net/books/%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1-%D9%88%D8%B2%D9%8A%D8%A7%D8%AF%D8%AA%D9%87-%D8%A7%D9%84%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%B7-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-91c8def3ad8b4b1688a86cfd0ca19764)
 
 
-![[PNGS/pngs/43.png|452]]
+![[PNGS/pngs/43.png|447]]
 
 [Al Khisal Book 3 Chapter 80](https://thaqalayn.net/chapter/10/3/80)
+
+![[image-156.png]]
+
+[Mujam Al Ahadtih Al Mutabara Book 2 Ch 5 H#12](https://thaqalayn.net/hadith/9/2/5/12)
 
 Thaqalayn means two weighty things.
 

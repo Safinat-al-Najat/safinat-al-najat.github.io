@@ -10,6 +10,10 @@ weight: 7
 
 Above hadith means like the ark of Noah was a source of Nijaat for the people on it, Ahlulbayt A.S are also a source of Nijaat whoever clings to them is saved.
 
+![[image-158.png]]
+
+[Al Amali Book 1 Ch 5 H#5](https://thaqalayn.net/hadith/29/1/5/5)
+
 
 
 ##### **Backlinks:**

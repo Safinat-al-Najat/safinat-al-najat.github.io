@@ -9,21 +9,14 @@ weight: 13
 
 ![[image-25.png|499]]
 
-**‘Rasool-Allah said: ‘A servant does not believe until I happen to be more beloved to him than himself, and my family is more beloved to him than his own family, and my offspring are more beloved to him than his own offspring, and my self is more beloved to him than his own self’.**
-
 [Bihar Al Anwaar Vol 27 Pg 87](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
 
 ![[image-24.png]]
-
-**‘Rasool-Allah said: ‘Love Allah due to what He Provides you all with it, of His bounties, and love me for the love of Allah Mighty and Majestic, and love People of my Household for my love’’.**
 
 [Bihar Al Anwaar Vol 27 Pg 88](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V27.pdf)
 
 The hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we love him and Allah.
 So, love Ahlulbayt if you love Aqa Muhammad ﷺ.
-
-
-
 
 
 
