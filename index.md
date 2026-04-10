@@ -22,6 +22,8 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 <style> .btn { display: inline-block; padding: 12px 20px; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
+<a href="/Tawhid" class="btn">🕋 Tawhid<br><small>The Oneness of Allah</small></a>
+
 <a href="/Quranic%20Topics" class="btn">📖 Quranic Topics<br><small>Topics explained in light of Quran</small></a>
 
 <a href="/Virtues%20and%20Merits" class="btn">🌟 Virtues and Merits<br><small>Virtues of Ahlulbayt</small></a>
