@@ -30,6 +30,10 @@ According to this hadith Aqa Muhammad ﷺ tells us that the best way to offer Na
 
 [Sahih Bukhari 6113](https://sunnah.com/bukhari:6113)
 
+![[image-164.png]]
+
+[Sunan Abi Dawud 1447](https://sunnah.com/abudawud:1447)
+
 Above Hadith shows that Aqa Muhammad ﷺ got angry when people asked him to lead taraweeh and highlights that Aqa Muhammad ﷺ  didn't wanted it to be offered in congregation. 
 
 
@@ -43,11 +47,29 @@ In this hadith, it is clearly mentioned that Umar himself called it as a Bid'a. 
 
 [Sahih Bukhari 990](https://sunnah.com/bukhari:990)
 
-No one knows how many rakat that specific Prayer was but Salat Al Layl/Tahajjud is recommended.
+Moreover, Aqa ﷺ never gathered people for taraweeh.
+
+![[image-165.png]]
+
+[Musnad Ahmad 7881](https://www.quranohadith.com/musnad-ahmed/7881)
+
+No one knows how many rakat that specific Prayer was but Salat Al Layl/Tahajjud is recommended. 
 
 ![[image-52.png]]
 
 [Sahih Bukhari 1123](https://sunnah.com/bukhari:1123)
+
+![[image-162.png]]
+
+[Sahih Bukhari 1147](https://sunnah.com/bukhari:1147)
+
+![[image-163.png]]
+
+[Sahih Bukhari 2013](https://sunnah.com/bukhari:2013)
+
+![[image-166.png]]
+
+[Wasail Al Shia Vol 8 Ch 20 H#10829](https://wasail-al-shia.net/r/10877)
 
 Salat Al Layl or Tahajjud is 11 rakats.
 
