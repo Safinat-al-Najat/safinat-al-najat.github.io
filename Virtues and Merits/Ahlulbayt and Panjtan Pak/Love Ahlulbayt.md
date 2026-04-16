@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[PNGS/pngs 2/34.jpeg|494]]
+![[PNGS/pngs 2/34.jpeg|507]]
 
 **"Hazrat Abdullah bin Abbas (may Allah be pleased with him) said: The Messenger of Allah (peace and blessings of Allah be upon him) said: Love Allah because He has bestowed His blessings upon you, and love me for the love of Allah, and love my family for the love of me." * This hadith has a sahih chain of transmission, but Imam Bukhari (may Allah have mercy on him) and Imam Muslim (may Allah have mercy on him) did not narrate it.**
 

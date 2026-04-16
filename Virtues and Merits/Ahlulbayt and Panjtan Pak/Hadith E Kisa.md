@@ -14,23 +14,13 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 ![[image-12.png|440]]
 
-**‘From Abu Ja’ar regarding Words of the Exalted: But rather, Allah Intends to Keep the uncleanness away from you, People of the Household, and Purify you (with) a Purification. He said: ‘This Verse was Revealed regarding Rasool-Allah, and Ali Bin Abu Talib, and (Syeda) Fatima, and Al-Hassan and Al-Husayn, and that (happened) in the house of Umm Salama , wife of the Prophet. ا Rasool-Allah called Ali, and (Syeda) Fatima, and Al-Hassan and Al-Husayn . Then he covered them with a Khyberi cloak of his, and entered to be with them . Then he said: ‘They are People of my Household, those You Promised me regarding them what You Promised me. O Allah! Keep away the uncleanness from them and Purify them with a Purification’. So, this Verse was Revealed.  Umm Salama said, ‘And am Ira with them, O Rasool-Allah?’ He said: ‘Receive glad tidings, O Umm Salamara, for youra are (destined) to good’.**
-
 [Bihar Al Anwar Vol 35 Pg# 206](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V35.pdf)
 
 ![[image-10.png]]
 
-**'A'isha reported that Allah's Apostle (ﷺ) went out one norning wearing a striped cloak of the black camel's hair that there came Hasan b. 'Ali. He wrapped hitn under it, then came Husain and he wrapped him under it along with the other one (Hasan). Then came Fatima and he took her under it, then came 'Ali and he also took him under it and then said:**
-
-**Allah only desires to take away any uncleanliness from you, O people of the household, and purify you (thorough purifying)**
-
 [Sahih Muslim 2424](https://sunnah.com/muslim:2424)
 
 ![[image-11.png]]
-
-Narrated 'Umar bin Abi Salamah - the step-son of the Prophet (ﷺ):
-
-**"When these Ayat were revealed to the Prophet (ﷺ): 'Allah only wishes to remove the Rijs from you, O members of the family, and to purify you with a thorough purification...' (33:33) in the home of Umm Salamah, he called for Bibi Fatima, Hasan, Husain, and wrapped them in a cloak, and 'Ali was behind him, so he wrapped him in the cloak, then he said: 'O Allah! These are the people of my house, so remove the Rijs from them, and purify them with a thorough purification.' So Umm Salamah said: 'And am I with them O Messenger of Allah?' He said: 'You are in your place, and you are more virtuous to me.'"**
 
 [Jami at Tirmidhi 3787](https://sunnah.com/tirmidhi:3787)
 

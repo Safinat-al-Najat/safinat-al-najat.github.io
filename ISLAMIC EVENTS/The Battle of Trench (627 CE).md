@@ -34,7 +34,7 @@ Another main event that happened is as below:
 Another Major event that happened is that when a fighter from Pagans crossed the trench and started mocking the muslims to come and fight.
 
 ![[PNGS/pngs 3/Pasted image 20260309144819.png]]
-![[PNGS/pngs 3/Pasted image 20260309144924.png]]
+![[PNGS/pngs 3/Pasted image 20260309144924.png|503]]
 
 |                                                                                                      |              |
 | ---------------------------------------------------------------------------------------------------- | ------------ |
