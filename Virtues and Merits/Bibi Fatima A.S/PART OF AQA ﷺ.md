@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 ![[PNGS/pngs 3/34.png]]
 
 [Bukhari 3767](https://sunnah.com/bukhari:3767)

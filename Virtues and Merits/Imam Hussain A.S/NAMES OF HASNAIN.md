@@ -1,3 +1,6 @@
+---
+weight: 3
+---
 ![[PNGS/pngs/46.png]]
 
 [Musnad Ahmad 1370](https://sunnah.com/ahmad:1370)

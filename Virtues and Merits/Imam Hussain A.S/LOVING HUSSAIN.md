@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 ![[PNGS/pngs 2/35.png]]
 
 [Sunan Ibn Majah 143](https://sunnah.com/ibnmajah:143)
