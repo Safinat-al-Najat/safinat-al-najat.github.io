@@ -4,6 +4,7 @@ weight: 3
 
 
 ![[image-200.png|391]]![[image-199.png|390]]
+
 Had the Messenger of God ﷺ remained silent and not made clear who the People of his House are, the family of so-and-so and the family of so-and-so would have claimed it. However, God, the Mighty and Majestic, sent down in His Book to affirm the words of His Prophet ﷺ, "God intends only to keep away from you the impurity, People of the House, and to purify you with the utmost purification" ([33:33](https://quran.com/33/33)).  
   
 ʿAlī, Fāṭimah, al-Ḥasan and al-Ḥusayn - upon them be peace - were there, so the Messenger of God ﷺ took them under the cloak, in the house of Umm Salamah. Then he said, “O God, for every prophet is a family and a heavyweight, and these are my family and my heavyweight.” So Umm Salamah said, “Am I not from your family?” So he said, “You are upon goodness, but these are my family and my heavyweight.”
