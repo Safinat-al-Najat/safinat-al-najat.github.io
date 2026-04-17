@@ -1,12 +1,12 @@
 ---
 weight: 14
 ---
-![[PNGS/pngs 3/35.png]]
+![[image-265.png|629]]![[image-264.png|625|625x701]]
 
 [Sahih Bukhari 3623,3624](https://sunnah.com/bukhari:3623)
 
-
-![[image-141.png]]
+![[image-267.png]]
+![[image-266.png]]
 
 [Jami at Tirmidhi 3768](https://sunnah.com/tirmidhi:3781)
 

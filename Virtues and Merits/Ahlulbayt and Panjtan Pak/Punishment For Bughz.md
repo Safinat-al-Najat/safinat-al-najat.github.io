@@ -1,7 +1,10 @@
 ---
 weight: 16
 ---
-![[PNGS/pngs 3/16.jpeg|533]]
+![[image-198.png]]
+
+![[image-196.png]]
+![[image-197.png]]
 
 **Hazrat Abu Saeed Al-Khudri (may Allah be pleased with him) said: The Messenger of Allah (peace and blessings of Allah be upon him) said: “By Him! Whoever harbors hatred towards my Ahlul Bayt, Allah will cast him into Hell.” This hadith is authentic according to the criteria of Imam Muslim (may Allah have mercy on him), but the Sheikhs (may Allah have mercy on him) did not narrate it.**
 

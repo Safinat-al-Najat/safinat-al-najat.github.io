@@ -1,7 +1,7 @@
 ---
 weight: 12
 ---
-![[image-129.png]]
+![[image-250.png|574]]![[image-129.png]]
 
 "Hazrat Yahya bin Abbad bin Abdullah bin Al-Zubair narrates this statement from his father that the Mother of the Believers, Hazrat Aisha (RA), whenever she mentioned Hazrat Fatima (RA), would say: 'I have never seen anyone with a more similar tone of voice than her, except her esteemed father."
 

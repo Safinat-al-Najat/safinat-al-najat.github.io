@@ -1,9 +1,14 @@
 ---
 weight: 10
 ---
-![[PNGS/pngs/40.jpeg|415]]
+![[image-177.png|594]]![[image-175.png]]
 
-**"Hazrat Abdullah bin Abbas (RA) narrates: The Messenger of Allah (ﷺ) said: O Bani Abdul Muttalib! I ask Allah for three things for you: (1) To make you steadfast. (2) To guide your misguided ones. (3) To make your ignorant ones knowledgeable. And I also asked Allah to make you generous, brave and merciful. So if a person prays between the Rukn and Maqam Ibrahim and is fasting, then he dies while he is envious of the Ahlul Bayt of Muhammad (ﷺ), then he is a person of Hellfire. * This hadith is hasan sahih according to the criteria of Imam Muslim (RA), but Imam Bukhari (RA) and Imam Muslim (RA) did not narrate it."**
+**"Hazrat Abdullah bin Abbas (RA) narrates: The Messenger of Allah (ﷺ) said: O Bani Abdul Muttalib! I ask Allah for three things for you: 
+(1) To make you steadfast. 
+(2) To guide your misguided ones. 
+(3) To make your ignorant ones knowledgeable. 
+
+And I also asked Allah to make you generous, brave and merciful. So if a person prays between the Rukn and Maqam Ibrahim and is fasting, then he dies while he is envious of the Ahlul Bayt of Muhammad (ﷺ), then he is a person of Hellfire. * This hadith is hasan sahih according to the criteria of Imam Muslim (RA), but Imam Bukhari (RA) and Imam Muslim (RA) did not narrate it."**
 
 [Mustadrak Al Hakim 4712](https://quranohadith.com/mustadrak/4712)
 

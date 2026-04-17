@@ -1,11 +1,11 @@
 ---
 weight: 10
 ---
-![[PNGS/pngs 3/25.jpeg]]
+![[image-260.png]]![[image-259.png]]
 
 [Mustadrak Al Hakim 4757](https://al-hadees.com/mustadrak/4757)
 
-![[PNGS/pngs 3/26.jpeg]]
+![[image-261.png]]![[image-262.png]]
 
 
 [Mustadrak Al Hakim 4728](https://al-hadees.com/mustadrak/4728)

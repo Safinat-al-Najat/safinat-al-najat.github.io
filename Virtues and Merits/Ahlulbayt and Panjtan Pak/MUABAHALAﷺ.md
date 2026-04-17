@@ -1,9 +1,4 @@
-![[PNGS/pngs/86.webp]]
-
-Narrated 'Amir bin Sa'd bin Abi Waqqas:
-
-**from his father who said: "When this Ayah was revealed: 'Come, let us call our sons and your sons, our women and your women... (3:61)' the Messenger of Allah (ﷺ) called 'Ali, Bibi Fatima, Hasan and Husain and said: 'O Allah! This is my family.'"**
-
+![[image-173.png]]![[image-174.png]]
 [Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 
 

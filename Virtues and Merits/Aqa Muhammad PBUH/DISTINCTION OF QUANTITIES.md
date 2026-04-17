@@ -1,7 +1,7 @@
 ---
 weight: 24
 ---
-![[image-124.png]]
+![[image-246.png|412]]![[image-124.png]]
 
 **It was narrated from Muhammad bin Ali that he heard Ali bin Abi Talib (رضي الله عنه) say:**
 

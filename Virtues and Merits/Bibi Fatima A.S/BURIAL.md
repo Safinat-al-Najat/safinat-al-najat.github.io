@@ -1,7 +1,7 @@
 ---
 weight: 16
 ---
-![[image-132.png]]
+![[image-252.png|567]]![[image-132.png]]
 
 "The Mother of the Believers, Hazrat Aisha (RA), says: The modesty of the daughter of the Messenger of Allah (PBUH), Hazrat Fatima (RA), was such that she was buried in the darkness of the night, and Hazrat Ali (RA) led her funeral prayer and he also buried her, and Hazrat Abu Bakr (RA) did not even know about her funeral and burial."
 

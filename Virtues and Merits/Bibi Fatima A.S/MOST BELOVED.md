@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[image-135.png]]
+![[image-255.png|583]]![[image-135.png]]
 
 "Jami' bin 'Umair narrated: I went with my mother to the house of Umm Al-Mu'minin, Hazrat 'Aisha. I heard her voice from behind the curtain. My mother was asking her about Hazrat 'Ali, upon him be peace. So Umm Al-Mu'minin said, "You are asking me about that man? By Allah! I do not know of any person other than Hadhrat 'Ali whom the Messenger of Allah loved more than him, and I do not know of any woman on the face of the earth whom he loved more than his wife (Fatima)."
 

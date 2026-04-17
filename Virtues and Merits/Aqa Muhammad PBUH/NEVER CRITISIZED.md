@@ -1,11 +1,7 @@
 ---
 weight: 10
 ---
-![[image-120.png]]
-
-**Narrated Abu Huraira:**
-
-**The Prophet (ﷺ) never criticized any food (presented him), but he would eat it if he liked it; otherwise, he would leave it (without expressing his dislike).**
+![[image-242.png|455]]![[image-120.png]]
 
 [Bukhari 3563](https://sunnah.com/bukhari:3563)
 

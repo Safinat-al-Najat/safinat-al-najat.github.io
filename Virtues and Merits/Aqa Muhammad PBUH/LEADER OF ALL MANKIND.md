@@ -1,8 +1,7 @@
 ---
 weight: 9
 ---
-![[image-117.png]]
-
+![[image-241.png|565]]![[image-117.png]]
 **Umm al-Mu'minin Hazrat Aisha (RA) narrates that the Messenger of Allah (ﷺ) said: Call the chief of the Arabs to me. I said: O Messenger of Allah (ﷺ), are you not the "chief of the Arabs?" He (ﷺ) said: I am the chief of all humanity, and Ali is the "chief of the Arabs." The following hadith narrated by Hazrat Jabir (RA) is also a witness to this hadith.**
 
 ![[image-118.png]]

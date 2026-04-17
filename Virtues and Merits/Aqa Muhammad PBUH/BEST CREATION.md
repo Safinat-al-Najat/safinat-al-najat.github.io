@@ -2,7 +2,7 @@
 weight: 2
 ---
 
-![[PNGS/Aqa Muhammad PBUH/3.png]]
+![[image-239.png]]![[image-237.png]]
 
 
 [Al Kafi Book 4 Ch 111 H#2](https://thaqalayn.net/hadith/1/4/111/2)

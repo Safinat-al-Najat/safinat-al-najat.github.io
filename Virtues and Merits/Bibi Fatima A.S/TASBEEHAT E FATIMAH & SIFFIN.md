@@ -1,8 +1,8 @@
 ---
 weight: 13
 ---
-![[PNGS/pngs 2/46.jpeg]]
-
+![[image-256.png]]![[image-258.png]]
+Authentic as per Bukhari and Muslim
 
 [Mustadrak Al Hakim 4724](https://al-hadees.com/mustadrak/4724)
 

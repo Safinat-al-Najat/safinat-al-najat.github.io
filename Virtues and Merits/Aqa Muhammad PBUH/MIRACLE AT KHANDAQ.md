@@ -1,7 +1,7 @@
 ---
 weight: 30
 ---
-![[image-126.png]]
+![[image-248.png|477]]![[image-126.png]]
 ![[image-127.png]]
 
 |                   |                                                          |

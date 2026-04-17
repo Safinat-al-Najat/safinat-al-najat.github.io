@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[image-134.png]]
+![[image-254.png|565]]![[image-134.png]]
 
 "Hazrat Musawwar bin Makhrama narrates that the Messenger of Allah (peace be upon him) said: "Fatima is a part of my liver (flesh and blood), what pleases her pleases me, and what hurts her hurts me."
 

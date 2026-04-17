@@ -7,7 +7,7 @@ weight: 8
 
 Hadith shows that how much our Aqa Muhammad ﷺ used to care for his beloved daughter.
 
-
+![[image-251.png|568]]
 ![[image-131.png]]
 
 "Umm al-Mu'minin Hazrat Aisha (may Allah be pleased with her) said: I have not seen anyone who spoke more like the Messenger of Allah (peace and blessings of Allah be upon him) than Fatimah, the daughter of the Messenger of Allah (peace and blessings of Allah be upon him). Whenever Fatimah came to meet the Messenger of Allah (peace and blessings of Allah be upon him), he would stand up for her, kiss her (forehead), welcome her, hold her hand in his and make her sit in her place. When the Messenger of Allah (peace and blessings of Allah be upon him) went to meet her, she would stand up to welcome him and kiss his hand."
