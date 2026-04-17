@@ -16,6 +16,8 @@ weight: 5
 “God’s Prophet (MGB) drew four lines on the ground and said, ‘The four best women in Paradise are the following: Mary - the daughter of Imran; Khadijah - the daughter of Khuwaylid ; Fatimah - the daughter of Muhammad; and Asia - the daughter of Muzahim and the wife of Pharaoh.”
 
 [Al Khisal Vol 1 Book 5 Ch 14](https://thaqalayn.net/chapter/10/5/14)
+
+
 These 4 are the best woman of their time.
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
