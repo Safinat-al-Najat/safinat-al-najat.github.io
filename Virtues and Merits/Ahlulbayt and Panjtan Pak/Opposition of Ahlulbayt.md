@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[image-183.png|592]]![[image-181.png]]![[image-182.png|597]]
+![[image-183.png|592]]![[image-277.png|508]]![[image-278.png|514]]
 
 **"Hazrat Abdullah bin Abbas (may Allah be pleased with him) said: The Messenger of Allah (peace and blessings of Allah be upon him) said: The stars are a protection for the people of the earth from drowning, and my Ahlul Bayt are a protection for my Ummah from discord. If any tribe of the Arabs opposes them, they will be considered the party of Satan." * This hadith has a sahih chain of transmission, but Imam Bukhari (may Allah have mercy on him) and Imam Muslim (may Allah have mercy on him) did not narrate it.**
 

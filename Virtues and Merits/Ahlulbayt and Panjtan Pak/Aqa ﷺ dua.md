@@ -1,7 +1,7 @@
 ---
 weight: 10
 ---
-![[image-177.png|594]]![[image-175.png]]
+![[image-177.png|594]]![[image-271.png|633|589x803]]
 
 **"Hazrat Abdullah bin Abbas (RA) narrates: The Messenger of Allah (ﷺ) said: O Bani Abdul Muttalib! I ask Allah for three things for you: 
 (1) To make you steadfast. 

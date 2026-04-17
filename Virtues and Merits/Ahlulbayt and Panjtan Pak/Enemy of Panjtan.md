@@ -1,7 +1,9 @@
 ---
 weight: 12
 ---
-![[image-180.png|497]]![[image-179.png|497]]
+![[image-180.png|497]]
+![[image-274.png|501]]
+![[image-276.png|500]]
 
 **"Hazrat Abu Hurairah (may Allah be pleased with him) said: The Prophet (peace and blessings of Allah be upon him) looked at Hazrat Ali, Hazrat Fatima, Hazrat Hasan and Hazrat Hussain (may Allah be pleased with them) and said: I am the enemy of your enemy and the friend of your friend. **** Abu Abdullah Imam Ahmad bin Hanbal (may Allah have mercy on him) narrated this hadith from Talid bin Sulayman and in this way this hadith is hasan and I did not find any other hadith from him except this one hadith. The following hadith narrated from Hazrat Zaid bin Arqam (may Allah be pleased with him) is a witness to the aforementioned hadith."**
 
