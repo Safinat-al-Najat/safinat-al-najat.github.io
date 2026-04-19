@@ -32,4 +32,4 @@
 [Sunan Nasai 5121 (5118)](https://sunnah.com/nasai:5118)
 
 
-While this hadith permits women to wear perfume, it specifies that the scent should be subtle and private rather than strong or noticeable to others. Essentially, perfume is allowed for personal hygiene and self-care, provided it is not detectable by non-mahrams. In contrast, within the privacy of her home, a woman may wear perfume as boldly as she likes for her husband.
+While this ahadith permits women to wear perfume, it specifies that the scent should be subtle and private rather than strong or noticeable to others. Essentially, perfume is allowed for personal hygiene and self-care, provided it is not detectable by non-mahrams. In contrast, within the privacy of her home, a woman may wear perfume as boldly as she likes for her husband.
