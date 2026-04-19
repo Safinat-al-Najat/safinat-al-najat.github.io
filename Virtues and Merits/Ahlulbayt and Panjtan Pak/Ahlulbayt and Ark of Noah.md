@@ -10,7 +10,7 @@ weight: 7
 
 Above hadith means like the ark of Noah was a source of Nijaat for the people on it, Ahlulbayt A.S are also a source of Nijaat whoever clings to them is saved.
 
-![[image-236.png]]![[image-234.png|546]]![[image-235.png|545]]
+![[image-236.png]]![[image-281.png|538]]![[image-282.png|541x784]]
   
 The Messenger of Allah (s) said: Whoever would like to board the Ark of Salvation, grapple onto the Firm Handle, and hold onto the firm Rope of Allah, should align with Ali after me, oppose his enemy, and accept the Imams of Guidance from his descendants; for surely, they are my vicegerents, my deputies, and the Proofs of Allah over His creation after me. They are the Masters of my Nation and the ones who will lead the pious to Paradise. Their party is my party, and my party is the Party of Allah, and their enemies’ party is the Party of Satan."
 
