@@ -3,18 +3,21 @@ weight: 3
 ---
 **Taraweeh** is a special night prayer performed only during the month of **Ramadan**. It consists of several units of prayer (_rak'ahs_) and is characterized by long recitations of the Quran.
 
-![[PNGS/pngs 3/Pasted image 20260308140500.png]]
+![[image-284.png|443]]
+![[image-285.png|440x688]]
 
 [Sahih Bukhari 731](https://sunnah.com/bukhari:731)
 
 
-![[PNGS/pngs 3/Pasted image 20260308140311.png]]
+![[image-286.png|447x702]]
+![[image-287.png|446x700]]![[image-288.png|444x696]]
 
 [Sahih Bukhari 1129](https://sunnah.com/bukhari:1129)
 
 Above hadith tells that Aqa Muhammad ﷺ didn't wanted it to be obligatory on muslims.
 
-![[PNGS/pngs 3/Pasted image 20260308140338.png]]
+![[image-289.png|634|480x754]]
+![[image-290.png|634|476x745]]![[image-291.png|477x746]]
 
 [Sahih Bukhari 2012](https://sunnah.com/bukhari:2012)
 
