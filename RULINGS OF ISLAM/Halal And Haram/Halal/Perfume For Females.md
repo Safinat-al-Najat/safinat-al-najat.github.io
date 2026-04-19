@@ -1,6 +1,7 @@
 
 
 ![[image-294.png|485]]![[image-292.png|484x691]]
+
 **The Messenger of Allah has said:**
 
 “Perfume for women is that which shows its color but hides its fragrance, and the perfume for men is that which spreads its fragrance but its color does not show."
