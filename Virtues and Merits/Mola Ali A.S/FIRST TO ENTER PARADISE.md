@@ -1,5 +1,5 @@
 ---
-weight: 13
+weight: 15
 ---
 ![[PNGS/Aqa Muhammad ﷺ/11.jpeg]]
 

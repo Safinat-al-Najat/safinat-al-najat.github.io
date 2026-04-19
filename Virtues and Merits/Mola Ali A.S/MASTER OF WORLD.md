@@ -1,5 +1,5 @@
 ---
-weight: 21
+weight: 23
 ---
 ![[PNGS/Aqa Muhammad ﷺ/20.jpeg]]
 

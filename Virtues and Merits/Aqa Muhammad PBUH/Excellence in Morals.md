@@ -1,5 +1,5 @@
 ---
-weight: 25
+weight: 26
 ---
 ![[PNGS/Aqa Muhammad PBUH/16.png]]
 
