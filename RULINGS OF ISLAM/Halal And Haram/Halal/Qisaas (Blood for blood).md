@@ -8,17 +8,23 @@ Firstly, Allah tells not to kill anyone unjustly. And if someone does exceed the
 
 Verse tells us that Retribution (Qisaas) is compulsory. And what is punishment. A slave does not die for his master and another person does not die for another person. It has to be the killer himself. But if the family of victim forgives the life of the killer and demands Blood money then he should be paid.
 
-![[image-17.png]]
+![[image-303.png|446x701]]![[image-304.png|448x700]]
 
 [Abu Dawud 1638](https://sunnah.com/abudawud:1638)
 
-![[image-20.png]]
+![[image-302.png|413]]![[image-301.png|412x609]]
+
+ **Muawiyah ibn Wahb asked Abu Abdullah  about the blood money (diyyah) for intentional killing. Imam said:**  
+  
+"It is one hundred mature male camels. If they are not available, then for each camel, twenty mature male sheep are to be given in its place."
 
 [Man La Yahduruhu al-Faqih](https://thaqalayn.net/hadith/37/1/22/5197)
 
+Chain of narration can be either from [Muawiyah ibn Wahb](https://thaqalayn.net/hadith/38/1/65/67) or [Al-Nadr ibn Suwayd](https://thaqalayn.net/hadith/38/1/253/256) (I am not sure but both are authentic and reliable chains)
+
 So blood money is the price of 100 camels.
 
-This is just a overview of Qisaas while the whole topic is very detailed so one should always take a look on rulings of all school of thoughts and then make his decision. The basic Qisaas is this while the conditions can change the result.
+This is just a overview of Qisaas while the whole topic is very detailed so one should always take a consider all the conditions and then make his decision. The basic Qisaas is this while the conditions can change the result.
 
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[Quranic Topics/QURAN]]
