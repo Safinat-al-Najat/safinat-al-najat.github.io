@@ -24,7 +24,7 @@ Chain of narration can be either from [Muawiyah ibn Wahb](https://thaqalayn.net/
 
 So blood money is the price of 100 camels.
 
-This is just a overview of Qisaas while the whole topic is very detailed so one should always take a consider all the conditions and then make his decision. The basic Qisaas is this while the conditions can change the result.
+This is just a overview of Qisaas while the whole topic is very detailed so one should always consider all the conditions and then make his decision. The basic Qisaas is this while the conditions can change the result.
 
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Halal And Haram/Halal/Halal]][[Quranic Topics/QURAN]]
