@@ -1,11 +1,11 @@
 ---
 weight: 3
 ---
-![[PNGS/Aqa Muhammad ﷺ/1.png]]
+![[image-14.webp|418x601]]![[image-13.webp|418x601]]
 
 [Sahih Bukhari 3703](https://sunnah.com/bukhari:3703)
 
-![[image-4.png]]
+![[image-17.webp|418x601]]![[image-15.webp|418x601]]![[image-16.webp|418x601]]
 
 [Sahih Muslim 2409](https://sunnah.com/muslim:2409)
 

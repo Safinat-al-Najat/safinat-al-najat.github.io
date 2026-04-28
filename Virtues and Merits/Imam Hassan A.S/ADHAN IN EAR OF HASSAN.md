@@ -8,4 +8,4 @@ weight: 6
 Aqa Muhammad ﷺ gave Adhan in the ears of Hasnain.
 
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -1,15 +1,15 @@
 ---
 weight: 18
 ---
-![[PNGS/Aqa Muhammad ﷺ/13.png]]
+![[image-29.webp|418x601]]![[image-28.webp|418x601]]
 
 [Sahih Bukhari 4416](https://sunnah.com/bukhari:4416)
 
-![[image-5.png]]
+![[image-34.webp|418x601]]![[image-30.webp|418x601]]![[image-31.webp|418x601]]
 
 [Sahih Muslim 2404d](https://sunnah.com/muslim:2404d)
 
-![[image-7.png]]
+![[image-38.webp|418x601]]![[image-36.webp|418x601]]![[image-37.webp|418x601]]
 
 [Jami at Tirmidhi 3724](https://sunnah.com/tirmidhi:3724)
 

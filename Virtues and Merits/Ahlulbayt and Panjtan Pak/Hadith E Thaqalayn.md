@@ -58,4 +58,4 @@ So, one can derive that following Ahlulbayt is actually following Quran.
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]]
+[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]]
