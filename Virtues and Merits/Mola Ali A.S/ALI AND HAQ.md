@@ -9,6 +9,6 @@ weight: 41
 
 [Bihar Al Anwar Vol 38 Pg#36](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V38.pdf)
 
-So, Ali is with Haq and Haq is with Ali. Just like [[ALI AND QURAN]]
+So, Ali is with Haq and Haq is with Ali. Just like [[Virtues and Merits/Mola Ali A.S/ALI AND QURAN]]
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

@@ -14,4 +14,4 @@ His importance rests on several key pillars:
 **The Wellspring of Wisdom:** He is considered the most learned companion after the Prophet himself. The Prophet declared, "I am the city of knowledge, and Ali is its gate." as mentioned in [[Virtues and Merits/Mola Ali A.S/GATE OF CITY OF KNOWLEDGE]].
 
 ##### **Backlinks:**
-[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]][[Quranic Topics/QURAN]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Merits]]
+[[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]][[Quranic Topics/QURAN]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Merits]]

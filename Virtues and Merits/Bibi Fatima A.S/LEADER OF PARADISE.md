@@ -5,7 +5,7 @@ weight: 3
 
 [Sahih Bukhari 3623,3624](https://sunnah.com/bukhari:3623)
 
-![[image-267.png]]
+![[image-2.webp|418x601]]
 ![[image-266.png]]
 
 [Jami at Tirmidhi 3768](https://sunnah.com/tirmidhi:3781)

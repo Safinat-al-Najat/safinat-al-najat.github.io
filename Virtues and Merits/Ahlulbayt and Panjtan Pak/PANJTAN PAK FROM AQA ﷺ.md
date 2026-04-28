@@ -4,6 +4,6 @@ The Prophet (s) met Ali, Fatima, al-Hasan, and al-Husayn (a.s), and all of them
 
 [Al Amali Book 1 Ch 4 H#2](https://thaqalayn.net/hadith/29/1/4/2)
 
-As mentioned in [[Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ|ALI FROM AQA ﷺ]] [[Virtues and Merits/Imam Hussain A.S/HUSSAIN IS FROM AQA ﷺ|HUSSAIN IS FROM AQA ﷺ]]
+As mentioned in [[Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ|ALI FROM AQA ﷺ]] [[Virtues and Merits/Imam Hussain A.S/Hussain is from Aqa ﷺ|Hussain is from Aqa ﷺ]]
 
 

@@ -11,4 +11,4 @@ weight: 10
 
 So, love Hasnain if you love Aqa Muhammad ﷺ.
 ##### **Backlinks:**
-[[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
+[[Virtues and Merits/Imam Hassan A.S/Imam Hassan]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

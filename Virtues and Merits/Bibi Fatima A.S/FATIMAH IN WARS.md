@@ -1,7 +1,7 @@
 ---
 weight: 15
 ---
-![[PNGS/pngs 3/37.png]]
+![[image-8.webp|418x601]]![[image-6.webp|418x601]]![[image-7.webp|418x601]]
 
 [Sahih Bukhari 4075](https://sunnah.com/bukhari:4075)
 

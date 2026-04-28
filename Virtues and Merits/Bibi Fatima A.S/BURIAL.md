@@ -7,6 +7,6 @@ weight: 16
 
 [Mustadrak Al Hakim 4763](https://al-hadees.com/mustadrak/4763)
 
-Ali buried Bibi Fatima, also read [[BURIAL OF FATIMAH]].
+Ali buried Bibi Fatima, also read [[Virtues and Merits/Mola Ali A.S/BURIAL OF FATIMAH]].
 ##### **Backlinks:**
 [[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]]

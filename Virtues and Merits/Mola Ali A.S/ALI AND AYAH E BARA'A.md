@@ -9,6 +9,6 @@ weight: 51
 
 [Bihar Al Anwar Vol 21 Pg# 267](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V21.pdf)
 
-Ali was sent to deliver the Ayah of Barah and when Aqa Muhammad ﷺ was asked why he did so he said [[ALI FROM AQA ﷺ]].
+Ali was sent to deliver the Ayah of Barah and when Aqa Muhammad ﷺ was asked why he did so he said [[Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ]].
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

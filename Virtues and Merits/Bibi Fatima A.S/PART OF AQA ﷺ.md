@@ -1,8 +1,7 @@
 ---
 weight: 5
 ---
-![[PNGS/pngs 3/34.png]]
-
+![[image-4.webp|418x601]]![[image-5.webp|418x601]]
 [Bukhari 3767](https://sunnah.com/bukhari:3767)
 
 It has a connection to [[Virtues and Merits/Bibi Fatima A.S/ANGER OF FATIMAH]].
