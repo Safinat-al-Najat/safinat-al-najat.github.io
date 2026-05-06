@@ -34,6 +34,8 @@ This hadith is supported by strong hadith of Ibn Abbas.
 [Jami at Tirmidhi 3771](https://sunnah.com/tirmidhi:3771)
 
 ![[image-50.webp|418x601]]![[image-48.webp|418x601]]![[image-49.webp|418x601]]
+
+
 Muhammad ibn Ubayd narrated to us, Sharhabeel ibn Mudrik narrated to us, from Abdullah ibn Nujayy, from his father, that he traveled with Ali (may Allah be pleased with him)—and he was the carrier of Ali's water vessel for purification—when they were heading toward Siffin. When they reached Nineveh, Ali called out: "Be patient, O Abu Abdullah! Be patient, O Abu Abdullah, by the bank of the Euphrates!"
 
 I asked: "And why is that?"
