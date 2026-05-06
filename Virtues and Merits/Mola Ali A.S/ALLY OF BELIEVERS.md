@@ -1,7 +1,7 @@
 ---
 weight: 14
 ---
-![[PNGS/pngs/50.png]]
+![[image-62.webp|418x601]]![[image-60.webp|418x601]]![[image-61.webp|418x601]]
 
 
 [Jami at Tirmidhi 3712](https://sunnah.com/tirmidhi:3712)

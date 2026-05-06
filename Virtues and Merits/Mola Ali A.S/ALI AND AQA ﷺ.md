@@ -1,13 +1,14 @@
 ---
 weight: 9
 ---
-![[PNGS/Aqa Muhammad ﷺ/7.png]]
+![[image-52.webp|418x601]]![[image-51.webp|418x601]]
 
 [Sahih Bukhari 1558](https://bukhari:1558)
 
 This shows how much devotion Ali had for Aqa Muhammad ﷺ.
 
-![[PNGS/1.jpeg|524|450x360]]
+![[image-54.webp|418x601]]
+![[image-53.webp|418x601]]
 
 "Hazrat Abu Huraira (RA) narrates that Hazrat Umar bin Khattab (RA) said: 'Hazrat Ali (RA) was granted three virtues; if I possessed even one of them, it would be dearer to me than red camels.' He was asked: 'O Leader of the Faithful! What are those virtues?' He replied:
 

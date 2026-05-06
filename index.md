@@ -31,6 +31,9 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 <a href="/RULINGS%20OF%20ISLAM" class="btn">⚖️ Rulings<br><small>Fiqh, Obligations & Islamic law</small></a>
 
+<a href="[ISLAMIC BOOKS](https://safinat-al-najat-2.jimdosite.com/)" class="btn">⚖️ Rulings<br><small>SHIA AND SUNNI BOOKS</small></a>
+
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 weight: 8
 ---
-![[PNGS/Aqa Muhammad ﷺ/6.png]]
+![[image-59.webp|418x601]]![[image-58.webp|418x601]]
 
 [Sunan Ibn Majah 118](https://ibnmajah:118)
 
