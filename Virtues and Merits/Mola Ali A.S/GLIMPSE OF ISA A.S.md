@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[PNGS/Aqa Muhammad ﷺ/10.jpeg]]
+![[image-65.webp|418x601]]![[image-63.webp|418x601]]![[image-64.webp|418x601]]
 
 
 [Mustadrak Al Hakim 4622](https://quranohadith.com/mustadrak/4622)
