@@ -4,6 +4,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "round corner",
-    "Link hider"
+    "Link hider",
+    "darkpdf"
   ]
 }
