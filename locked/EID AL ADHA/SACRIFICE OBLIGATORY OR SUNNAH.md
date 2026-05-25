@@ -1,5 +1,5 @@
-![[image-18.webp|418x601]]
-![[image-17.webp|418x601]]
+![[image-1018.webp|418x601]]
+![[image-1017.webp|418x601]]
 
 **Highlighted Hadith Number 1:**
 
@@ -23,8 +23,8 @@ The Obligatory and the Non Obligatory.
 
 Hence, sacrifice is not obligatory on a person who is not performing Hajj (Pilgrimage) but it is highly recommended for him to sacrifice too. Imam clearly says that one should not neglect if he has means to do it as it is beneficial for society.
 
-![[image-21.webp|418x601]]
-![[image-20.webp|418x601]]
+![[image-1021.webp|418x601]]
+![[image-1020.webp|418x601]]
 
 **Highlighted Hadith number 1:**
  
