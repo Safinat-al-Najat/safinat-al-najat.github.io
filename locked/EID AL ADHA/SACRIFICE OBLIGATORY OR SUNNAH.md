@@ -1,5 +1,5 @@
 ![[image-1018.webp|418x601]]
-![[image-1017.webp|418x601]]
+![[image-66.webp|418x601]]
 
 **Highlighted Hadith Number 1:**
 
@@ -9,19 +9,6 @@
 
 [Al Kafi Vol 4 Book 3 Ch 180 H#2](https://thaqalayn.net/hadith/4/3/180/2)
 
-**Highlighted Hadith Number 2:**
-
- A number of our people have narrated from Sahl ibn Ziyad and Ahmad ibn Muhammad from al-Hassan ibn Mahbub from Ibrahim al- Karkhiy who has said the following:
-
-“Abu ‘Abd Allah, was asked about a man who has brought an offering to Makkah during the ten days (of the month). He (the Imam) said, ‘If it is obligatory offering, it is slaughtered in Mina’ only, and if it is not obligatory; he can slaughter it in Makkah if he likes; and if he has marked or placed around its neck a tag, then it must not be slaughtered at any time except on the day of al- Adha’.’”
-
-[Al Kafi Vol 4 Book 3 Ch 180 H#3](https://thaqalayn.net/hadith/4/3/180/3)
-
-Here Imam distinguished the sacrificed into 2 types i.e.:
-
-The Obligatory and the Non Obligatory.
-
-Hence, sacrifice is not obligatory on a person who is not performing Hajj (Pilgrimage) but it is highly recommended for him to sacrifice too. Imam clearly says that one should not neglect if he has means to do it as it is beneficial for society.
 
 ![[image-1021.webp|418x601]]
 ![[image-1020.webp|418x601]]
@@ -32,11 +19,11 @@ Hence, sacrifice is not obligatory on a person who is not performing Hajj (Pilgr
 
 "The sacrifice (_Udhiyah_) is obligatory upon whoever can afford it (literally: whoever finds the means), whether young or old, and it is a sunnah."
 
-So, Imam explained that the nature of udhiya (sacrificing) is somewhat dual. It is a sunnah but also becomes obligatory if you have enough wealth and you can easily afford it and people in your society are actually needy.
+So, Imam explained that the nature of udhiya (sacrificing) is Wajib (Farz). It becomes obligatory if you have enough wealth and you can easily afford it.
 
 [Wasail Al Shia H# 18989](https://wasail-al-shia.net/h/18989)
 
-Leaving it once or twice isn't wrong but making it a habit every year is wrong and not recommended.
+Leaving it if you can afford it is completely wrong.
 
 The very next hadith explains why it becomes obligatory on the people with wealth.
 
@@ -45,3 +32,7 @@ The very next hadith explains why it becomes obligatory on the people with wealt
 The Messenger of Allah (peace be upon him and his family) said: Allah has established this Udhiyah so that your poor may eat meat, so feed them.
 
 [Wasail Al Shia H# 18990](https://wasail-al-shia.net/h/18990)
+
+**Final Verdict:**
+
+Sacrifice is Obligatory if one can afford it and leaving it is sinful.
