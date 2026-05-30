@@ -1,5 +1,5 @@
 ---
-weight: 14
+weight: 1
 ---
 
 As Allah says in [Quran 4:80](https://quran.com/4/80):
