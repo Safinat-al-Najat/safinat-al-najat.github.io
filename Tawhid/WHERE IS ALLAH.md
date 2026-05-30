@@ -6,6 +6,10 @@ So, Imam tells that he encompasses everything that he created through knowledge,
 
 [Al Tawhid Book 2 Ch 9 H#15](https://thaqalayn.net/hadith/14/2/9/15 "https://thaqalayn.net/hadith/14/2/9/15")
 
-![[image-146.png]]
+![[image-143.webp|418x601]]![[image-142.webp|418x601]]
+
+I asked Zayn al-Abidin Ali b. al-Husayn b. Ali b. Abi Talib  about Allah – is He described with a place?  
+  
+So, he said: Allah is exalted from that. I said: Then why did He bring His Prophet, Muhammad (s), to heaven? He said: To show him the kingdom of heaven; the wonder of its design and the contrivance of its creation. I said: What about the saying of Allah, “Then he drew near and hung suspended, that he was only two bow-lengths away and even closer.”? He said: The Messenger of Allah (s) drew near to the veils of light and saw the kingdom of heaven. Then, he (s) hung suspended and saw the kingdom of Earth beneath him, till he thought that he was near the Earth like that of two bow-lengths away and even closer.
 
 [Al Amali Book 1 Ch 29 H#22](https://thaqalayn.net/hadith/29/1/29/22)
