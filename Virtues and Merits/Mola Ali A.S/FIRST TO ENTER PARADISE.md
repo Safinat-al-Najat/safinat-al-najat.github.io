@@ -1,7 +1,9 @@
 ---
 weight: 15
 ---
-![[PNGS/Aqa Muhammad ﷺ/11.jpeg]]
+![[image-82.webp|418x601]]![[image-81.webp|418x601]]
+
+"Hazrat Salman (RA) narrates: The Messenger of Allah (ﷺ) said: The first among you to come to the Pool of Kauthar will be the first among you to accept Islam, (i.e.) Hazrat Ali bin Abi Talib (RA)."
 
 [Mustadrak Al Hakim 4662](https://quranohadith.com/mustadrak/4662)
 

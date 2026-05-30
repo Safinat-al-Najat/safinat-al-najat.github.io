@@ -1,7 +1,7 @@
 ---
 weight: 17
 ---
-![[PNGS/pngs/87.png]]
+![[image-173.png]]![[image-174.png]]
 
 [Jami at Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 

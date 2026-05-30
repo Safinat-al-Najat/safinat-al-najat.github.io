@@ -8,7 +8,7 @@ If we go to the background of this verse. A group of Christians came to Aqa Muha
 
 It can be explained by the following hadith:
 
-![[image-61.png]]
+![[image-173.png]]![[image-174.png]]
 
 [Tirmidhi 2999](https://sunnah.com/tirmidhi:2999)
 

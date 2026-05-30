@@ -4,7 +4,7 @@
 
 To understand it's connection read the hadith below:
 
-![[image-2.png]]
+![[image-72.webp|418x601]]![[image-71.webp|418x601]]
 
 
 [Sunan Ibn Majah 2835](https://sunnah.com/ibnmajah:2835)
