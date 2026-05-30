@@ -3,7 +3,9 @@ weight: 2
 ---
 
 ![[image-239.png]]![[image-237.png]]
-
+. Muhammad b. Yahya from Ahmad ibn Muhammad from al-Hajjal from Hammad from Abu ‘Abdallah  who said the following:  
+  
+When mentioning the Messenger of Allah ﷺ he said, “Amir al-Mu’minin Ali  has said, “Allah has not created any creature better than Muhammad ﷺ.”
 
 [Al Kafi Book 4 Ch 111 H#2](https://thaqalayn.net/hadith/1/4/111/2)
 
