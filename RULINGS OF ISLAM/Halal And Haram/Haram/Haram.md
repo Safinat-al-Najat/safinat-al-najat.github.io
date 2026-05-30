@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 7
 ---
 
 **Haram** (حرام) means "forbidden" in Arabic — anything Allah has explicitly prohibited for believers. Engaging in haram is considered a sin that carries moral and spiritual consequences. Its opposite is **Halal** (حلال), meaning permissible.

@@ -1,5 +1,5 @@
 ---
-weight: 16
+weight: 6
 ---
 ![[PNGS/pngs 2/27.png]]
 
