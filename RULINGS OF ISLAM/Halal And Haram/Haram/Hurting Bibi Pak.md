@@ -1,11 +1,11 @@
 ---
 weight: 3
 ---
-![[PNGS/pngs 2/22.png]]
+![[image-132.webp|418x601]]![[image-131.webp|418x601]]
 
 [Sahih Bukhari 3767](https://sunnah.com/bukhari:3767)
 
-![[PNGS/pngs/25.jpeg|422]]
+![[image-134.webp|418x601]]![[image-133.webp|418x601]]
 
 [Mustadrak Al Hakim 4730](https://al-hadees.com/mustadrak/4730)
 

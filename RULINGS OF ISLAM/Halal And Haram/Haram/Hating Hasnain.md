@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[PNGS/pngs 2/14.png]]
+![[image-117.webp|418x601]]![[image-116.webp|418x601]]
 
 [Sunan Ibn Majah 143](https://sunnah.com/ibnmajah:143)
 

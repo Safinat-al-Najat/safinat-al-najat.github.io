@@ -3,7 +3,8 @@ weight: 2
 ---
 
 **Aqa Muhammad ﷺ was revealed with a dream to migrate to Medina:**
-![[PNGS/pngs/33.png]]
+
+![[image-109.webp|418x601]]![[image-108.webp|418x601]]
 
 [Bukhari 3622](https://sunnah.com/bukhari:3622)
 

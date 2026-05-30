@@ -1,13 +1,13 @@
 ---
 weight: 5
 ---
-
-![[image-22.png|426]]
+![[image-121.webp|418x601]]
+![[image-118.webp|418x601]]
 
 [Mustadrak Al Hakim 4713](https://quranohadith.com/mustadrak/4712)
 
-
-![[PNGS/pngs 2/11.jpeg|437]]
+![[image-122.webp|418x601]]
+![[image-120.webp|418x601]]
 
 [Mustadrak Al Hakim 4712](https://quranohadith.com/mustadrak/4712)
 
