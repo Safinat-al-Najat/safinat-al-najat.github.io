@@ -1,4 +1,4 @@
-![[image-1018.webp|418x601]]
+![[PNGS/pngs/image-1018.webp|418x601]]
 ![[image-66.webp|418x601]]
 
 **Highlighted Hadith Number 1:**
@@ -10,8 +10,8 @@
 [Al Kafi Vol 4 Book 3 Ch 180 H#2](https://thaqalayn.net/hadith/4/3/180/2)
 
 
-![[image-1021.webp|418x601]]
-![[image-1020.webp|418x601]]
+![[PNGS/pngs/image-1021.webp|418x601]]
+![[PNGS/pngs/image-1020.webp|418x601]]
 
 **Highlighted Hadith number 1:**
  

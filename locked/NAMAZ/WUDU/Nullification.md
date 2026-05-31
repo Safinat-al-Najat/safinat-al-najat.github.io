@@ -2,13 +2,13 @@
 # **Nullification:**
 
 
-![[image-109.webp|418x601]]
+![[PNGS/pngs/image-109.webp|418x601]]
 
 [Man La Yahduruh Al Faqih 137](https://thaqalayn.net/hadith/34/1/16/137)
 # **WHAT DOESN'T NULLIFY**
 
-![[image-1012.webp|418x601]]
-![[image-1011.webp|418x601]]
+![[PNGS/pngs/image-1012.webp|418x601]]
+![[PNGS/pngs/image-1011.webp|418x601]]
 
 [Man La Yahduruh Al Faqih 140](https://thaqalayn.net/hadith/34/1/16/140)
 

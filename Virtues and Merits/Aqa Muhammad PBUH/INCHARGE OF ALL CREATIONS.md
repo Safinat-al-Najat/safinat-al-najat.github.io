@@ -2,7 +2,7 @@
 weight: 8
 ---
 
-![[PNGS/Aqa Muhammad PBUH/8.png|630]]
+![[image-145.webp|418x601]]![[image-144.webp|418x601]]
 
 [Al Kafi Book 4 Ch 52 H#3](https://thaqalayn.net/hadith/1/4/52/3)
 
