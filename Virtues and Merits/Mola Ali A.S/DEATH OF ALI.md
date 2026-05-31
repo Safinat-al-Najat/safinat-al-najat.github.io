@@ -1,8 +1,7 @@
 ---
 weight: 57
 ---
-![[image-167.png]]
-
+![[image-257.webp|418x601]]![[image-255.webp|418x601]]
 **Ibn Shihab says:**  
 "I came from Damascus with the intention of Jihad. When I arrived to offer my salutations to Abdul Malik, he was at that time near the floor being built for the minaret, present inside a dome with two rows of people seated beneath him. I offered my greetings and sat down.
 
@@ -20,7 +19,9 @@ Consequently, I did not tell this to anyone until the death of Abdul Malik."
 
 [Mustadrak Al Hakim 4591](https://quranohadith.com/mustadrak/4591)
 
-![[image-168.png]]
+
+![[image-258.webp|418x601]]
+![[image-256.webp|418x601]]
 
 "Imam Zuhri narrates the statement of Hazrat Asma Al-Ansariya that on the night Hazrat Ali (may Allah be pleased with him) was martyred, every stone lifted in Aelia (Jerusalem) had fresh blood beneath it. 
 

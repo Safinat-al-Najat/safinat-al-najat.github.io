@@ -1,7 +1,7 @@
 ---
 weight: 21
 ---
-![[PNGS/pngs/55.png]]
+![[image-111.webp|418x601]]![[image-110.webp|418x601]]
 
 [Sunan Ibn Majah 552](https://sunnah.com/ibnmajah:552)
 

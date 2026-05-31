@@ -1,11 +1,12 @@
 ---
 weight: 51
 ---
-![[PNGS/pngs 3/45.png]]
+![[image-237.webp|418x601]]![[image-235.webp|418x601]]![[image-236.webp|418x601]]
 
 [Jami at Tirmidhi 3090](https://sunnah.com/tirmidhi:3090)
 
-![[image-62.png]]
+
+![[image-79.webp|418x601]]![[image-80.webp|418x601]]
 
 [Bihar Al Anwar Vol 21 Pg# 267](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V21.pdf)
 

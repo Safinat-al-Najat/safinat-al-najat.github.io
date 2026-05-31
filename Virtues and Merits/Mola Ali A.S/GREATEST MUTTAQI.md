@@ -2,6 +2,12 @@
 weight: 24
 ---
 ![[image-95.webp|418x601]]![[image-93.webp|418x601]]![[image-94.webp|418x601]]
+Al-Sha'bi (reported as a historical narration regarding Ali, may Allah be pleased with him)
+
+**Core Text:**
+
+> "When Ibn Muljam struck Ali, may Allah be pleased with him, that strike, Ali advised concerning him, saying: 'Be gentle with him, treat his lodging kindly, and be good to him. If I survive, it is up to me to either forgive him or take legal retribution (_qisas_). If I die, execute him as retribution, but do not exceed limits; for indeed, I will argue my case against him before my Lord, the Mighty and Majestic.'"
+
 
 [Mustadrak Al Hakim 4691](https://quranohadith.com/mustadrak/4691)
 

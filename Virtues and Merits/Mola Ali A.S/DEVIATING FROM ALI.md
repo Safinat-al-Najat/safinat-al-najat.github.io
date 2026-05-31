@@ -1,7 +1,12 @@
 ---
 weight: 37
 ---
-![[PNGS/pngs/68.jpeg]]
+![[image-244.webp|418x601]]![[image-243.webp|418x601]]
+The Prophet, peace and blessings of Allah be upon him, said:
+
+> "Whoever separates from me has separated from Allah, and whoever separates from you, O Ali, has separated from me."
+
+---
 
 [Mustadrak Al Hakim 4703](https://quranohadith.com/mustadrak/4703)
 

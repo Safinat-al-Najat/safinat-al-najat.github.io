@@ -1,7 +1,7 @@
 ---
 weight: 14
 ---
-![[PNGS/pngs/18.png]]
+![[image-263.webp|418x601]]![[image-261.webp|418x601]]![[image-262.webp|418x601]]
 
 
 [Sahih Bukhari 2704](https://sunnah.com/bukhari:2704)

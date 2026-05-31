@@ -1,7 +1,7 @@
 ---
 weight: 4
 ---
-![[PNGS/pngs/37.png]]
+![[image-259.webp|418x601]]![[image-260.webp|418x601]]
 
 [Sunan Ibn Majah 658](https://sunnah.com/ibnmajah:658)
 
