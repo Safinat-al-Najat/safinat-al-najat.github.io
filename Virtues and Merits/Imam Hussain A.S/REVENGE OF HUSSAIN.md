@@ -1,7 +1,7 @@
 ---
 weight: 9
 ---
-![[PNGS/pngs/27.jpeg]]
+![[image-310.webp|418x601]]![[image-308.webp|418x601]]![[image-309.webp|418x601]]
 
 [Mustadrak Al Hakim 4822](https://al-hadees.com/mustadrak/4822)
 

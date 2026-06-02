@@ -1,7 +1,7 @@
 ---
 weight: 5
 ---
-![[PNGS/pngs 2/25.png]]
+![[image-307.webp|418x601]]![[image-306.webp|418x601]]
 
 [Sahih Bukhari 3752](https://sunnah.com/bukhari:3752)
 
