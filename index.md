@@ -4,7 +4,8 @@ title: Home
 
 ---
 
-  **18th Dhu Al Hijjah, The event of [[Virtues and Merits/Mola Ali A.S/GHADEER E KHUM|GHADEER E KHUM]] is coming near.**
+> [!important]
+>   **18th Dhu Al Hijjah, The event of [[Virtues and Merits/Mola Ali A.S/GHADEER E KHUM|GHADEER E KHUM]] is coming near.**
 
 ---
 ## Home
@@ -49,3 +50,5 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 ### For any queries:
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+
+[^1]: 
