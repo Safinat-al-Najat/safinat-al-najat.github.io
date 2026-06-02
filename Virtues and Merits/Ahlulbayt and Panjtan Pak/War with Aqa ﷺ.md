@@ -1,7 +1,7 @@
 ---
 weight: 17
 ---
-![[PNGS/4.png]]
+![[image-351.webp|418x601]]![[image-352.webp|418x601]]
 
 **Narrated Zaid bin Arqam:**
 

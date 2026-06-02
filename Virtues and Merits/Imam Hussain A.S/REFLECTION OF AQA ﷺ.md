@@ -1,7 +1,7 @@
 ---
 weight: 6
 ---
-![[PNGS/pngs 2/24.png]]
+![[image-331.webp|418x601]]![[image-330.webp|418x601]]
 
 [Sahih Bukhari 3748](https://sunnah.com/bukhari:3748)
 

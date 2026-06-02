@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[image-172.png|490]]![[image-270.png|493]]
+![[image-339.webp|418x601]]![[image-338.webp|418x601]]
 
 **Hazrat Abu Dharr (may Allah be pleased with him) once held the door of the Kaaba and said: "He who knows me knows me, and he who does not know me, let him know that I am Abu Dharr. I heard the Messenger of Allah (peace and blessings of Allah be upon him) say: The example of my Ahlul Bayt among you is like the example of the Ark among the people of Noah (peace and blessings of Allah be upon him): whoever boarded it was saved, and whoever remained was drowned."**
 

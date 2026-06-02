@@ -16,35 +16,25 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 
 [Bihar Al Anwar Vol 35 Pg# 206](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V35.pdf)
 
-![[image-192.png|477]]
+![[image-192.png|414x651]]
 
-![[image-191.png|486]]
+![[image-346.webp|418x601]]
+
 
 
 [Sahih Muslim 2424](https://sunnah.com/muslim:2424)
 
-![[image-204.png|448]]
-![[image-205.png|446]]![[image-206.png|445]]
+![[image-204.png|418]]
+![[image-356.webp|418x601]]![[image-357.webp|418x601]]
 
 [Jami at Tirmidhi 3787](https://sunnah.com/tirmidhi:3787)
 
-![[image-210.png|478]]
-![[image-208.png|478]]
-![[image-209.png|479]]
+![[image-355.webp|418x601]]![[image-353.webp|418x601]]![[image-354.webp|418x601]]
 
 **Umm al-Mu'minin Hazrat Umm Salamah says: This verse was revealed in my house. Allah only wants to remove all impurity from you, O family of the Prophet (Ahzab: 33). (Translation of Kanzul-Iman, Imam Ahmad Raza) She says: (After the revelation of this verse) the Messenger of Allah (ﷺ) called Hazrat Ali, Hazrat Fatima, Hazrat Hassan and Hazrat Hussain (may Allah be pleased with them) and said: O Allah! These are my family. This hadith is narrated by Imam Bukhari (may Allah have mercy on him) and Imam Muslim (may Allah have mercy on him).**
 
 [Mustadrak Al Hakim 4705](https://quranohadith.com/mustadrak/4705)
 
-![[image-213.png|460]]![[image-211.png|461]]![[image-212.png|461]]
-
-
-**Hazrat Ismail bin Abdullah bin Jafar bin Abi Talib narrates this statement from his father: When the Messenger of Allah (ﷺ) felt the descent of Divine Mercy, he said: Call to me, call to me. Hazrat Safiyyah (may Allah be pleased with her) asked: O Messenger of Allah (ﷺ) whom should I call? He said: My Ahlul Bayt (i.e.) Ali, Fatima, Hasan and Hussain. So they were called, and he (ﷺ) threw his cloak over them, raised his hands and said: O Allah! These are my family, so send blessings on Muhammad (ﷺ) and the family of Muhammad (ﷺ). May Allah Almighty bless them**.
-
-[Mustadrak Al Hakim 4709](https://quranohadith.com/mustadrak/4709)
-
-![[image-215.png|444]]
-![[image-214.png|447]]
 
 **"Hazrat Wathilah bin Asqa' (may Allah be pleased with him) says: I went to meet Hazrat Ali (may Allah be pleased with him), but he was not at home. Sayyidah Fatima (may Allah be pleased with her) told me that the Messenger of Allah (peace and blessings of Allah be upon him) had called her and she had gone to him. Then she came home with the Messenger of Allah (peace and blessings of Allah be upon him). They both entered the house, so I also entered with them. The Messenger of Allah (peace and blessings of Allah be upon him) called Hazrat Hasan and Hazrat Husayn (may Allah be pleased with them). He made them sit on his lap, and he brought Hazrat Fatima (may Allah be pleased with him) and Hazrat Ali (may Allah be pleased with them). He spread a sheet over them all and recited this verse: "Indeed, Allah only wants to remove impurity from you, O people of the house, and to purify you with a purer purification." (Al-Ahzab: 33)" "Allah desires that He remove all impurity from you, O family of the Prophet." (Translated by Kanzul-Iman, Imam Ahmad Raza) Then he said: "O Allah! These are my Ahlul Bayt, O Allah, my Ahlul Bayt are more deserving." * This hadith is authentic according to the criteria of Imam Bukhari (may Allah have mercy on him) and Imam Muslim (may Allah have mercy on him), but neither of them narrated it."**
 

@@ -4,13 +4,15 @@ weight: 5
 
 
 
-![[PNGS/pngs 3/Pasted image 20260309143758.png]]
+![[image-337.webp|418x601]]![[image-336.webp|418x601]]
 
 |                                                                                                      |                                                                                         |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [Bihar Al Anwar Vol 20](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf) | [Page 149](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf) |
 
-![[PNGS/pngs 3/Pasted image 20260309143146.png]]
+
+![[image-335.webp|418x601]]
+![[image-334.webp|418x601]]
 
 |                                                                                             |                                                 |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------- |
