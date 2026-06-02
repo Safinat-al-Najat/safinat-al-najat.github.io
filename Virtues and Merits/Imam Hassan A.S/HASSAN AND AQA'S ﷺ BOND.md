@@ -1,7 +1,7 @@
 ---
 weight: 13
 ---
-![[PNGS/pngs 2/12.jpeg]]
+![[image-292.webp|418x601]]![[image-291.webp|418x601]]
 
 [Mustadrak Al Hakim 4794](https://al-hadees.com/mustadrak/4794)
 

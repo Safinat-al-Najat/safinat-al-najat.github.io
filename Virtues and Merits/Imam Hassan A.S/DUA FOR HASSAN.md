@@ -1,7 +1,7 @@
 ---
 weight: 7
 ---
-![[PNGS/pngs/44.png]]
+![[image-270.webp|418x601]]![[image-268.webp|418x601]]![[image-269.webp|418x601]]
 
 [Sahih Bukhari 5884](https://sunnah.com/bukhari:5884)
 

@@ -6,9 +6,9 @@ weight: 3
 [Sahih Bukhari 3623,3624](https://sunnah.com/bukhari:3623)
 
 ![[image-2.webp|418x601]]
-![[image-266.png]]
+![[image-275.webp|418x601]]![[image-276.webp|418x601]]
 
-[Jami at Tirmidhi 3768](https://sunnah.com/tirmidhi:3781)
+[Jami at Tirmidhi 3781](https://sunnah.com/tirmidhi:3781)
 
 Bibi Fatima is the leader of the woman of Paradise.
 ##### **Backlinks:**
