@@ -5,6 +5,15 @@ weight: 47
 ![[image-206.webp|418x601]]
 
 
+Hadith 750, Ch. 64, h 1
+
+**Main Narrator:** Abu Basir (reporting from Imam Abu ‘Abd Allah / Ja'far al-Sadiq)
+
+**Core Text:**
+
+> The Messenger of Allah, recipient of divine supreme covenant, then said about Ali, recipient of divine supreme covenant, ‘Over whomever I have Divine Authority, Ali, recipient of divine supreme covenant, also has Divine Authority over him.’ He also has said, ‘I enjoin you to follow the Book of Allah and my family. It is because I have prayed to Allah, the Most Holy, the Most High, not to separate these two from each other until He will make them arrive at al-Kawthar (the pond of paradise) to join me. He has granted my prayer as such.’
+
+
 [Al Kafi Book 4 Ch 64 H#1 Paragraph# 3 ](https://thaqalayn.net/hadith/1/4/64/1)
 
 
