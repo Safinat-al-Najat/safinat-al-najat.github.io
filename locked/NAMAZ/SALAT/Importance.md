@@ -26,3 +26,15 @@ Following hadith support this claim:
 > And its chain of narration (_sanad_) is authentic (_sahih_); its narrators are trustworthy (_thiqat_), illustrious, and prominent figures.
 
 ---
+
+Aqa Muhammad ﷺ will not intercede for those who leave Salah or drink Forbidden drinks:
+
+
+![[image-385.webp|418x601]]![[image-384.webp|418x601]]
+
+Abu Basir (reporting from Imam Abu ‘Abd Allah / Ja'far al-Sadiq, peace be upon him)
+
+**Core Text:**
+
+> The Messenger of Allah, peace and blessings of Allah be upon him and his family, said:  
+> "My intercession will not reach the one who takes his prayer lightly, nor will he come to me at the Basin; no, by Allah. And my intercession will not reach the one who drinks intoxicants, nor will he come to me at the Basin; no, by Allah."

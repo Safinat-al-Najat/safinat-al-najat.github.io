@@ -3,4 +3,4 @@
 
 So Wudu is something that becomes obligatory when the time of prayer enters.
 
-Now we have to learn the [[Method of Wudu]]
+Now we have to learn the [[locked/NAMAZ/WUDU/METHOD OF WUDU]]

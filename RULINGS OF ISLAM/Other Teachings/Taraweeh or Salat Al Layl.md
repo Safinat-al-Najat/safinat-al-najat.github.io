@@ -16,8 +16,8 @@ weight: 3
 
 Above hadith tells that Aqa Muhammad ﷺ didn't wanted it to be obligatory on muslims.
 
-![[image-289.png|634|480x754]]
-![[image-290.png|634|476x745]]![[image-291.png|477x746]]
+![[image-289.png|480x754]]
+![[image-290.png|476x745]]![[image-291.png|476x745]]
 
 [Sahih Bukhari 2012](https://sunnah.com/bukhari:2012)
 
