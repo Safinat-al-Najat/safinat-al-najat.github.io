@@ -5,7 +5,7 @@ title: Home
 ---
 
 > [!important]
->   **18th Dhu Al Hijjah, The event of [[Virtues and Merits/Mola Ali A.S/GHADEER E KHUM|GHADEER E KHUM]] is coming near.**
+>   **18th Dhu Al Hijjah, The event of [[Virtues and Merits/Mola Ali A.S/GHADEER E KHUM|GHADEER E KHUM]] is Today.**
 
 ---
 ## Home
