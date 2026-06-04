@@ -63,6 +63,56 @@ Hassan al-Jamal (reporting from Imam Abu Abdillah / Ja'far al-Sadiq)
 
 
 
+![[image-459.webp|418x601]]![[image-457.webp|418x601]]![[image-458.webp|418x601]]
+
+**Highlighted Hadith 1:**
+
+
+> Abu al-Husayn Muhammad ibn Ahmad ibn Tamim al-Hanzali narrated to us in Baghdad, saying: Abu Qilabah Abd al-Malik ibn Muhammad al-Raqashi narrated to us, saying: Yahya ibn Hammad narrated to us.
+> 
+> _(Another chain)_ And Abu Bakr Muhammad ibn Balawayh and Abu Bakr Ahmad ibn Ja'far al-Bazzar both narrated to me, saying: Abd Allah ibn Ahmad ibn Hanbal narrated to us, saying: My father (Ahmad ibn Hanbal) narrated to me, saying: Yahya ibn Hammad narrated to us.
+> 
+> _(Another chain)_ And Abu Nasr Ahmad ibn Sahl the Jurist narrated to us in Bukhara, saying: Salih ibn Muhammad the Memorizer of Baghdad narrated to us, saying: Khalaf ibn Salim al-Mukharrimi narrated to us, saying: Yahya ibn Hammad narrated to us, saying: Abu Awanah narrated to us, on the authority of Sulayman al-A'mash, who said: Habib ibn Abi Thabit narrated to us, on the authority of Abu al-Tufayl, on the authority of Zayd ibn Arqam (may Allah be pleased with him), who said:
+
+**The Prophetic Sermon (Hadith text)**
+
+> "When the Messenger of Allah (peace and blessings of Allah be upon him) returned from the Farewell Pilgrimage and stopped at Ghadir Khumm, he ordered the area under some large trees to be swept. Then he stood up and said:
+> 
+> **'It is as if I have been called [by death] and I have responded. I am leaving among you two weighty things, one of which is greater than the other: the Book of Allah the Almighty, and my family/progeny. So watch how you treat them after me, for indeed, the two shall never separate until they meet me at the Pool.'** 
+> 
+> Then he said: **'Indeed, Allah, the Mighty and Majestic, is my Master, and I am the master of every believer.'**
+> 
+> Then he took the hand of Ali (may Allah be pleased with him) and said: **'Whosoever's master I am, then this Ali is his master. O Allah, befriend whoever befriends him, and oppose whoever opposes him.**
+
+This is a **Sahih (authentic) hadith** according to the conditions of the two Sheikhs (Al-Bukhari and Muslim), though they did not extract it with this exact wording.
+
+[Mustadrak Al Hakim 4576](https://quranohadith.com/mustadrak/4576)
+
+
+**Highlighted Hadith 2:**
+
+> Abu Bakr ibn Ishaq and Da'laj ibn Ahmad al-Sijzi narrated to us, both saying: Muhammad ibn Ayyub informed us, saying: Al-Azraq ibn Ali narrated to us, saying: Hassan ibn Ibrahim al-Kirmani narrated to us, saying: Muhammad ibn Salama ibn Kuhayl narrated to us, on the authority of his father, on the authority of Abu al-Tufayl, on the authority of Ibn Wathilah, that he heard Zayd ibn Arqam (may Allah be pleased with him) say:
+
+**The Prophetic Sermon (Hadith text)**
+
+> "The Messenger of Allah (peace and blessings of Allah be upon him) stopped between Mecca and Medina at five large, dense trees. The people swept the area underneath the trees.
+> 
+> Then the Messenger of Allah (peace and blessings of Allah be upon him) went out to them in the evening and prayed. Then he stood up to deliver a sermon, praising and magnifying Allah, reminding [the people], and giving counsel. He said what Allah willed for him to say, then he said:
+> 
+> **'O people, indeed I am leaving among you two things—if you follow them, you will never go astray, and they are: the Book of Allah, and the members of my household, my progeny (_itrah_).'**
+> 
+> Then he said: **'Do you not know that I have a greater right over the believers than their own selves?'** He repeated this three times, and they replied: 'Yes.'
+> 
+> Then the Messenger of Allah (peace and blessings of Allah be upon him) said: **'Whosoever's master I am, then Ali is his master.'**"
+
+**The Verdict of the Scholar (Al-Hakim)**
+
+> And the hadith of Buraydah al-Aslami is **Sahih (authentic)** according to the conditions of the two Sheikhs (Al-Bukhari and Muslim).
+
+
+[Mustadrak Al Hakim 4577](https://quranohadith.com/mustadrak/4577)
+
+
 ![[image-209.webp|418x601]]
 ![[image-311.webp|418x601]]![[image-312.webp|418x601]]
 
@@ -126,6 +176,51 @@ Hadith 32073
 ![[image-214.webp|418x601]]![[image-212.webp|418x601]]![[image-213.webp|418x601]]
 
 [Musnad Ahmad 950](https://sunnah.com/ahmad:950)
+
+
+**A common misconception claims that the Prophet’s ﷺ declaration at Ghadir Khumm was merely a response to Buraidah’s complaints against Ali. However, rigorous historical analysis and canonical texts prove these were two entirely separate and independent events:**
+
+
+![[image-463.webp|418x601]]![[image-460.webp|418x601]]![[image-461.webp|418x601]]
+
+> **4579 —** Abu Abd Allah Muhammad ibn Ya'qub the Memorizer narrated to us, saying: My father and Muhammad ibn Nu'aym both narrated to me, saying: Qutaybah ibn Sa'id narrated to us, saying: Ja'far ibn Sulayman al-Duba'i narrated to us, on the authority of Yazid al-Rishk, on the authority of Mutarrif, on the authority of Imran ibn Husayn (may Allah be pleased with him), who said:
+
+---
+
+**The Historical Account and Prophetic Statement (Hadith text)**
+
+> "The Messenger of Allah (peace and blessings of Allah be upon him) dispatched an army expedition and appointed Ali ibn Abi Talib (may Allah be pleased with him) in command over them. Ali went out on the expedition and [acquired] a female captive [from the spoils].
+> 
+> The people objected to this action of his, and four of the Companions of the Messenger of Allah (peace and blessings of Allah be upon him) made a pact, saying: 'When we meet the Prophet (peace and blessings of Allah be upon him), we will inform him of what Ali did.'
+> 
+> Imran said: It was the custom of the Muslims that whenever they returned from a journey, they would first go to the Messenger of Allah (peace and blessings of Allah be upon him), look upon him, greet him with peace, and then return to their camps.
+> 
+> So when the expedition returned, they greeted the Messenger of Allah (peace and blessings of Allah be upon him). Then, one of the four stood up and said: 'O Messenger of Allah, did you not see that Ali did such and such?' But the Prophet turned away from him.
+> 
+> Then the second stood up and said the same, and the Prophet turned away from him. Then the third stood up and said the same, and the Prophet turned away from him.
+> 
+> Then the fourth stood up and said: 'O Messenger of Allah, did you not see that Ali did such and such?'
+> 
+> At this, the Messenger of Allah (peace and blessings of Allah be upon him) turned toward him, with anger visible on his face, and said:
+> 
+> **'What do you want from Ali? Indeed, Ali is from me and I am from him, and he is the guardian (_wali_) of every believer.'**"
+
+
+**The Verdict of the Scholar (Al-Hakim)**
+
+> This is a **Sahih (authentic) hadith** according to the conditions of Muslim, though they (Al-Bukhari and Muslim) did not extract it.
+
+[Mustadrak Al Hakim 4579](https://quranohadith.com/mustadrak/4579)
+![[image-62.webp|418x601]]![[image-60.webp|418x601]]![[image-61.webp|418x601]]
+[Jami at Tirmidhi 3712](https://sunnah.com/tirmidhi:3712)
+
+- **The Case Was Closed:** The Prophet ﷺ definitively ended the matter in Medina with his fierce rebuke (_"What do you want from Ali?!"_).
+- **The Timeline Disconnect:** Ali wasn't even in Medina when they complained . He was still in Yemen, later traveling _directly_ to Mecca to meet the Prophet ﷺ for Hajj.
+- **No Unresolved Grudge:** It is historically illogical to claim a closed, localized dispute from months prior required stalling over 100,000 exhausted pilgrims in the scorching desert heat of Ghadir Khumm just to clear Ali's name.
+
+This clear separation proves that Ghadir Khumm was not a damage-control speech for an old grievance. It was an independent, monumental divine announcement regarding the         (Wilayah) of the Muslim world.
+
+
 
 ##### **Backlinks:**
 [[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
