@@ -23,50 +23,51 @@ Above hadith tells that Aqa Muhammad ﷺ didn't wanted it to be obligatory on mu
 
 Above hadith shows that after this event till the Departure of Aqa Muhammad ﷺ everyone prayed that prayer individually.
 
-![[PNGS/pngs 3/Pasted image 20260308140409.png]]
+![[image-438.webp|418x601]]![[image-439.webp|418x601]]
 
 [Sahih Bukhari 7290](https://sunnah.com/bukhari:7290)
 
 According to this hadith Aqa Muhammad ﷺ tells us that the best way to offer Nafl prayers is that it should be offered at home.
 
-![[PNGS/pngs 3/Pasted image 20260308140527.png|432x391]]
+![[image-440.webp|418x601]]
+![[image-441.webp|418x601]]![[image-442.webp|418x601]]
+
 
 [Sahih Bukhari 6113](https://sunnah.com/bukhari:6113)
 
-![[image-164.png]]
+
+![[image-445.webp|418x601]]![[image-443.webp|418x601]]
 
 [Sunan Abi Dawud 1447](https://sunnah.com/abudawud:1447)
 
 Above Hadith shows that Aqa Muhammad ﷺ got angry when people asked him to lead taraweeh and highlights that Aqa Muhammad ﷺ  didn't wanted it to be offered in congregation. 
 
 
-![[PNGS/pngs 3/Pasted image 20260308140428.png]]
+![[image-446.webp|418x601]]![[image-447.webp|418x601]]![[image-448.webp|418x601]]
 
 [Sahih Bukhari 2010](https://sunnah.com/bukhari:2010)
 
 In this hadith, it is clearly mentioned that Umar himself called it as a Bid'a. So it cannot be called as sunnah of Aqa Muhammad ﷺ.
 
-![[PNGS/pngs 3/Pasted image 20260308140242.png|430x184]]
+![[image-451.webp|418x601]]![[image-452.webp|418x601]]
 
 [Sahih Bukhari 990](https://sunnah.com/bukhari:990)
 
-Moreover, Aqa ﷺ never gathered people for taraweeh.
-
-![[image-165.png]]
-
-[Musnad Ahmad 7881](https://www.quranohadith.com/musnad-ahmed/7881)
-
 No one knows how many rakat that specific Prayer was but Salat Al Layl/Tahajjud is recommended. 
 
-![[image-52.png]]
+![[image-454.webp|418x601]]
+![[image-453.webp|418x601]]
 
 [Sahih Bukhari 1123](https://sunnah.com/bukhari:1123)
 
-![[image-162.png]]
+![[image-456.webp|418x601]]
+![[image-455.webp|418x601]]
 
 [Sahih Bukhari 1147](https://sunnah.com/bukhari:1147)
 
-![[image-163.png]]
+
+![[image-450.webp|418x601]]
+![[image-449.webp|418x601]]
 
 [Sahih Bukhari 2013](https://sunnah.com/bukhari:2013)
 
