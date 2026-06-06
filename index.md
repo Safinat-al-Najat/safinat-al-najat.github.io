@@ -3,12 +3,6 @@ title: Home
 ---
 
 ---
-
-> [!important]
->   **18th Dhu Al Hijjah, The event of [[Virtues and Merits/Mola Ali A.S/GHADEER E KHUM|GHADEER E KHUM]] is Today.**
->![[image-400.webp|466x368]]
-
----
 ## Home
 
 ---
