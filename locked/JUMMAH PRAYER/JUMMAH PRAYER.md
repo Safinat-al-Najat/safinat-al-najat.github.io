@@ -49,8 +49,7 @@ Above hadith tells the severe verdict over leaving three consecutive Friday pray
 
 Above hadith shows the punishment of leaving three Friday prayers consecutively.
 
-> [!NOTE]
-> **All Above scans are taken from Wasail Al Shia Vol 7.**
+ **All Above scans are taken from Wasail Al Shia Vol 7.**
 
 
 ![[image-486.webp|418x601]]
@@ -90,8 +89,7 @@ Above hadith shows the punishment of leaving three Friday prayers consecutively.
 
 
 
-> [!info]
-> Now that it has been established that a just Imam is needed. Now lets look who is a just Imam.
+**Now that it has been established that a just Imam is needed. Now lets look who is a just Imam.**
 
 ![[image-482.webp|418x601]]![[image-483.webp|418x601]]
 
@@ -106,8 +104,7 @@ Above hadith shows the punishment of leaving three Friday prayers consecutively.
 >'Leadership (Imamate) in the Book of Allah consists of two types of imams: a just imam, and an oppressive/unjust imam. Allah said: _"And We made them imams guiding by Our command"_ [Quran 21:73]—they do not command people...'"
 
 
-> [!question]
-> So, according to Quran there are two types of Imams. Now who are the just Imams?
+**So, according to Quran there are two types of Imams. Now who are the just Imams?**
 
 ![[image-481.webp|418x601]]![[image-478.webp|418x601]]![[image-479.webp|418x601]]![[image-480.webp|418x601]]
 
@@ -115,11 +112,9 @@ Above hadith shows the punishment of leaving three Friday prayers consecutively.
 >
 >He (Ali) replied: 'O Haruni, indeed Muhammad has twelve just imams; they are not harmed by the desertion of those who desert them, nor do they feel lonely due to the disagreement of those who oppose them. In religion, they are firmer than anchored mountains on the earth. And Muhammad's dwelling place in his Paradise is with them, those twelve just imams.'"
 
-> [!info]
-> Above hadith is taken from Al Kafi Vol 1, Book 4 and Chapter 26.
+ **Above hadith is taken from Al Kafi Vol 1, Book 4 and Chapter 26.**
 
-> [!important]
-> So, Mola Ali cleared that there are only 12 just Imams after Muhammad ﷺ.
+**So, Mola Ali cleared that there are only 12 just Imams after Muhammad ﷺ.**
 
 
 ![[image-493.webp|418x601]]![[image-492.webp|418x601]]
@@ -156,8 +151,7 @@ Above hadith shows the punishment of leaving three Friday prayers consecutively.
 
 To make it simple: During Imam Ali's rule, terrorist-like groups used to launch surprise night attacks on cities, killing the governors and looting the towns to create chaos. Because of this danger, some governors would flee for their lives, leaving the citizens without a leader. When the people asked Imam Ali what to do about the Friday prayer if their appointed leader had run away, he answered that they must pray the standard four-rak'ah _Dhuhr_ (afternoon) prayer instead. This shows that for a Friday prayer to be valid and required, there must be a legitimate leader and a safe environment; without them, the Friday prayer cannot be held, and praying _Dhuhr_ becomes mandatory.
 
-> [!success]
-> So, this proves the point that to lead Friday prayer **Imam** is needed or someone appointed by **Imams** is required or else it is **invalid.**
+So, this proves the point that to lead Friday prayer **Imam** is needed or someone appointed by **Imams** is required or else it is **invalid.**
 
 If there is something mistaken or something that proves it is valid, I would really like suggestions and counter hadith of it.
 
