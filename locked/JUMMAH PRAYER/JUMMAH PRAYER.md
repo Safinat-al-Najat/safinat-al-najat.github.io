@@ -4,7 +4,7 @@
 
 [Quran 62:9](https://quran.com/62/9?translations=95)
 
-So, this Ayah shows the origin of Jummah Prayer.
+**So, this Ayah shows the origin of Jummah Prayer.**
 
 ![[image-477.webp|418x601]]
 ![[image-473.webp|418x601]]
@@ -13,7 +13,8 @@ So, this Ayah shows the origin of Jummah Prayer.
 > 
 > "Allah, the Almighty and Sublime, has obligated thirty-five prayers upon the people from one Friday to the next Friday. **Among them is one single prayer that Allah, the Almighty and Sublime, has obligated to be performed in a congregation, which is the Friday prayer.** He has waived it for nine groups: the young, the elderly, the insane, the traveler, the slave, the woman, the sick, the blind, and anyone who is located at a distance of more than two Farsakhs."
 
-Above hadith tells that only Friday prayer is obligatory to be performed in congregation.
+
+**Above hadith tells that only Friday prayer is obligatory to be performed in congregation.**
 
 
 ![[image-474.webp|418x601]]
@@ -33,13 +34,13 @@ Above hadith tells that only Friday prayer is obligatory to be performed in cong
 
 > "Praise be to Allah, the Guardian, the Praiseworthy" — until he said — "and Friday [prayer] is obligatory upon every believer except for the child, the sick, the insane, the elderly person, the blind, the traveler, the woman, the owned slave, and whoever is at a distance of two Farsakhs."
 
-The hadith tells about the people who can leave it.
+**The hadith tells about the people who can leave it.**
 
 **Highlighted Hadith 2: Zurarah bin A'yan, from Abu Ja'far Al-Baqir (peace be upon him), who said:**
 
 > "**The Friday prayer is an obligation**, and gathering for it with the Imam is an obligation. If a man misses three Friday prayers without an excuse, he has abandoned three obligations, and no one abandons three obligations without an excuse except a hypocrite."
 
-Above hadith tells the severe verdict over leaving three consecutive Friday prayers without an excuse.
+**Above hadith tells the severe verdict over leaving three consecutive Friday prayers without an excuse.**
 
 ![[image-476.webp|418x601]]
 
@@ -47,7 +48,7 @@ Above hadith tells the severe verdict over leaving three consecutive Friday pray
 
 > "Whoever leaves Friday prayer three consecutive times without an excuse, Allah sets a seal upon his heart."
 
-Above hadith shows the punishment of leaving three Friday prayers consecutively.
+**Above hadith shows the punishment of leaving three Friday prayers consecutively.**
 
  **All Above scans are taken from Wasail Al Shia Vol 7.**
 
