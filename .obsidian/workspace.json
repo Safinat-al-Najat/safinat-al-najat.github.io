@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "4e0e0b00fd144c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locked/JUMMAH PRAYER/JUMMAH PRAYER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JUMMAH PRAYER"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,30 +211,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae71fb82b924cc1",
+  "active": "4e0e0b00fd144c28",
   "lastOpenFiles": [
+    "PNGS/image-499.webp",
+    "PNGS/image-498.webp",
+    "PNGS/image-497.webp",
+    "PNGS/image-496.webp",
+    "PNGS/image-495.webp",
+    "PNGS/image-494.webp",
+    "PNGS/image-493.webp",
+    "PNGS/image-492.webp",
+    "PNGS/image-491.webp",
+    "PNGS/image-490.webp",
+    "PNGS/image-489.webp",
+    "index.md",
+    "locked/JUMMAH PRAYER/JUMMAH PRAYER.md",
+    "locked/JUMMAH PRAYER",
     "Virtues and Merits/Mola Ali A.S/ALI AND AQA ﷺ.md",
     "Virtues and Merits/Mola Ali A.S/HARUN OF MUSTAFA ﷺ.md",
     "Virtues and Merits/Mola Ali A.S/FLAG BEARER.md",
     "Virtues and Merits/Mola Ali A.S/FIGHT FOR INTERPRETATION OF QURAN.md",
-    "PNGS/image-470.webp",
-    "PNGS/image-469.webp",
     "Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E THAQALAYN.md",
     "Virtues and Merits/Mola Ali A.S/GHADEER E KHUM.md",
-    "PNGS/image-468.webp",
-    "PNGS/image-467.webp",
-    "PNGS/image-466.webp",
     "Virtues and Merits/Mola Ali A.S/PRAYER OF ALI.md",
     "Virtues and Merits/Mola Ali A.S/ABU TURAB.md",
-    "PNGS/image-465.webp",
-    "PNGS/image-464.webp",
     "ISLAMIC EVENTS/MIGRATION TO MEDINA (622 CE).md",
     "ISLAMIC EVENTS/THE BATTLE OF UHUD (625 CE).md",
     "ISLAMIC EVENTS/THE BATTLE OF BADR (624 CE).md",
-    "PNGS/image-463.webp",
-    "PNGS/image-462.webp",
-    "PNGS/image-461.webp",
-    "index.md",
     "Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ.md",
     "Virtues and Merits/Mola Ali A.S/ALLY OF BELIEVERS.md",
     "Virtues and Merits/Mola Ali A.S/ALI'S DETERMINATION.md",
@@ -232,9 +250,7 @@
     "RULINGS OF ISLAM/Pillars of Islam/Salah/Sadl al Yadayn.md",
     "RULINGS OF ISLAM/Pillars of Islam/Salah/Salah.md",
     "RULINGS OF ISLAM/Pillars of Islam/Salah/Wearing Shoes.md",
-    "RULINGS OF ISLAM/Pillars of Islam/Salah/Turbah.md",
     "desktop.ini",
-    "locked/NAMAZ/SALAT/SECTIONS.md",
     "locked/OBLIGATIONS",
     "Untitled.base",
     "copilot/copilot-custom-prompts",
@@ -243,7 +259,6 @@
     "locked/NAMAZ/SALAT",
     "locked/NAMAZ",
     "locked/EID AL ADHA",
-    "locked",
     "Untitled.canvas"
   ]
 }
