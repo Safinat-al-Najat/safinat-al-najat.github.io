@@ -1,3 +1,6 @@
+---
+weight: 2
+---
 
 # **HUSSAIN WAS NOT A REBEL BUT A ISLAMIC REFORMER**
 

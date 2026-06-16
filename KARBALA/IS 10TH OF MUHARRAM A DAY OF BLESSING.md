@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 
 
 No, 10th Muharram is a day of grieving. There are fake rumors regarding this day as stated in the hadith below:
