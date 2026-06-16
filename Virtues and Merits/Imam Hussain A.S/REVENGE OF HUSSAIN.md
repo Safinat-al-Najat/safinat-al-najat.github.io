@@ -1,7 +1,8 @@
 ---
 weight: 9
 ---
-![[image-310.webp|418x601]]![[image-308.webp|418x601]]![[image-309.webp|418x601]]
+
+![[image-540.webp|418x601]]![[image-538.webp|418x601]]![[image-539.webp|418x601]]
 
 Ibn Abbas, may Allah be pleased with them both
 
@@ -20,8 +21,3 @@ Ibn Abbas, may Allah be pleased with them both
 
 
 [Mustadrak Al Hakim 4822](https://al-hadees.com/mustadrak/4822)
-
-Hadith clearly states that Allah will kill more people for revenge of Hussain.
-
-##### **Backlinks:**
-[[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

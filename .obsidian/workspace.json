@@ -41,6 +41,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "KARBALA/CRYING FOR HUSSAIN IS A SUNNAH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRYING FOR HUSSAIN IS A SUNNAH"
+            }
+          },
+          {
+            "id": "d72c720c9a14754a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KARBALA/HUSSAIN WAS NOT A REBEL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HUSSAIN WAS NOT A REBEL"
+            }
+          },
+          {
+            "id": "892ffac2a2bd9b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,31 +253,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a3e95ce0e590b5",
+  "active": "892ffac2a2bd9b23",
   "lastOpenFiles": [
-    "KARBALA/KARBALA WAS BOUND TO HAPPEN.md",
-    "PNGS/image-522.webp",
-    "KARBALA/IS 10TH OF MUHARRAM A DAY OF BLESSING.md",
+    "KARBALA/ALLAH'S VENGEANCE FOR HUSSAIN.md",
     "KARBALA/CRYING FOR HUSSAIN IS A SUNNAH.md",
+    "KARBALA/IS 10TH OF MUHARRAM A DAY OF BLESSING.md",
+    "KARBALA/KARBALA WAS BOUND TO HAPPEN.md",
+    "KARBALA/HUSSAIN WAS NOT A REBEL.md",
+    "Virtues and Merits/Imam Hussain A.S/REVENGE OF HUSSAIN.md",
+    "PNGS/image-540.webp",
+    "PNGS/image-539.webp",
+    "PNGS/image-538.webp",
+    "PNGS/image-537.webp",
+    "PNGS/image-536.webp",
+    "PNGS/image-535.webp",
+    "PNGS/image-534.webp",
+    "PNGS/image-533.webp",
+    "PNGS/image-532.webp",
+    "PNGS/image-531.webp",
+    "index.md",
     "Virtues and Merits/Imam Hussain A.S/CRYING FOR HUSSAIN.md",
-    "PNGS/image-521.webp",
-    "PNGS/image-520.webp",
     "locked/KARBALA/Untitled.base",
-    "PNGS/image-519.webp",
-    "PNGS/image-518.webp",
-    "PNGS/image-517.webp",
-    "PNGS/image-516.webp",
-    "PNGS/image-515.webp",
-    "PNGS/image-514.webp",
     "Untitled",
     "KARBALA",
-    "PNGS/image-513.webp",
     "RULINGS OF ISLAM/Other Teachings/Taraweeh or Salat Al Layl.md",
     "KARBALA",
     "RULINGS OF ISLAM/Other Teachings/Other Teachings.md",
     "desktop.ini",
     "RULINGS OF ISLAM/Ethics and Rights/Taqwa.md",
-    "index.md",
     "locked/JUMMAH PRAYER/JUMMAH PRAYER.md",
     "BOOKS/MAN LA YAHDURUH AL FAQIH.md",
     "BOOKS/AL KAFI.md",
@@ -269,9 +300,6 @@
     "Virtues and Merits/Mola Ali A.S/ABU TURAB.md",
     "ISLAMIC EVENTS/MIGRATION TO MEDINA (622 CE).md",
     "ISLAMIC EVENTS/THE BATTLE OF UHUD (625 CE).md",
-    "ISLAMIC EVENTS/THE BATTLE OF BADR (624 CE).md",
-    "Virtues and Merits/Mola Ali A.S/ALI FROM AQA ﷺ.md",
-    "Virtues and Merits/Mola Ali A.S/ALLY OF BELIEVERS.md",
     "Untitled.canvas"
   ]
 }
