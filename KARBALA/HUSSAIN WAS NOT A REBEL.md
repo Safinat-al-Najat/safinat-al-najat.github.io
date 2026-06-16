@@ -10,30 +10,30 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
 ---
 
-####                                        ﴿ وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ الَّذِينَ يفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ ﴾ 
+####                                        وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ الَّذِينَ يفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ  
 
 **And do not obey the order of the transgressors, who causes corruption in the land and do not amend. [26:151-152](https://legacy.quran.com/26/151-152)
 
-####                                                              ﴿ فَاصْبِر لِحُكمِ رَبِّك وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ كفُوراً ﴾ 
+####                                                              فَاصْبِر لِحُكمِ رَبِّك وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ كفُوراً 
 
 **So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]. [76:24](https://legacy.quran.com/76/24)
 
-####                                            ﴿ وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكرِنَا وَاتَّبَعَ هَوَاهُ وَكانَ أَمْرُهُ فُرُطاًَ  ﴾ 
+####                                             وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكرِنَا وَاتَّبَعَ هَوَاهُ وَكانَ أَمْرُهُ فُرُطاًَ   
 
 **…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect. [18:28](https://legacy.quran.com/18/28)
 
-####                                                                                     ﴿ وَلاَ تُطِعْ كلَّ حَلّاَّفٍ مَهِينٍ ﴾
+####                                                                                      وَلاَ تُطِعْ كلَّ حَلّاَّفٍ مَهِينٍ 
 
 **And do not obey every worthless habitual swearer. [68:10](https://legacy.quran.com/68/10)**
 
-####                                                                               ﴿ وَلاَ تُطِعِ الكافِرِينَ وَالمُنَافِقِينَ ﴾ 
+####                                                                                وَلاَ تُطِعِ الكافِرِينَ وَالمُنَافِقِينَ 
 
 **And do not obey the disbelievers and the hypocrites… [33:48](https://legacy.quran.com/33/48)
 
 
 So the Qur’an clearly highlights its objection to the Sunni creed, in which they demand obedience even to tyrannical leaders, while it calls for disobedience for sinners and evil rulers. On the contrary, the Qur’an describes some of the people of Hell-fire as those who claimed to obey their corrupt rulers: 
 
-#### ﴿يومَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يقُولُونَ يا لَيْتَنَا أَطَعْنَا اللهِ وَأَطَعْنَا الرَّسُولا وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكبَرَاءَنَا فَأَضَلُّونَا                                                                        السَّبِيلا رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً كبِيراً ﴾
+#### يومَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يقُولُونَ يا لَيْتَنَا أَطَعْنَا اللهِ وَأَطَعْنَا الرَّسُولا وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكبَرَاءَنَا فَأَضَلُّونَا السَّبِيلا رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً كبِيراً 
 
 **The Day their faces will be turned about in the Fire, they will say, "How we wish we had obeyed Allah and obeyed the Messenger." And they will say, "Our Lord,** **indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way.** [33:66-7](https://legacy.quran.com/33/66-67)
 
