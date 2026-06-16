@@ -1,13 +1,12 @@
 ---
 title: Home
 ---
+---
 
 > [!important] 🏴 Muharram has started
 > I am continuously updating the Karbala archives. Make sure to read it closely for the latest translated historical accounts.
 > 
 > <a href="/KARBALA" class="btn">🏴 KARBALA<br><small>INFORMATION ABOUT KARBALA</small></a>
-
-
 
 ---
 ## Home
