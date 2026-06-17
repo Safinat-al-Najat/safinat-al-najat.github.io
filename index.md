@@ -27,6 +27,8 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 ---
 
+## Navigate through pages
+
 <style> .btn { display: inline-block; padding: 8px 15px !important; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
 <a href="/Tawhid" class="btn">🕋 Tawhid<br><small>The Oneness of Allah</small></a>
