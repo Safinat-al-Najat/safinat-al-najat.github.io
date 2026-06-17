@@ -10,43 +10,50 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
 ---
 
+# Quranic Evidence
+
 ####                                        وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ الَّذِينَ يفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ  
 
-**And do not obey the order of the transgressors, who causes corruption in the land and do not amend. [26:151-152](https://legacy.quran.com/26/151-152)
+**And do not obey the order of the transgressors, who causes corruption in the land and do not amend. [26:151-152](https://thaqalayn.net/quran/26/151)
 
 ####                                                              فَاصْبِر لِحُكمِ رَبِّك وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ كفُوراً 
 
-**So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]. [76:24](https://legacy.quran.com/76/24)
+**So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]. [76:24](https://thaqalayn.net/quran/76/24)
 
 ####                                             وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكرِنَا وَاتَّبَعَ هَوَاهُ وَكانَ أَمْرُهُ فُرُطاًَ   
 
-**…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect. [18:28](https://legacy.quran.com/18/28)
+**…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect. [18:28](https://thaqalayn.net/quran/18/28)
 
 ####                                                                                      وَلاَ تُطِعْ كلَّ حَلّاَّفٍ مَهِينٍ 
 
-**And do not obey every worthless habitual swearer. [68:10](https://legacy.quran.com/68/10)**
+**And do not obey every worthless habitual swearer. [68:10](https://thaqalayn.net/quran/68/10)**
 
 ####                                                                                وَلاَ تُطِعِ الكافِرِينَ وَالمُنَافِقِينَ 
 
-**And do not obey the disbelievers and the hypocrites… [33:48](https://legacy.quran.com/33/48)
+**And do not obey the disbelievers and the hypocrites… [33:48](https://thaqalayn.net/quran/33/48)
 
 
 So the Qur’an clearly highlights its objection to the Sunni creed, in which they demand obedience even to tyrannical leaders, while it calls for disobedience for sinners and evil rulers. On the contrary, the Qur’an describes some of the people of Hell-fire as those who claimed to obey their corrupt rulers: 
 
 #### يومَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يقُولُونَ يا لَيْتَنَا أَطَعْنَا اللهِ وَأَطَعْنَا الرَّسُولا وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكبَرَاءَنَا فَأَضَلُّونَا السَّبِيلا رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْناً كبِيراً 
 
-**The Day their faces will be turned about in the Fire, they will say, "How we wish we had obeyed Allah and obeyed the Messenger." And they will say, "Our Lord,** **indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way.** [33:66-7](https://legacy.quran.com/33/66-67)
+**The Day their faces will be turned about in the Fire, they will say, "How we wish we had obeyed Allah and obeyed the Messenger." And they will say, "Our Lord,** **indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way.** [33:66-7](https://thaqalayn.net/quran/33/66)
 
 ---
 
 # **For the proof that Hussain was enjoining good and forbidding evil.**
 
 
+## 1st Source
+
 ![[image-525.webp|418x601]]![[image-523.webp|418x601]]![[image-524.webp|418x601]]
 
 **Tarikh Al Tabari Vol 19**
 
 ---
+
+## 2nd Source
+
 
 ![[image-528.webp|697|700x459]]
 
@@ -63,6 +70,8 @@ As was related from Husayn b. Ali, expressing his weariness with life among thos
 
 If someone were to say: Al-Husayn (AS) committed a mistake and so no one should join him, for he was upon falsehood. Then the answer is: If that were to be the case, then why did the Prophet (SAW) support his uprising, would he ever support falsehood?
 
+## 1st Source
+
 ![[image-529.webp|418x601]]![[image-530.webp|418x601]]![[image-531.webp|418x601]]![[image-532.webp|418x601]]
 
 Abu Muhammad al-Mukhaldi narrated to us, who said: Abu Imran al-Juwayni narrated to me, who said: Muhammad b. Abd al-Rahman al-Mustalimi narrated to us, who said: Abdullah b. al-Rabi‘ narrated to us, who said: Hakim b. Zayd narrated to us, from Ibrahim al-Sa’igh, from Ata b. Abi Rabah, from Jabir b. Abdullah, who said: 
@@ -76,6 +85,8 @@ Same narration is found in Mustadrak Al Hakim as given below.
 
 ---
 
+## 2nd Source
+
 ![[image-534.webp|418x601]]![[image-533.webp|418x601]]
 
 "4884 / 482 – Abu Ali al-Hafiz narrated to me: Ahmad bin Muhammad bin Umar bin Bastam al-Marwazi narrated to us: Ahmad bin Sayyar, and Muhammad bin al-Layth, narrated to us; they said: Rafi bin al-Ashras al-Marwazi narrated to us: the grandson of al-Saffar narrated to us, from Ibrahim al-Sa’igh, from Ata, from Jabir, may Allah be pleased with him, that the Prophet, peace and blessings be upon him, said:
@@ -85,6 +96,8 @@ Same narration is found in Mustadrak Al Hakim as given below.
 The chain of transmission is authentic, but they [Al-Bukhari and Muslim] did not extract it."
 
 ---
+
+## 3rd Source
 
 ![[image-537.webp|418x601]]![[image-535.webp|418x601]]![[image-536.webp|418x601]]
 

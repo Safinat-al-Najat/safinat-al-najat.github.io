@@ -1,4 +1,7 @@
 
+> **People today say that if Hussain hadn't left Mecca, Karbala wouldn't had happened. Here is the answer for it.**
+
+# 1st Source
 ![[image-542.webp|418x601]]![[image-541.webp|418x601]]
 
 Husayn b. Ali narrated to us, from Ibn Uyaynah, from Ibn Tawus, from his father, who said: Ibn Abbas said:
@@ -8,6 +11,8 @@ Husayn b. Ali narrated to us, from Ibn Uyaynah, from Ibn Tawus, from his father,
 **What made me give up trying to stop him was when he said to me:** **“This sanctuary will be violated by a man; and to be killed in such-and-such a land,  even though it is far from here,  is more beloved to me than to be the one by whom it is violated.”**
 
 ---
+
+# 2nd Source
 
 ![[image-544.webp|418x601]]![[image-543.webp|418x601]]
 
