@@ -69,5 +69,8 @@ Some may question these narrations as da'if — but according to the principles 
 
 Aqa Muhammad ﷺ himself wept for Hussain — so mourning on the 10th of Muharram is not a bid'ah. It is a Sunnah.
 
-##### **Backlinks:**
-[[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
+---
+
+$$
+DATED: 13/06/26
+$$

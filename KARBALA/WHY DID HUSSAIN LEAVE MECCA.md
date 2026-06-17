@@ -28,3 +28,7 @@ He [Ibn Abbas]  said: That was what made me yield [and give up trying to stop hi
 "2859 – He said in _Al-Majma'_: 9/192, and its men (narrators) are the men of _Al-Sahih_ (authentic transmitters)."
 
 ---
+
+$$
+DATED: 16/06/26
+$$

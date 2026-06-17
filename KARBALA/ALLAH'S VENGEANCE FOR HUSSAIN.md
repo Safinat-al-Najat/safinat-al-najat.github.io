@@ -38,3 +38,9 @@ Note: This is not the only chain that al-Hakim provides, he gives 5 different ch
 **In sum, the total of what has been mentioned does not indicate that he practiced tadlis frequently, but rather that he was little involved in tadlis, as appears from his biographies and narrations. And Allah, exalted is He, knows best.**
 
 **And the answer to these questions is not found by returning to the writings of the later scholars, but rather by referring back to the words of the early authorities, examining their expressions carefully, and tracing the narrations of the one described with tadlīs. In this way, the researcher is safeguarded from error, by the help and power of Allah.**
+
+---
+
+$$
+DATED: 16/06/26
+$$

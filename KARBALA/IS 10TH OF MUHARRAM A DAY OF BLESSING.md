@@ -55,3 +55,9 @@ Jabalah said:
 Then he [Imam al-Rida] said:
 
 > "Whenever the month of Muharram arrived, my father [Imam al-Kadhim] (blessings of God be upon him) was never seen laughing. Melancholy would overcome him until ten days of it had passed. When it was the tenth day, that day would be his day of tragedy, grief, and weeping, and he would say: 'This is the day on which al-Husayn (blessings of God be upon him) was killed.'"
+
+---
+
+$$
+DATED: 14/06/26
+$$
