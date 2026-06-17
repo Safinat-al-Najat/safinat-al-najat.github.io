@@ -53,4 +53,3 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 ### For any queries:
 #### 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
 
-[^1]:
