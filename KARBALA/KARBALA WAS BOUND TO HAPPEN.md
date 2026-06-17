@@ -1,6 +1,11 @@
 ---
 weight: 1
 ---
+> **It is one of the evidence of the Prophethood of Aqa Muhammad ﷺ, that he told about the Karbala before it even happened.**
+
+
+# 1st Source
+
 
 ![[image-515.webp|418x601]]
 ![[image-514.webp|418x601]]
@@ -18,6 +23,8 @@ weight: 1
 
 ---
 
+# Death of Umm E Salma
+
 Umm e Salma Passed away after karbala as it is also confirmed by Dhahabi (Renowned Sunni Scholar)
 
 ![[image-517.webp|418x601]]![[image-516.webp|418x601]]
@@ -28,6 +35,9 @@ Umm e Salma Passed away after karbala as it is also confirmed by Dhahabi (Renown
 | **Siyar Alam Al Nubala** | Vol 2 |
 
 ---
+
+
+# 2nd Source
 
 
 ![[image-519.webp|418x601]]
@@ -45,6 +55,8 @@ Umm e Salma Passed away after karbala as it is also confirmed by Dhahabi (Renown
 
 
 ---
+
+# 3rd Source
 
 ![[image-521.webp|418x601]]![[image-520.webp|418x601]]
 
