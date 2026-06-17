@@ -28,8 +28,9 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 
 ---
-
 ## Navigate through pages
+
+---
 
 <style> .btn { display: inline-block; padding: 8px 15px !important; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
@@ -48,14 +49,16 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 
 ---
-
 ## Must read this
+
+---
 
 > [!note]
 > The explanations provided are based on personal study and reflection; they are not definitive and may be subject to correction. While I strive to include only **authentic and reliable Hadith**, if any weak or fabricated (**Mawdu**) narration has been included carelessly, I seek Allah’s forgiveness. There is no intention to spread misinformation.
 > And make sure to read [[Blind Following]] before you start reading.
 > If you spot an error, please reach out via the email provided so it can be corrected. **Jazakallah khayran.**
 
+---
 ### For any queries:
 
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
