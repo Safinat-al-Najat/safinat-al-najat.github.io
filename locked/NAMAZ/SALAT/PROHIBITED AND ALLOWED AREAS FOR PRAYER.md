@@ -1,6 +1,6 @@
 
 
-ALLOWED AREAS
+# ALLOWED AREAS
 
 ![[image-390.webp|418x601]]
 ![[image-388.webp|418x601]]
@@ -17,8 +17,9 @@ Ibn Abbas, may Allah be pleased with him said:
 
 So, whole land is allowed for prayer but...
 
+---
 
-Forbidden areas for prayer:
+# Forbidden areas for prayer:
 
 ![[image-392.webp|418x601]]
 ![[image-391.webp|418x601]]

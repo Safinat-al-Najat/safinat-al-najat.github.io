@@ -1,7 +1,7 @@
 
 
 
-DHUHR, ASR, MAGHREB AND ISHA
+# DHUHR, ASR, MAGHREB AND ISHA
 
 
 ![[image-387.webp|418x601]]

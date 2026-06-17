@@ -1,10 +1,17 @@
 
 
+# Quranic Origin
+
 ![[image-471.webp|697x152]]
 
 [Quran 62:9](https://quran.com/62/9?translations=95)
 
 **So, this Ayah shows the origin of Jummah Prayer.**
+
+---
+
+# Congregation is required
+
 
 ![[image-477.webp|418x601]]
 ![[image-473.webp|418x601]]
@@ -16,15 +23,12 @@
 
 **Above hadith tells that only Friday prayer is obligatory to be performed in congregation.**
 
+---
 
-![[image-474.webp|418x601]]
-
-> from Zurarah, the same [as the previous narration], and he added:
-> 
-> "And the recitation in it is aloud (Jehar), and the ritual bath (Ghusl) for it is obligatory, and the Imam must perform two Qunut supplications in it: **a Qunut in the first unit (Rak'ah) before bowing (Ruku'), and in the second [unit] after bowing.**"
+# People who are excused from it and Punishment for leaving it
 
 
-
+![[image-571.webp|418x601]]
 
 ![[image-475.webp|418x601]]
 
@@ -42,6 +46,12 @@
 
 **Above hadith tells the severe verdict over leaving three consecutive Friday prayers without an excuse.**
 
+---
+
+# Punishment for those who leave it
+
+
+![[image-572.webp|418x601]]
 ![[image-476.webp|418x601]]
 
 **from Abi Basir and Muhammad bin Muslim, who both said: We heard Abu Ja'far Muhammad bin Ali (peace be upon him) say:**
@@ -52,6 +62,12 @@
 
  **All Above scans are taken from Wasail Al Shia Vol 7.**
 
+---
+
+# A Just Imam is Required
+
+
+##  1st Source
 
 ![[image-486.webp|418x601]]
 ![[image-488.webp|418x601]]![[image-489.webp|418x601]]
@@ -78,6 +94,9 @@
 > 
 > Furthermore, this is a matter of consensus, for from the time of the Prophet, peace be upon him and his family, until our present day, none have established the Friday prayer except the Caliphs, the governors, and whoever was appointed over the prayer. Thus, it is known that this is the consensus of the people of all eras, and if it could be validly established by the subjects [citizens alone], they would have prayed it as such."
 
+---
+
+## 2nd Source
 
 ![[image-490.webp|418x601]]![[image-491.webp|418x601]]
 >**First Highlighted Section:**
@@ -89,8 +108,14 @@
 >As for the conditions pertaining to the validity of its establishment, they are four: a just ruler or whomever the ruler appoints, a mandatory headcount of seven individuals and a recommended headcount of five, a distance of three miles or more between the two Friday congregations, and that the leader delivers two sermons.
 
 
-
 **Now that it has been established that a just Imam is needed. Now lets look who is a just Imam.**
+
+---
+
+# Two types of Imams
+
+
+## 1st Source
 
 ![[image-482.webp|418x601]]![[image-483.webp|418x601]]
 
@@ -99,6 +124,8 @@
    "People are not set right except by a just imam or a wicked imam. Indeed, Allah, the Mighty and Sublime, says: _'And We made them imams guiding by Our command'_ [Quran 21:73], and He said: _'And We made them imams who invite to the Fire, and on the Day of Resurrection they will not be helped'_ [Quran 28:41]."
 
 
+## 2nd Source
+
 ![[image-484.webp|418x601]]![[image-485.webp|418x601]]
 >Ibn Zayd, from Ja'far ibn Muhammad, from his father, peace be upon them, who said:
 >
@@ -106,6 +133,10 @@
 
 
 **So, according to Quran there are two types of Imams. Now who are the just Imams?**
+
+---
+
+# Who are the Just Imams?
 
 ![[image-481.webp|418x601]]![[image-478.webp|418x601]]![[image-479.webp|418x601]]![[image-480.webp|418x601]]
 
@@ -117,12 +148,22 @@
 
 **So, Mola Ali cleared that there are only 12 just Imams after Muhammad ﷺ.**
 
+---
+
+# Requirement of a city with legal ruling and a caliph (Imam)
+
+
+## 1st Source
 
 ![[image-493.webp|418x601]]![[image-492.webp|418x601]]
 
 >**(639) 21 -** As for what was narrated by Ahmad ibn Muhammad, from Muhammad ibn Yahya, from Talhah ibn Zayd, from Ja'far, from his father, from Ali, peace be upon them, who said:
 >
 >"There is no Friday prayer (Jumu'ah) except in a major city (_misr_) where legal punishments (_hudud_) are established."
+
+---
+
+## 2nd Source
 
 
 ![[image-495.webp|418x601]]
@@ -131,6 +172,10 @@
 >**81 -** Muhammad ibn Ahmad ibn Yahya narrated, from a man, from Ali ibn al-Husayn al-Darir, from Hammad ibn Isa, from Ja'far, from his father, from Ali, peace be upon them, who said:
 >
 >"If the Caliph enters a city (_misr_) from among the cities, he gathers the people [for the Friday prayer], and this is not for anyone else besides him."
+
+---
+
+## 3rd Source
 
 
 ![[image-497.webp|418x601]]
@@ -143,6 +188,9 @@
 >
 >And the meaning of that is: if it is held by a **just imam**. And he said: If there are three miles between the two congregations, there is no harm if these hold it and those hold it, and there cannot be less than three miles between the two congregations. Know that Friday truly has a right; it was mentioned from Abu Ja'far, peace be upon him, that he said to Abd al-Malik: "Someone like you would perish if they did not perform an obligation that Allah has mandated upon them." He said: I asked: "How should I perform it?" He replied: "Pray it in congregation—meaning the Friday prayer."
 
+---
+
+# Hadith that clears everything
 
 ![[image-499.webp|418x601]]![[image-498.webp|418x601]]
 
