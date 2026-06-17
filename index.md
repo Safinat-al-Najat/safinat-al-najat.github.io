@@ -51,6 +51,6 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 > If you spot an error, please reach out via the email provided so it can be corrected. **Jazakallah khayran.**
 
 ### For any queries:
-📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
+#### 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
 
 [^1]:
