@@ -11,7 +11,7 @@ title: Home
 > <a href="/KARBALA" class="btn">🏴 KARBALA<br><small>INFORMATION ABOUT KARBALA</small></a>
 
 ---
-## Home
+# Home
 
 ---
 
@@ -28,7 +28,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 
 ---
-## Navigate through pages
+# Navigate through pages
 
 ---
 
@@ -49,7 +49,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 
 
 ---
-## Must read this
+# Must read this
 
 ---
 
@@ -59,7 +59,7 @@ Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh  🌙
 > If you spot an error, please reach out via the email provided so it can be corrected. **Jazakallah khayran.**
 
 ---
-## For any queries:
+# For any queries:
 
 📧 [safinatalnajat151214@gmail.com](mailto:safinatalnajat151214@gmail.com)
 
