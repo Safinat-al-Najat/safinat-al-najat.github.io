@@ -23,6 +23,8 @@ Ibn Abbas, may Allah be pleased with them both
 
 ---
 
+# Clarification of the Chain
+
 Note: This is not the only chain that al-Hakim provides, he gives 5 different chains back to Abu Nu’aym. Some may take issue with Habib b. Abi Thabit in the chain as he is recorded as being a mudalis, but Dr. Abdullah b. Abdul-Rahman al-Si’ad refutes this matter in his [Minhaj al-Mutaqadamin Fi al-Tadlis, pg. 123 - 126](https://static.wixstatic.com/media/436d7d_9a5725d8299a42acb1e1bf410885c037~mv2.webp):
 
 **"Abū Bakr ibn ʿAyyāsh reported from al-Aʿmash that he (Habib) used to say: If a man narrated to me from you, I would not mind attributing it to you - meaning that he would omit the intermediary."**
