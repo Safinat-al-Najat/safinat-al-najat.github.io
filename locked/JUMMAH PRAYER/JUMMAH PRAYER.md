@@ -1,5 +1,5 @@
 
-
+> **Is Jummah prayer Obligatory or not?**
 # Quranic Origin
 
 ![[image-471.webp|697x152]]

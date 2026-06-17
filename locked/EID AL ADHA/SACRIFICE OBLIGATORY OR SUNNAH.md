@@ -1,4 +1,5 @@
 
+> **Is Sacrificing Obligatory or Sunnah?**
 # 1st Source
 
 ![[PNGS/pngs/image-1018.webp|418x601]]
