@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KARBALA/YAZEED WAS INVOLVED.md",
+                "file": "Quranic Topics/PARENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YAZEED WAS INVOLVED"
+              "title": "PARENTS"
+            }
+          },
+          {
+            "id": "ea308231f7366cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KARBALA/IS NOHA OR MOURNING ALLOWED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IS NOHA OR MOURNING ALLOWED"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,25 +253,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "673a8ce3cb6611d3",
+  "active": "ea308231f7366cf4",
   "lastOpenFiles": [
-    "KARBALA/CRYING FOR HUSSAIN IS A SUNNAH.md",
-    "KARBALA/IS 10TH OF MUHARRAM A DAY OF BLESSING.md",
+    "KARBALA/YAZEED WAS INVOLVED.md",
     "KARBALA/KARBALA WAS BOUND TO HAPPEN.md",
+    "KARBALA/IS NOHA OR MOURNING ALLOWED.md",
+    "KARBALA/WHY DID HUSSAIN LEAVE MECCA.md",
+    "PNGS/image-569.webp",
+    "PNGS/image-568.webp",
+    "KARBALA/CRYING FOR HUSSAIN IS A SUNNAH.md",
+    "Virtues and Merits/Salman Farsi/SALMAN FARSI.md",
+    "PNGS/image-567.webp",
+    "PNGS/image-566.webp",
+    "PNGS/image-565.webp",
+    "PNGS/image-564.webp",
+    "PNGS/image-563.webp",
+    "PNGS/image-562.webp",
+    "PNGS/image-561.webp",
+    "PNGS/image-560.webp",
+    "Quranic Topics/PARENTS.md",
+    "ISLAMIC EVENTS/THE BATTLE OF BADR (624 CE).md",
+    "ISLAMIC EVENTS/THE BATTLE OF UHUD (625 CE).md",
+    "KARBALA/IS 10TH OF MUHARRAM A DAY OF BLESSING.md",
     "KARBALA/HUSSAIN WAS NOT A REBEL.md",
     "KARBALA/ALLAH'S VENGEANCE FOR HUSSAIN.md",
-    "KARBALA/WHY DID HUSSAIN LEAVE MECCA.md",
-    "KARBALA/YAZEED WAS INVOLVED.md",
-    "PNGS/image-559.webp",
-    "PNGS/image-558.webp",
-    "PNGS/image-557.webp",
-    "PNGS/image-556.webp",
-    "PNGS/image-555.webp",
-    "PNGS/image-554.webp",
-    "PNGS/image-553.webp",
-    "PNGS/image-552.webp",
-    "PNGS/image-551.webp",
-    "PNGS/image-550.webp",
     "index.md",
     "KARBALA/index.md",
     "RULINGS OF ISLAM/Ethics and Rights/index.md",
@@ -281,11 +300,6 @@
     "PNGS/Vol 8 Al Kafi.pdf",
     "Tawhid/TESTING.md",
     "Virtues and Merits/Mola Ali A.S/ALI AND AQA ﷺ.md",
-    "Virtues and Merits/Mola Ali A.S/HARUN OF MUSTAFA ﷺ.md",
-    "Virtues and Merits/Mola Ali A.S/FLAG BEARER.md",
-    "Virtues and Merits/Mola Ali A.S/FIGHT FOR INTERPRETATION OF QURAN.md",
-    "Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E THAQALAYN.md",
-    "Virtues and Merits/Mola Ali A.S/GHADEER E KHUM.md",
     "Untitled.canvas"
   ]
 }
