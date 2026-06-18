@@ -1,5 +1,6 @@
 ---
 weight: 3
+title: SEAL OF PROPHETS
 ---
 ![[PNGS/Aqa Muhammad PBUH/25.png]]
 
