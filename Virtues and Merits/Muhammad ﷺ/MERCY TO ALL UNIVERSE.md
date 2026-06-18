@@ -1,11 +1,11 @@
 ---
 weight: 9
 ---
-<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةًۭ لِّلْعَـٰلَمِينَ</div>
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةًۭ لِّلْعَـٰلَمِينَ</div>
 
 ---
 
-We did not send you but as a mercy to all the nations.
+> We did not send you but as a mercy to all the nations.
 
 
 
