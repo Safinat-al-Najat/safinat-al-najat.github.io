@@ -1,5 +1,6 @@
 ---
 weight: 26
+title: EXCELLENCE IN MORALS
 ---
 ![[PNGS/Aqa Muhammad PBUH/16.png]]
 
