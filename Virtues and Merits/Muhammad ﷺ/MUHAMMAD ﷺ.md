@@ -1,7 +1,9 @@
 ---
 weight: 1
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
+---
 
 Prophet Muhammad ﷺ is the founder and central figure of Islam. He is the **final and great messenger of Allah** , sent to confirm and complete the teachings of previous prophets like Abraham, Moses, and Jesus.
 

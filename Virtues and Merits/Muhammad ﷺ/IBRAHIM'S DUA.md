@@ -3,6 +3,7 @@ weight: 7
 ---
 <div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
+---
 # Hazrat Ibrahim made supplication for Muhammad ﷺ
 
 ---

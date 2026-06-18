@@ -1,6 +1,10 @@
 ---
 weight: 13
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
+
+---
+
 ![[image-240.png|447]]![[image-115.png]]
 [Sahih Bukhari 3559](https://sunnah.com/bukhari:3559)
 

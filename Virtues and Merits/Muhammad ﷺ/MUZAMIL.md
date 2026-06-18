@@ -1,6 +1,10 @@
 ---
 weight: 17
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
+
+---
+
 <div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ</div>
 
 ---

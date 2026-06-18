@@ -1,6 +1,11 @@
 ---
 weight: 10
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
+
+---
+
+
 ![[image-101.webp|418x601]]![[image-99.webp|418x601]]
 ![[image-100.webp|418x601]]
 

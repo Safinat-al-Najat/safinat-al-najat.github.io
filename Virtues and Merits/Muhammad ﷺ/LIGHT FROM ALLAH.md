@@ -1,6 +1,10 @@
 ---
 weight: 18
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
+
+---
+
 <div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًۭا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَـٰبِ وَيَعْفُوا۟ عَن كَثِيرٍۢ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَـٰبٌۭ مُّبِينٌۭ</div>
 
 ---

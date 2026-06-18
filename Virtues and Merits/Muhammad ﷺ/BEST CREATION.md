@@ -3,6 +3,7 @@ weight: 2
 ---
 <div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
+---
 # Muhammad ﷺ is the best creation of Allah
 ![[image-239.png|477x682]]![[image-237.png|471x670]]
 > Muhammad b. Yahya from Ahmad ibn Muhammad from al-Hajjal from Hammad from Abu ‘Abdallah  who said the following:  

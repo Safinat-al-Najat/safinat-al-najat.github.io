@@ -1,7 +1,9 @@
 ---
 weight: 8
 ---
+<div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
+---
 ![[image-145.webp|418x601]]![[image-144.webp|418x601]]
 
 [Al Kafi Book 4 Ch 52 H#3](https://thaqalayn.net/hadith/1/4/52/3)

@@ -3,6 +3,7 @@ weight: 6
 ---
 <div class="home-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
 
+---
 # Muhammad ﷺ is a great favour done by Allah
 
 ---
