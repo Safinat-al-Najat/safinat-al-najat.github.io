@@ -69,4 +69,4 @@ Later Allah revealed verses announcing the forgiveness for the people who left A
 
 
 ##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[ISLAMIC EVENTS/THE BATTLE OF UHUD (625 CE)]][[ISLAMIC EVENTS/MAJOR HISTORICAL EVENTS]][[Quranic Topics/QURAN]]][[Virtues and Merits/Mola Ali A.S/ALI'S DETERMINATION]][[Virtues and Merits/Bibi Fatima A.S/FATIMAH IN WARS]][[Ali is from Aqa ﷺ]][[Virtues and Merits/Aqa Muhammad PBUH/NEVER TOOK REVENGE]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]]
+[[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]][[Virtues and Merits/Fatima Bint Muhammad ﷺ/FATIMA BINT MUHAMMAD]][[Virtues and Merits/Ali Ibn Abi Talib/ALI IBN ABI TALIB]][[ISLAMIC EVENTS/THE BATTLE OF UHUD (625 CE)]][[ISLAMIC EVENTS/MAJOR HISTORICAL EVENTS]][[Quranic Topics/QURAN]]][[Virtues and Merits/Ali Ibn Abi Talib/ALI'S DETERMINATION]][[Virtues and Merits/Fatima Bint Muhammad ﷺ/FATIMAH IN WARS]][[Ali is from Aqa ﷺ]][[Virtues and Merits/Muhammad ﷺ/NEVER TOOK REVENGE]][[Virtues and Merits/Salman Farsi/SALMAN FARSI]]

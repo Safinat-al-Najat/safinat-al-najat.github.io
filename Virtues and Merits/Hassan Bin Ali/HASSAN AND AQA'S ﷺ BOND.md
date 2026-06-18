@@ -1,0 +1,8 @@
+---
+weight: 13
+---
+![[image-292.webp|418x601]]![[image-291.webp|418x601]]
+
+[Mustadrak Al Hakim 4794](https://al-hadees.com/mustadrak/4794)
+
+Hassan used to ride on the shoulders of Aqa Muhammad ﷺ.

@@ -21,6 +21,3 @@ The hadith shows that our Aqa Muhammad ﷺ told us to love his Ahlulbayt if we l
 So, love Ahlulbayt if you love Aqa Muhammad ﷺ.
 
 
-
-##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

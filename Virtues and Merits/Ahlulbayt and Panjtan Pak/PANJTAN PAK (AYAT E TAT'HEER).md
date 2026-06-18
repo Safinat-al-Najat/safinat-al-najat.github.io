@@ -18,6 +18,3 @@ weight: 5
 
 It is also known as [[Virtues and Merits/Ahlulbayt and Panjtan Pak/HADITH E KISA]]
 
-
-##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

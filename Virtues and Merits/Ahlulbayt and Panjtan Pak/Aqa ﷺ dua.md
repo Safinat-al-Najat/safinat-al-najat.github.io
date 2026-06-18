@@ -16,9 +16,3 @@ This hadith shows that hatred of Ahlulbayt A.S is such a big sin that it can nul
 So it is the punishment for hatred of Ahlulbayt.
 
 
-
-
-
-
-##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

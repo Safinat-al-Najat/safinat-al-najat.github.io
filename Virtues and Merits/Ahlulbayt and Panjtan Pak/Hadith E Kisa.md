@@ -41,6 +41,3 @@ Had the Messenger of God ﷺ remained silent and not made clear who the People
 [Mustadrak Al Hakim 4706](https://quranohadith.com/mustadrak/4706)
 
 It is also called as The Hadith of Cloak.
-
-##### **Backlinks:**
-[[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]][[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]] [[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]] [[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]] 

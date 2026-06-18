@@ -12,7 +12,3 @@ According to this hadith, anyone who opposes Ahlulbayt is considered as a part o
 
 
 
-
-
-##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

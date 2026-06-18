@@ -109,6 +109,3 @@ Given Hadith tells the strong connection between Quran and Ahlulbayt that they w
 
 So, one can derive that following Ahlulbayt is actually following Quran.
 
-
-##### **Backlinks:**
-[[Virtues and Merits/Mola Ali A.S/MOLA ALI]] [[Virtues and Merits/Bibi Fatima A.S/BIBI FATIMA]][[Virtues and Merits/Imam Hassan A.S/IMAM HASSAN]][[Virtues and Merits/Imam Hussain A.S/IMAM HUSSAIN]]

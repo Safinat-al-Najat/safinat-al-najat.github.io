@@ -8,5 +8,3 @@ He was born in Isfahan, Persia, into a Zoroastrian family, Salman spent decades 
 **Character** — He served as Governor of Madina yet lived like a poor man, donating his salary and weaving baskets for personal income. Imam Ali (ع) compared his wisdom to that of Luqman the Wise.
 
 
-
-[[Virtues and Merits/Merits|Merits]][[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]][[Virtues and Merits/Mola Ali A.S/MOLA ALI]]

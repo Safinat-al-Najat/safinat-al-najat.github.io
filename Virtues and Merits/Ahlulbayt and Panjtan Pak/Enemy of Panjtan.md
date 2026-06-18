@@ -14,6 +14,3 @@ According to the hadith given above, Whoever engages in a fight against these 5 
 
 
 
-
-##### **Backlinks:**
-[Ahlulbayt and Panjtan Pak]] [[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]

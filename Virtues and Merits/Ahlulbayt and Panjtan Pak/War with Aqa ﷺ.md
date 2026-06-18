@@ -14,7 +14,3 @@ So, whoever is at war with Panjtan is at war with Aqa ﷺ.
 
 
 
-
-
-##### **Backlinks:**
-[[Virtues and Merits/Ahlulbayt and Panjtan Pak/AHLULBAYT AND PANJTAN PAK]][[Virtues and Merits/Aqa Muhammad PBUH/AQA MUHAMMADﷺ]]
