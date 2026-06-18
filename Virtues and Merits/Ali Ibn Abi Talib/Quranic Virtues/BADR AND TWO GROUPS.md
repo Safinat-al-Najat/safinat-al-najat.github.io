@@ -1,6 +1,10 @@
-![[PNGS/pngs 2/45.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">۞ هَـٰذَانِ خَصْمَانِ ٱخْتَصَمُوا۟ فِى رَبِّهِمْ ۖ فَٱلَّذِينَ كَفَرُوا۟ قُطِّعَتْ لَهُمْ ثِيَابٌۭ مِّن نَّارٍۢ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ ٱلْحَمِيمُ</div>
 
-[Quran 22:19](https://quran.com/22/19)
+---
+
+These two contending groups contend concerning their Lord. As for those who are faithless, cloaks of fire will be cut out for them, and boiling water will be poured over their heads,
+
+[Quran 22:19](https://thaqalayn.net/quran/22/19)
 
 To understand it's connection read the hadith below:
 

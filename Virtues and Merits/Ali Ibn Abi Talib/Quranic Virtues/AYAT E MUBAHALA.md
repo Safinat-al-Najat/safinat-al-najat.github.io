@@ -2,9 +2,13 @@
 If we go to the background of this verse. A group of Christians came to  Muhammad ﷺ to debate. So Allah revealed this Ayah.
 
 
-![[image-60.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَـٰذِبِينَ</div>
 
-[Quran 3:61](https://quran.com/3/61)
+---
+
+Should anyone argue with you concerning him, after the knowledge that has come to you, say, ‘Come! Let us call our sons and your sons, our women and your women, our souls and your souls, then let us pray earnestly, and call down Allah’s curse upon the liars.’
+
+[Quran 3:61](https://thaqalayn.net/quran/3/61)
 
 It can be explained by the following hadith:
 

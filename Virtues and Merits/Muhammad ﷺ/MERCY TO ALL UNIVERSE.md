@@ -1,9 +1,15 @@
 ---
 weight: 9
 ---
-![[PNGS/Aqa Muhammad PBUH/22.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةًۭ لِّلْعَـٰلَمِينَ</div>
 
-[Quran 21:107](https://quran.com/21/107)
+---
+
+We did not send you but as a mercy to all the nations.
+
+
+
+[Quran 21:107](https://thaqalayn.net/quran/21/107)
 
 The above verse tells us that Muhammad ﷺ is a mercy to all universe. His morals were so high that he was mercy himself. As it can be seen in [[Virtues and Merits/Muhammad ﷺ/NEVER TOOK REVENGE]], [[Virtues and Merits/Muhammad ﷺ/BEST EXAMPLE TO FOLLOW]].
 

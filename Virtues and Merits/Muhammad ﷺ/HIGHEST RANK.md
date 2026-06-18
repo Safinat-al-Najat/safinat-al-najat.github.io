@@ -1,9 +1,13 @@
 ---
 weight: 28
 ---
-![[PNGS/Aqa Muhammad PBUH/17.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَـٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّـٰلِحِينَ ۚ وَحَسُنَ أُو۟لَـٰٓئِكَ رَفِيقًۭا</div>
 
-[Quran 4:69](https://quran.com/4/69)
+---
+
+Whoever obeys Allah and the Apostle—they are with those whom Allah has blessed, including the prophets and the truthful, the martyrs and the righteous, and excellent companions are they!
+
+[Quran 4:69](https://thaqalayn.net/quran/4/69)
 
 
 Follow Muhammad ﷺ for the highest rank.

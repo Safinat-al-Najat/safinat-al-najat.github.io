@@ -2,8 +2,12 @@
 weight: 26
 title: EXCELLENCE IN MORALS
 ---
-![[PNGS/Aqa Muhammad PBUH/16.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ</div>
 
-[Quran 68:4](https://quran.com/68/4)
+---
+
+and indeed you possess a great character.
+
+[Quran 68:4](https://thaqalayn.net/quran/68/4)
 
 

@@ -1,9 +1,13 @@
 ---
 weight: 17
 ---
-![[PNGS/Aqa Muhammad PBUH/6.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ</div>
 
-[Quran 73:1](https://quran.com/73/1)
+---
+
+O you wrapped up in your mantle!
+
+[Quran 73:1](https://thaqalayn.net/quran/73/1)
 
 Allah called Muhammad ﷺ as Muzamil.
 

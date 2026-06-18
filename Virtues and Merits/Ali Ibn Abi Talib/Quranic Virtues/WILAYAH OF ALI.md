@@ -1,4 +1,8 @@
-![[PNGS/5.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ</div>
+
+---
+
+Your guardian is only Allah, His Apostle, and the faithful who maintain the prayer and give the zakat while bowing down.
 
 [Quran 5:55](https://quran.com/5/55)
 

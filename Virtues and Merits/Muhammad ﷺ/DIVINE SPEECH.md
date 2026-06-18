@@ -1,9 +1,34 @@
 ---
 weight: 14
 ---
-![[PNGS/Aqa Muhammad PBUH/10.png]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ</div>
 
-[Quran 53:2-4](https://quran.com/53/2)
+---
+
+your companion has neither gone astray, nor amiss.
+
+[Quran 53:2](https://thaqalayn.net/quran/53/2)
+
+---
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ</div>
+
+---
+
+Nor does he speak out of [his own] desire:
+
+[Quran 53:3](https://thaqalayn.net/quran/53/3)
+
+---
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">إِنْ هُوَ إِلَّا وَحْىٌۭ يُوحَىٰ</div>
+
+---
+
+it is just a revelation that is revealed [to him],
+
+[Quran 53:4](https://thaqalayn.net/quran/53/4)
+
 
 Since Muhammad ﷺ says whatever is revealed to him then it is divine speech. Whatever Aqa ﷺ say is actually what Allah says.
 

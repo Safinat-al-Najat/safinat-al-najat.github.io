@@ -1,6 +1,10 @@
-![[image-67.webp|697x186]]
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2;">ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَـٰتٍۢ ۚ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ</div>
 
-[Quran 58:13](https://quran.com/58/13)
+---
+
+Were you dismayed by having to offer charities before your private talks? Since you did not do it, and Allah has excused you [for not be able to comply], now maintain the prayer and pay the zakat, and obey Allah and His Apostle. Allah is well aware of what you do.
+
+[Quran 58:13](https://thaqalayn.net/quran/58/13)
 
 Below is the hadith that confirms it.
 
