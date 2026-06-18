@@ -12,6 +12,6 @@ This Hadith has a correct chain of narration (Sahih al-Isnad), but Imam Bukhari 
 It might be confusing for some people that how can it be like this? Allah also gets angry whenever a person gets oppressed. So, in the same way [[Virtues and Merits/Fatima Bint Muhammad ﷺ/FATIMA BINT MUHAMMAD]] is really beloved to Allah and that's the reason behind this hadith in my opinion.
 
 
-Another supporting evidence for it is that [[Virtues and Merits/Fatima Bint Muhammad ﷺ/PART OF AQA ﷺ]] . In that hadith it clearly says whoever hurts Syeda has hurt  Muhammad ﷺ and whoever has hurt  Muhammad ﷺ has displeased Allah.
+Another supporting evidence for it is that [[Virtues and Merits/Fatima Bint Muhammad ﷺ/PART OF MUHAMMAD ﷺ]] . In that hadith it clearly says whoever hurts Syeda has hurt  Muhammad ﷺ and whoever has hurt  Muhammad ﷺ has displeased Allah.
 
 So, Allah gets angry on anger of Bibi Fatima.

@@ -5,9 +5,12 @@ weight: 4
 
 # Significance of Sending durood
 
-![[PNGS/Aqa Muhammad PBUH/1.png|683]]
 
-[Quran 33:56](https://quran.com/33/56)
+<div class="home-bismillah">إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا</div>
+
+> Indeed Allah and His angels bless the Prophet; O you who have faith! Invoke blessings on him and invoke Peace upon him in a worthy manner.
+
+[Quran 33:56](https://thaqalayn.net/quran/33/56)
 
 In the above it tells the significance of sending durood to Muhammad ﷺ, that how Allah himself blesses the Muhammad ﷺ.
 
