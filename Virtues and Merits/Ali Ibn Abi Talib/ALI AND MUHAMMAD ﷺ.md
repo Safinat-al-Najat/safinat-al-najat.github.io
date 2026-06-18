@@ -5,7 +5,7 @@ weight: 9
 
 [Sahih Bukhari 1558](https://bukhari:1558)
 
-This shows how much devotion Ali had for Aqa Muhammad ﷺ.
+This shows how much devotion Ali had for Muhammad ﷺ.
 
 ![[image-54.webp|418x601]]
 ![[image-53.webp|418x601]]
@@ -20,5 +20,5 @@ This Hadith is Sahih (authentic) in its chain of narration, though it was not re
 
 [Mustadrak Al Hakim 4632](https://quranohadith.com/mustadrak/4632)
 
-So, Ali did the same Niyah for Ihram as Aqa Muhammad ﷺ.
+So, Ali did the same Niyah for Ihram as Muhammad ﷺ.
 Ali had three distinctions.

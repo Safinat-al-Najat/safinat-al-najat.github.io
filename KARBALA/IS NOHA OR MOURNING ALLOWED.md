@@ -1,5 +1,5 @@
 
-> **Some people claim that it is not allowed to mourn over the deceased, while it can be observed from the life of the Aqa Muhammad ﷺ.**
+> **Some people claim that it is not allowed to mourn over the deceased, while it can be observed from the life of the Muhammad ﷺ.**
 
 
 # 1st Evidence

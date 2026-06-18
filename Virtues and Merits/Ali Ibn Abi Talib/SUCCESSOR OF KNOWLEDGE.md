@@ -15,4 +15,4 @@ weight: 10
 
 [Mustadrak Al Hakim 4634](https://quranohadith.com/mustadrak/4634) [Mustadrak Al Hakim 4635](https://quranohadith.com/mustadrak/4635)
 
-Ali is the successor of knowledge of Aqa Muhammad ﷺ.
+Ali is the successor of knowledge of Muhammad ﷺ.

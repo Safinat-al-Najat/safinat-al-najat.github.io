@@ -7,4 +7,4 @@ weight: 10
 
 [Jami at Tirmidhi 3782](https://sunnah.com/tirmidhi:3782)
 
-So, love Hasnain if you love Aqa Muhammad ﷺ.
+So, love Hasnain if you love  Muhammad ﷺ.

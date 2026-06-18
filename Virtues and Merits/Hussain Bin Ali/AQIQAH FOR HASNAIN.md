@@ -5,6 +5,6 @@ weight: 7
 
 [Sunan an Nasai 4213](https://sunnah.com/nasai:4213)
 
-Aqa Muhammad ﷺ did the aqiqah for Hasnain.
+ Muhammad ﷺ did the aqiqah for Hasnain.
 ##### **Backlinks:**
 [[Virtues and Merits/Hassan Bin Ali/HASSAN BIN ALI]][[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

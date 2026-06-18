@@ -7,7 +7,7 @@ A'isha, the Umm al-Mu'minin, said, "I did not see anyone who more resembled the 
 
 [Al Adab Al Mufrad 971](https://sunnah.com/adab:971)
 
-Hadith shows that how much our Aqa Muhammad ﷺ used to care for his beloved daughter.
+Hadith shows that how much our  Muhammad ﷺ used to care for his beloved daughter.
 
 ![[image-251.png|568]]
 ![[image-131.png]]
@@ -20,4 +20,4 @@ This hadith is authentic according to the criteria of Imam Bukhari (may Allah ha
 
 Above hadith shows that it was a mutual act among both of them. Both of them used to welcome each other in the same way.
 
-Aqa Muhammad ﷺ respect Bibi Fatima so much that Aqa Muhammad ﷺ used to stand to greet Bibi Fatima.
+ Muhammad ﷺ respect Bibi Fatima so much that  Muhammad ﷺ used to stand to greet Bibi Fatima.

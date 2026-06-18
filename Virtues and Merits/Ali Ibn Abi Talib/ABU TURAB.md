@@ -16,7 +16,7 @@ weight: 3
 
 
 Ali loved this name so much that he told people to call him Abu Turab instead of Abul Hassan.
-Because the Title Abu Turab was given to him by Aqa Muhammad ﷺ.
+Because the Title Abu Turab was given to him by Muhammad ﷺ.
 
 
 

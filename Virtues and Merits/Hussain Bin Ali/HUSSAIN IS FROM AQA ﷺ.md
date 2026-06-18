@@ -15,6 +15,6 @@ weight: 4
 
 [Jami at Tirmidhi 3775](https://sunnah.com/tirmidhi:3775)
 
-Hussain is from Aqa Muhammad ﷺ and Aqa Muhammad ﷺ is from Hussain.
+Hussain is from  Muhammad ﷺ and  Muhammad ﷺ is from Hussain.
 ##### **Backlinks:**
 [[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

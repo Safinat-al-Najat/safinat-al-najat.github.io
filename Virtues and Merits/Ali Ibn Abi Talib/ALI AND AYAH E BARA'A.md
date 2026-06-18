@@ -10,4 +10,4 @@ weight: 51
 
 [Bihar Al Anwar Vol 21 Pg# 267](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V21.pdf)
 
-Ali was sent to deliver the Ayah of Barah and when Aqa Muhammad ﷺ was asked why he did so he said [[Virtues and Merits/Ali Ibn Abi Talib/ALI FROM AQA ﷺ]].
+Ali was sent to deliver the Ayah of Barah and when Muhammad ﷺ was asked why he did so he said [[Virtues and Merits/Ali Ibn Abi Talib/ALI FROM MUHAMMAD ﷺ]].

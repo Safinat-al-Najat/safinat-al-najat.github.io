@@ -13,4 +13,4 @@ The Prophet, peace and blessings of Allah be upon him, said:
 
 [Mustadrak Al Hakim 4624](https://quranohadith.com/mustadrak/4624)
 
-Leaving Ali is leaving Aqa Muhammad ﷺ.
+Leaving Ali is leaving  Muhammad ﷺ.

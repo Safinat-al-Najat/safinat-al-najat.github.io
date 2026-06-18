@@ -13,4 +13,4 @@ The following hadith narrated by Sufyan al-Thawri with a sahih chain of transmis
 
 [Mustadrak Al Hakim 4638](https://quranohadith.com/mustadrak/4638)
 
-Ali is the gate of the city of knowledge and Aqa Muhammad ﷺ is the city of knowledge.
+Ali is the gate of the city of knowledge and Muhammad ﷺ is the city of knowledge.

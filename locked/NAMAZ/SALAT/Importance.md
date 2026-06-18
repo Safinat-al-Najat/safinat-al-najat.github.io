@@ -1,6 +1,6 @@
 
 
-> **Allah and his Messenger Aqa Muhammad ﷺ dislike those people who play around during the time of prayer.**
+> **Allah and his Messenger Muhammad ﷺ dislike those people who play around during the time of prayer.**
 
 Following hadith support this claim:
 
@@ -28,7 +28,7 @@ Following hadith support this claim:
 
 ---
 
-# Aqa Muhammad ﷺ will not intercede for those who leave Salah or drink Forbidden drinks:
+# Muhammad ﷺ will not intercede for those who leave Salah or drink Forbidden drinks:
 
 
 ![[image-385.webp|418x601]]![[image-384.webp|418x601]]

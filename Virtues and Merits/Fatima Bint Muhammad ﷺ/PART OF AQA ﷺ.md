@@ -6,4 +6,4 @@ weight: 5
 
 It has a connection to [[Virtues and Merits/Fatima Bint Muhammad ﷺ/ANGER OF FATIMAH]].
 
-Whoever makes Bibi Fatima angry makes Aqa Muhammad ﷺ angry.
+Whoever makes Bibi Fatima angry makes  Muhammad ﷺ angry.

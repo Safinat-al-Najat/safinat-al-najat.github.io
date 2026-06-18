@@ -34,7 +34,7 @@ and also in [Quran 3:31](https://quran.com/3/31)
 
 Since the Prophet Muhammad (ﷺ) is Allah's most beloved creation, hating him contradicts this fundamental requirement of faith.
 
-So if we hate Ali we hate Aqa Muhammad ﷺ and if we hate Aqa Muhammad ﷺ then we hate Allah.
+So if we hate Ali we hate  Muhammad ﷺ and if we hate  Muhammad ﷺ then we hate Allah.
 
 
 Momin loves Ali and Munafiq hates Ali.

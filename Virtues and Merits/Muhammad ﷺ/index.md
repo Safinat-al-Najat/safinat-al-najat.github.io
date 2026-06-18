@@ -1,4 +1,4 @@
 ---
-title: Aqa Muhammad PBUH
+title: MUHAMMAD ﷺ
 weight: 1
 ---

@@ -48,4 +48,4 @@ Abu Hurayrah, may Allah be pleased with him
 
 Also in [[Virtues and Merits/Hassan Bin Ali/DUA FOR HASNAIN]].
 
-Aqa Muhammad ﷺ asked Allah to love Hassan.
+hammad ﷺ asked Allah to love Hassan.

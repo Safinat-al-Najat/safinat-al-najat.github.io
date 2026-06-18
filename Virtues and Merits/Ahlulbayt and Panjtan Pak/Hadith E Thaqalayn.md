@@ -1,7 +1,7 @@
 
 Thaqalayn means two weighty things.
 
-Given Hadith tells the strong connection between Quran and Ahlulbayt that they wont even separate from each other and will meet with Aqa Muhammad ﷺ at Kauthar.
+Given Hadith tells the strong connection between Quran and Ahlulbayt that they wont even separate from each other and will meet with Muhammad ﷺ at Kauthar.
 
 So, one can derive that following Ahlulbayt is actually following Quran.
 
@@ -105,7 +105,7 @@ The Messenger of Allah (peace be upon him and his family) said:
 
 Thaqalayn means two weighty things.
 
-Given Hadith tells the strong connection between Quran and Ahlulbayt that they wont even separate from each other and will meet with Aqa Muhammad ﷺ at Kauthar.
+Given Hadith tells the strong connection between Quran and Ahlulbayt that they wont even separate from each other and will meet with Muhammad ﷺ at Kauthar.
 
 So, one can derive that following Ahlulbayt is actually following Quran.
 

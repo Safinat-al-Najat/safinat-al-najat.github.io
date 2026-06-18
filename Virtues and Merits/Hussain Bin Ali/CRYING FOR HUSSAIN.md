@@ -51,7 +51,7 @@ The Prophet continued: 'He (Jibril) said: "Would you like to smell some of his s
 Some may question these narrations as da'if — but according to the principles of Usool al-Hadith, when multiple da'if narrations share the same meaning and their weakness stems from an unknown narrator or similar minor reasons, they collectively elevate to the grade of **Hasan li-ghayrihi**. The sheer number of such narrations on this matter makes the point well-established.
 
 
-Aqa Muhammad ﷺ himself wept for Hussain — so mourning on the 10th of Muharram is not a bid'ah. It is a Sunnah.
+hammad ﷺ himself wept for Hussain — so mourning on the 10th of Muharram is not a bid'ah. It is a Sunnah.
 
 ##### **Backlinks:**
 [[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

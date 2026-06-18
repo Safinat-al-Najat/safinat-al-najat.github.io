@@ -18,6 +18,6 @@ weight: 3
 
 [Musnad Ahmad 1370](https://sunnah.com/ahmad:1370)
 
-Aqa Muhammad ﷺ named Hassan and Hussain.
+ Muhammad ﷺ named Hassan and Hussain.
 ##### **Backlinks:**
 [[Virtues and Merits/Hassan Bin Ali/HASSAN BIN ALI]][[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

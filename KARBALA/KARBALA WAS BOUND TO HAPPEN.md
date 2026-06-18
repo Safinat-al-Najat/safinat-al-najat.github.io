@@ -1,7 +1,7 @@
 ---
 weight: 1
 ---
-> **It is one of the evidence of the Prophethood of Aqa Muhammad ﷺ, that he told about the Karbala before it even happened.**
+> **It is one of the evidence of the Prophethood of Muhammad ﷺ, that he told about the Karbala before it even happened.**
 
 
 # 1st Source

@@ -9,5 +9,5 @@ weight: 4
 
 [Quran 33:56](https://quran.com/33/56)
 
-In the above it tells the significance of sending durood to Aqa Muhammad ﷺ, that how Allah himself blesses the Aqa Muhammad ﷺ.
+In the above it tells the significance of sending durood to Muhammad ﷺ, that how Allah himself blesses the Muhammad ﷺ.
 

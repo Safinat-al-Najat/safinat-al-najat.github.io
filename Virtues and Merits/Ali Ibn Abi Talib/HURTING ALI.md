@@ -16,5 +16,5 @@ weight: 42
 [Mustadrak Al Hakim 4619](https://quranohadith.com/mustadrak/4619)
 
 
-Hurting Ali is hurting Aqa Muhammad ﷺ.
+Hurting Ali is hurting  Muhammad ﷺ.
 

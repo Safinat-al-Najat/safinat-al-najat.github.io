@@ -18,4 +18,4 @@ This hadith is authentic, but the two Sheikhs (may Allah have mercy on them) did
 Mustadrak Al Hakim [4625](https://quranohadith.com/mustadrak/4625) & [4626](https://quranohadith.com/mustadrak/4626)
 
 
-Ali is the master of Arab and Aqa Muhammad ﷺ is the master of all mankind.
+Ali is the master of Arab and Muhammad ﷺ is the master of all mankind.

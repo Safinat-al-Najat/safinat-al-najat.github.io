@@ -5,4 +5,4 @@ weight: 3
 
 [Quran 33:40](https://quran.com/33/40)
 
-Aqa Muhammad ﷺ is the seal of Prophets.
+Muhammad ﷺ is the seal of Prophets.

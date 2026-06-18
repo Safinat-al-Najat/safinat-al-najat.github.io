@@ -5,6 +5,6 @@ weight: 17
 
 [Quran 73:1](https://quran.com/73/1)
 
-Allah called Aqa Muhammad ﷺ as Muzamil.
+Allah called Muhammad ﷺ as Muzamil.
 
 

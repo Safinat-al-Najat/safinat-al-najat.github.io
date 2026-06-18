@@ -5,7 +5,7 @@ Turbah is also known as Sajda Gah.
 
 [Sahih Bukhari 381](https://sunnah.com/bukhari:381)
 
-This hadith tells that Aqa Muhammad ﷺ also used to do sajda on Khumrah which was made from woven palm leaves so it is ok to put something on the place of sajda.
+This hadith tells that Muhammad ﷺ also used to do sajda on Khumrah which was made from woven palm leaves so it is ok to put something on the place of sajda.
 
 ![[image-417.webp|418x601]]![[image-418.webp|418x601]]
 
@@ -19,7 +19,7 @@ Above hadith tells that there is also no problem in prostrating on stones either
 
 [Sahih Bukhari 836](https://sunnah.com/bukhari:836)
 
-The background of the hadith is that it was raining, the mud got wet and Aqa Muhammad ﷺ was still prostrating at that area. So, there is no problem with mud or wet mud too.
+The background of the hadith is that it was raining, the mud got wet and Muhammad ﷺ was still prostrating at that area. So, there is no problem with mud or wet mud too.
 
 But the Praying Mat is an innovation. It is better to avoid prayer mat and praying directly on earth or if using a prayer mat use dirt to perform sujood on.
 

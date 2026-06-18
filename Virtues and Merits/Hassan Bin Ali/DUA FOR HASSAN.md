@@ -5,4 +5,4 @@ weight: 7
 
 [Sahih Bukhari 5884](https://sunnah.com/bukhari:5884)
 
-So, Aqa Muhammad ﷺ just said that Love Hassan and love those who loves Hassan.
+So,  Muhammad ﷺ just said that Love Hassan and love those who loves Hassan.

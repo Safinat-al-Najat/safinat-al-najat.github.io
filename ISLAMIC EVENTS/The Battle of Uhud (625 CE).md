@@ -21,17 +21,17 @@ Mentioned above are the historical Resources agreed upon by all school of though
 Now if we dive into the role of Ahlulbayt A.S in the battle of Uhud and mainly Ali following are the supporting Hadiths:
 
 
-When all the soldiers left the battlefield there are said to be only 12 Soldiers defending Aqa Muhammad ﷺ , there is a difference in opinion on the names but the names that are agreed upon are
+When all the soldiers left the battlefield there are said to be only 12 Soldiers defending Muhammad ﷺ , there is a difference in opinion on the names but the names that are agreed upon are
 
 Ali, Hamza, Talha, Abu Dujana while the others are unknown or controversial.
 
 Most prominent names here are Ali and Hamza
 
-Hamza was Martyred in Uhud by a slave of Wife of Abu Sufyan named Wahshi. Aqa Muhammad ﷺ was in great grief over the death of Hamza.
+Hamza was Martyred in Uhud by a slave of Wife of Abu Sufyan named Wahshi. Muhammad ﷺ was in great grief over the death of Hamza.
 
 - **Tarikh al-Tabari & Ibn Hisham:** Both historians detail that the Prophet ﷺ said, **"I have never been as saddened by anything as I am by this Hamza's martyrdom** and **"I have never stood in a place that made me angrier than this"**
 
-The mindset of Ali when fake announcement of death of Aqa Muhammad ﷺ was spread at Uhud:
+The mindset of Ali when fake announcement of death of Muhammad ﷺ was spread at Uhud:
 
 
 ![[PNGS/pngs 3/Pasted image 20260309130531.png]]
@@ -51,7 +51,7 @@ Other events of this battle from Shia Book Bihar Al Anwar are as follows:
 > The above mentioned hadith are from Bihar Al Anwar Vol 20 starting from page 35 available on [https://hubeali.com/](https://hubeali.com/books/English-Books/BiharAlAnwaar/BiharAlAnwaar_V20.pdf)
 
 
-Aqa Muhammad ﷺ was also injured his incisors were also broken.
+Muhammad ﷺ was also injured his incisors were also broken.
 
 ![[PNGS/pngs 3/Pasted image 20260309124925.png]]
 
@@ -64,7 +64,7 @@ Aqa Muhammad ﷺ was also injured his incisors were also broken.
 
 Bibi Syeda Fatima A.S was the one to wash the wounds of Aqa ﷺ along with Ali.
 
-Later Allah revealed verses announcing the forgiveness for the people who left Aqa Muhammad ﷺ. Starting from [***3:121 to 3:126***](https://quran.com/3/126). In these verses Allah also rebuked the companions who left Aqa Muhammad ﷺ.
+Later Allah revealed verses announcing the forgiveness for the people who left Muhammad ﷺ. Starting from [***3:121 to 3:126***](https://quran.com/3/126). In these verses Allah also rebuked the companions who left Muhammad ﷺ.
 
 
 

@@ -11,9 +11,9 @@ People told me: 'You asked him this question while he is in a state of fear due 
 
 [Mustadrak Al Hakim 4665](https://quranohadith.com/mustadrak/4665)
 
-To make it easier to understand, in this hadith Malik bin Dinar asked Said Ibn Jubayr that who was flag bearer of Aqa Muhammad ﷺ in every battle and he reply: "Ali".
+To make it easier to understand, in this hadith Malik bin Dinar asked Said Ibn Jubayr that who was flag bearer of  in every battle and he reply: "Ali".
 
-So, Ali was the flag bearer of Aqa Muhammad ﷺ.
+So, Ali was the flag bearer of Muhammad ﷺ.
 
 
 

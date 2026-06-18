@@ -5,6 +5,6 @@ weight: 21
 
 [Quran 33:45-46](https://quran.com/33/45)
 
-Aqa Muhammad ﷺ is called as Basheera,Nazeera and Sirajan Munira.
+Muhammad ﷺ is called as Basheera,Nazeera and Sirajan Munira.
 
 

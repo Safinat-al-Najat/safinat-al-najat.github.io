@@ -13,4 +13,4 @@ weight: 44
 
 [Mustadrak Al Hakim 4658](https://quranohadith.com/mustadrak/4658)
 
-Ali got dua from Aqa Muhammad ﷺ for his judgmental qualities.
+Ali got dua from Muhammad ﷺ for his judgmental qualities.

@@ -18,4 +18,4 @@ Abu Dharr, may Allah be pleased with him
 
 [Mustadrak Al Hakim 4641](https://quranohadith.com/mustadrak/4641)
 
-Following Ali is following Aqa Muhammad ﷺ and following Aqa Muhammad ﷺ is following Allah.
+Following Ali is following  and following  is following Allah.

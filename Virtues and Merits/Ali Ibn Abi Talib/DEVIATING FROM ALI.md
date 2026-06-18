@@ -10,4 +10,4 @@ The Prophet, peace and blessings of Allah be upon him, said:
 
 [Mustadrak Al Hakim 4703](https://quranohadith.com/mustadrak/4703)
 
-Who deviates from Ali deviates from Aqa Muhammad ﷺ and who deviates from Aqa Muhammad ﷺ deviates from Allah.
+Who deviates from Ali deviates from Muhammad ﷺ and who deviates from Muhammad ﷺ deviates from Allah.

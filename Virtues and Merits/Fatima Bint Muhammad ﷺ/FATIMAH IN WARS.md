@@ -5,6 +5,6 @@ weight: 15
 
 [Sahih Bukhari 4075](https://sunnah.com/bukhari:4075)
 
-It shows immense love of Syeda for her father. That even during battles how Bibi Fatima used to wash wounds of Aqa Muhammad ﷺ.
+It shows immense love of Syeda for her father. That even during battles how Bibi Fatima used to wash wounds of  Muhammad ﷺ.
 
 

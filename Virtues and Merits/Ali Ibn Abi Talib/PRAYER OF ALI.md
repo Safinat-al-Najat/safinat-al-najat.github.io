@@ -5,4 +5,4 @@ weight: 26
 
 [Sahih Bukhari 784](https://sunnah.com/bukhari:784)
 
-Ali used to pray like Aqa Muhammad ﷺ.
+Ali used to pray like Muhammad ﷺ.

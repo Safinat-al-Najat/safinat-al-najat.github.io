@@ -5,5 +5,5 @@ weight: 18
 
 [Quran 5:15-16](https://quran.com/5/15)
 
-Aqa Muhammad ﷺ is a light from Allah in sense of guidance.
+Muhammad ﷺ is a light from Allah in sense of guidance.
 

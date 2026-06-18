@@ -5,4 +5,4 @@ weight: 12
 
 [Sunan an Nasai 4213](https://sunnah.com/nasai:4213)
 
-Aqa Muhammad ﷺ did the aqiqah of Hasnain.
+ Muhammad ﷺ did the aqiqah of Hasnain.

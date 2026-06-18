@@ -15,6 +15,6 @@ and also in [Quran 3:31](https://quran.com/3/31)
 
 Since the Prophet Muhammad (ﷺ) is Allah's most beloved creation, hating him contradicts this fundamental requirement of faith.
 
-So if we hate Hassan and Hussain we hate Aqa Muhammad ﷺ and if we hate Aqa Muhammad ﷺ then we hate Allah.
+So if we hate Hassan and Hussain we hate Muhammad ﷺ and if we hate Muhammad ﷺ then we hate Allah.
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Halal And Haram/Haram/Haram]]

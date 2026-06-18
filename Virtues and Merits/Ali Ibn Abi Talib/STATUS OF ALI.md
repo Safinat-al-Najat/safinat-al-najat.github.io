@@ -13,4 +13,4 @@ Umm Salamah, may Allah be pleased with her (reported by Abu Abdillah al-Jadali)
 
 [Mustadrak Al Hakim 4616](https://quranohadith.com/mustadrak/4616)
 
-Cursing Ali is cursing Aqa Muhammad ﷺ.
+Cursing Ali is cursing equivalent to cursing Muhammad ﷺ.

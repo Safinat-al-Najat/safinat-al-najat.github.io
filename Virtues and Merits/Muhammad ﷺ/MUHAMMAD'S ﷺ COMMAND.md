@@ -5,4 +5,4 @@ weight: 23
 
 [Quran 47:2](https://quran.com/47/2)
 
-Reward for following Aqa Muhammad ﷺ.
+Reward for following Muhammad ﷺ.

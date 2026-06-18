@@ -13,4 +13,4 @@ weight: 29
 
 [Quran 8:46](https://quran.com/8/46)
 
-Following Aqa Muhammad ﷺ is following Allah.
+Following Muhammad ﷺ is following Allah.

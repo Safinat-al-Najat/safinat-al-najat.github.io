@@ -1,4 +1,4 @@
 ---
-title: Mola Ali A.S
+title: Ali Ibn Abi Talib
 weight: 2
 ---

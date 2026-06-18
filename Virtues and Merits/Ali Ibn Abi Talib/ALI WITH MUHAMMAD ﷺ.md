@@ -17,4 +17,4 @@ Qutham bin al-Abbas (reported via Abu Ishaq)
 
 [Mustadrak Al Hakim 4633](https://quranohadith.com/mustadrak/4633)
 
-Ali accompanied Aqa Muhammad ﷺ the most.
+Ali accompanied Muhammad ﷺ the most.

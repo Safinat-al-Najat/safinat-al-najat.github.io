@@ -22,5 +22,5 @@ Ibn Abbas, may Allah be pleased with them both
 
 [Mustadrak Al Hakim 4781](https://al-hadees.com/mustadrak/4781)
 
-Aqa Muhammad ﷺ used to dum on Hasnain just like Prophet Abraham A.S used to do 
+hammad ﷺ used to dum on Hasnain just like Prophet Abraham A.S used to do 
 Ismael A.S and Ishaq A.S.

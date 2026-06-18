@@ -23,4 +23,4 @@ Ali narrated:
 
 [Mustadrak Al Hakim 4686](https://quranohadith.com/mustadrak/4686)
 
-Aqa Muhammad ﷺ said that Ummah will betray Ali after him.
+ Muhammad ﷺ said that Ummah will betray Ali after him.

@@ -32,5 +32,5 @@ This Hadith has an authentic chain of narration (Sahih al-Isnad), but Imam Bukha
 
 [Mustadrak Al Hakim 4770](https://al-hadees.com/mustadrak/4770)
 
-According to this hadith, Hassan and Hussain are the sons of Aqa Muhammad ﷺ.
+According to this hadith, Hassan and Hussain are the sons of  Muhammad ﷺ.
 

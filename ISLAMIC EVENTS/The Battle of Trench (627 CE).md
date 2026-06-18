@@ -4,7 +4,7 @@ weight: 5
 
 Following defeat at Uhud, the Quraysh, led by Abu Sufyan, sought to finally eliminate the Muslim community. They formed a powerful confederate army of approximately **10,000 men**, enlisting exiled Jewish tribes like the Banu Nadir and nomadic Arab tribes such as the Banu Ghatafan.
 
-Upon learning of the impending threat, the Aqa Muhammad ﷺ gathered his companions for counsel. It was **Salman al-Farsi**, a Persian companion, who suggested digging a trench to protect Medina's vulnerable northern flank—a tactic unfamiliar in Arabian warfare.
+Upon learning of the impending threat, the Muhammad ﷺ gathered his companions for counsel. It was **Salman al-Farsi**, a Persian companion, who suggested digging a trench to protect Medina's vulnerable northern flank—a tactic unfamiliar in Arabian warfare.
 
 
 

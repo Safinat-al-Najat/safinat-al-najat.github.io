@@ -1,7 +1,7 @@
 ---
 weight: 47
 ---
-On **18th of Dhu Al Hijjah**, **Aqa Muhammad ﷺ** announced:
+On **18th of Dhu Al Hijjah**, ** Muhammad ﷺ** announced:
 
 **Whomever I am the Mawla (master/leader) of, Ali is also his Mawla.**
 

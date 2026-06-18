@@ -11,4 +11,4 @@ This hadith has a sahih chain of transmission, but the two Sheikhs (may Allah ha
 
 
 Ali is the Imam of the righteous.
-Whoever teases Ali teases Aqa Muhammad ﷺ.
+Whoever teases Ali teases Muhammad ﷺ.

@@ -9,4 +9,4 @@ This hadith has a sahih isnaad, but Imam Bukhari (RA) and Imam Muslim (RA) did n
 
 [Mustadrak Al Hakim 4655](https://quranohadith.com/mustadrak/4655)
 
-Ali is the deputy of Aqa Muhammad ﷺ.
+Ali is the deputy of Muhammad ﷺ.

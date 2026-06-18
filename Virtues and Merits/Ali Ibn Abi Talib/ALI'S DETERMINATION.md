@@ -12,4 +12,4 @@ Ibn Abbas (reporting from Ali, may Allah be pleased with them both)
 
 [Mustadrak Al Hakim 4635](https://quranohadith.com/mustadrak/4635)
 
-Ali will fight for Aqa Muhammad ﷺ till death.
+Ali will fight for Muhammad ﷺ till death.

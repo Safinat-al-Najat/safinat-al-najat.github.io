@@ -25,6 +25,6 @@ weight: 2
 
 
 
-Loving Hussain is loving Aqa Muhammad ﷺ and Hating Hussain Aqa Muhammad ﷺ.
+Loving Hussain is loving  Muhammad ﷺ and Hating Hussain  Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Hassan Bin Ali/HASSAN BIN ALI]][[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

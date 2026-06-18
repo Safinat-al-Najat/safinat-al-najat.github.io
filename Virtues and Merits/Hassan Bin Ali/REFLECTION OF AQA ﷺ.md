@@ -5,4 +5,4 @@ weight: 5
 
 [Sahih Bukhari 3752](https://sunnah.com/bukhari:3752)
 
-Hassan resembled Aqa Muhammad ﷺ the most.
+Hassan resembled  Muhammad ﷺ the most.

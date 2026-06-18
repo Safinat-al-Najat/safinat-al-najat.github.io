@@ -5,6 +5,6 @@ weight: 6
 
 [Sahih Bukhari 3748](https://sunnah.com/bukhari:3748)
 
-Hussain resembled Aqa Muhammad ﷺ.
+Hussain resembled  Muhammad ﷺ.
 ##### **Backlinks:**
 [[Virtues and Merits/Hussain Bin Ali/IMAM HUSSAIN]][[Virtues and Merits/Muhammad ﷺ/MUHAMMAD ﷺ]]

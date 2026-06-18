@@ -9,6 +9,6 @@ This hadith has a sound chain of narration (Sahih al-Isnad), but Imam Bukhari an
 
 [Mustadrak Al Hakim 4743](https://al-hadees.com/mustadrak/4743)
 
-This hadith shows the love of Aqa Muhammad ﷺ for his great daughter. Whatever please Bibi Fatima pleases Aqa Muhammad ﷺ and whatever hurts Bibi Fatima hurts Aqa Muhammad ﷺ.
+This hadith shows the love of  Muhammad ﷺ for his great daughter. Whatever please Bibi Fatima pleases  Muhammad ﷺ and whatever hurts Bibi Fatima hurts  Muhammad ﷺ.
 
-Bibi Fatima is a part of Aqa Muhammad ﷺ indeed.
+Bibi Fatima is a part of  Muhammad ﷺ indeed.

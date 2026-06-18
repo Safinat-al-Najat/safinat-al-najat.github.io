@@ -4,11 +4,11 @@ weight: 1
 
 
 ---
-Hassan Ibn Ali was the eldest grandson of Aqa Muhammad's ﷺ. He is revered as the "[[Virtues and Merits/Hassan Bin Ali/LEADERS OF JANNAH]]" a title given to him by the Aqa Muhammad ﷺ himself.
+Hassan Ibn Ali was the eldest grandson of  Muhammad's ﷺ. He is revered as the "[[Virtues and Merits/Hassan Bin Ali/LEADERS OF JANNAH]]" a title given to him by the  Muhammad ﷺ himself.
 
 His importance lies in two main aspects:
 
-First, as a member of the Aqa Muhammad's ﷺ household, he was one of the participants in the event of [[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUABAHALAﷺ|MUABAHALAﷺ]] and was deeply loved by his grandfather. 
+First, as a member of the  Muhammad's ﷺ household, he was one of the participants in the event of [[Virtues and Merits/Ahlulbayt and Panjtan Pak/MUABAHALAﷺ|MUABAHALAﷺ]] and was deeply loved by his grandfather. 
 
 He is also known for the Peace treaty between Muawiya. He handed over the Caliphate to him over some conditions.
 

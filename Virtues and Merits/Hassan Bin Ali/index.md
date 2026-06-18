@@ -1,4 +1,4 @@
 ---
-title: Imam Hassan A.S
+title: Hassan Bin Ali
 weight: 4
 ---

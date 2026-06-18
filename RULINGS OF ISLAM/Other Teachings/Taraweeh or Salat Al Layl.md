@@ -34,7 +34,7 @@ The translation has been done wrong and has mistakes in the scan above. Followin
 
 [Sahih Bukhari 1129](https://sunnah.com/bukhari:1129)
 
-> Above hadith tells that Aqa Muhammad ﷺ didn't wanted it to be obligatory on muslims.
+> Above hadith tells that Muhammad ﷺ didn't wanted it to be obligatory on muslims.
 
 ---
 
@@ -44,7 +44,7 @@ The translation has been done wrong and has mistakes in the scan above. Followin
 
 [Sahih Bukhari 2012](https://sunnah.com/bukhari:2012)
 
-> Above hadith shows that after this event till the Departure of Aqa Muhammad ﷺ everyone prayed that prayer individually.
+> Above hadith shows that after this event till the Departure of Muhammad ﷺ everyone prayed that prayer individually.
 
 ---
 
@@ -52,7 +52,7 @@ The translation has been done wrong and has mistakes in the scan above. Followin
 
 [Sahih Bukhari 7290](https://sunnah.com/bukhari:7290)
 
->According to this hadith Aqa Muhammad ﷺ tells us that the best way to offer Nafl prayers is that it should be offered at home.
+>According to this hadith Muhammad ﷺ tells us that the best way to offer Nafl prayers is that it should be offered at home.
 
 ---
 
@@ -68,14 +68,14 @@ The translation has been done wrong and has mistakes in the scan above. Followin
 
 [Sunan Abi Dawud 1447](https://sunnah.com/abudawud:1447)
 
-> Above Hadith shows that Aqa Muhammad ﷺ got angry when people asked him to lead taraweeh and highlights that Aqa Muhammad ﷺ  didn't wanted it to be offered in congregation. 
+> Above Hadith shows that Muhammad ﷺ got angry when people asked him to lead taraweeh and highlights that Muhammad ﷺ  didn't wanted it to be offered in congregation. 
 
 ---
 ![[image-446.webp|418x601]]![[image-447.webp|418x601]]![[image-448.webp|418x601]]
 
 [Sahih Bukhari 2010](https://sunnah.com/bukhari:2010)
 
-> In this hadith, it is clearly mentioned that Umar himself called it as a Bid'a. So it cannot be called as sunnah of Aqa Muhammad ﷺ.
+> In this hadith, it is clearly mentioned that Umar himself called it as a Bid'a. So it cannot be called as sunnah of Muhammad ﷺ.
 
 ---
 
@@ -140,7 +140,7 @@ This book has been regarded as highly authentic even said that it is has all aut
 
 ---
 
-So, Taraweeh never existed in the time of Aqa Muhammad ﷺ.
+So, Taraweeh never existed in the time of Muhammad ﷺ.
 
 ##### **Backlinks:**
 [[RULINGS OF ISLAM/Other Teachings/Other Teachings]]

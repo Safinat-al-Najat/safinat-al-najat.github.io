@@ -21,4 +21,4 @@ This Hadith has a sound chain of narration (Sahih al-Isnad), but Imam Bukhari an
 
 [Mustadrak Al Hakim 4744](https://al-hadees.com/mustadrak/4744)
 
-Bibi Fatima was most beloved to Aqa Muhammad ﷺ.
+Bibi Fatima was most beloved to  Muhammad ﷺ.

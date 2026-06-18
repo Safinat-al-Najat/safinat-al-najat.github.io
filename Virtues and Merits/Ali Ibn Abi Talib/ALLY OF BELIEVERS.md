@@ -7,7 +7,7 @@ weight: 14
 [Jami at Tirmidhi 3712](https://sunnah.com/tirmidhi:3712)
 
 To conclude:
-Ali is from Aqa Muhammad ﷺ and Aqa Muhammad ﷺ is from Ali and Ali is the ally of every believer after Aqa Muhammad ﷺ.
+Ali is from Muhammad ﷺ and Muhammad ﷺ is from Ali and Ali is the ally of every believer after Muhammad ﷺ.
 
 
 It can also be supported by [[Virtues and Merits/Ali Ibn Abi Talib/Quranic Virtues/WILAYAH OF ALI]].

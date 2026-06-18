@@ -134,7 +134,7 @@ So those who even does a sin like concealing the guidance but if they still repe
 
 [Quran 39:54-55](https://quran.com/39/54)
 
-In the very next verses Allah is warning us to return to him and follow the best of what has been revealed i.e.: Aqa Muhammad ﷺ and his teachings as fast as we can before the time of punishment comes or before the time for repentance is over i.e.: death and there surely will be no helper for us except Allah.
+In the very next verses Allah is warning us to return to him and follow the best of what has been revealed i.e.: Muhammad ﷺ and his teachings as fast as we can before the time of punishment comes or before the time for repentance is over i.e.: death and there surely will be no helper for us except Allah.
 
 ![[image-75.png]]
 
