@@ -13,8 +13,3 @@ His importance is absolute for three key reasons:
     
 3. **The Beloved Prophet:** More than just a teacher, he is deeply loved and revered by Muslims as the [[Virtues and Merits/Aqa Muhammad PBUH/Seal of Prophets]] the one who delivered God's final message to humanity.
 
-
-
-
-##### **Backlinks:**
-[[Virtues and Merits/Merits|Merits]]
