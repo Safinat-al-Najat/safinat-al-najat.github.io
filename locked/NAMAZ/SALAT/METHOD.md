@@ -1,5 +1,6 @@
 ---
 weight: 3
+title: METHOD
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 weight: 4
+title: PROHIBITED AND ALLOWED AREAS FOR PRAYER
 ---
 
 

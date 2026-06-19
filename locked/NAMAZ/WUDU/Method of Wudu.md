@@ -1,5 +1,6 @@
 ---
 weight: 2
+title: METHOD OF WUDU
 ---
 
 # **METHOD:**
