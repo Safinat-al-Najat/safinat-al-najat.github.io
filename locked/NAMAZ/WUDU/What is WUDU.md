@@ -1,3 +1,6 @@
+---
+weight: 1
+---
 [![[PNGS/pngs/image-103.webp|371x533]]![[PNGS/pngs/image-102.png|373x535]]
 [Man La Yahduruh Al Faqih 67](https://thaqalayn.net/chapter/34/1/5)
 

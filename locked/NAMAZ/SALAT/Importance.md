@@ -1,3 +1,6 @@
+---
+weight: 5
+---
 
 
 > **Allah and his Messenger Muhammad ﷺ dislike those people who play around during the time of prayer.**
