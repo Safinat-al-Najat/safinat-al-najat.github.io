@@ -13,7 +13,12 @@ Stay in your houses and do not flaunt your finery like the former [days of pagan
 
 [Quran 33:33](https://thaqalayn.net/quran/33/33)
 
-To understand how it is connected with Ali, Fatima, Hassan and Hussain. You have to read [[Virtues and Merits/Ahlulbayt and Panjtan Pak/PANJTAN PAK (AYAT E TAT'HEER)]].
+To understand how it is connected with Ali, Fatima, Hassan and Hussain. You have to read:
+
+<style> .btn { display: inline-block; padding: 8px 15px !important; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
+
+<a href="https://safinat-al-najat.github.io/quartz/Virtues-and-Merits/Ahlulbayt-and-Panjtan-Pak/Hadith-E-Kisa" class="btn">Hadith E Kisa<br><small></small>Click to proceed</a>
+
 
 
 
