@@ -18,7 +18,7 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
 ---
 
-**And do not obey the order of the transgressors, who causes corruption in the land and do not amend. [26:151-152](https://thaqalayn.net/quran/26/151)
+**And do not obey the order of the transgressors, who causes corruption in the land and do not amend.**  [26:151-152](https://thaqalayn.net/quran/26/151)
 
 ---
 
@@ -26,7 +26,7 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
 ---
 
-**So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]. [76:24](https://thaqalayn.net/quran/76/24)
+**So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever].** [76:24](https://thaqalayn.net/quran/76/24)
 
 ---
 
@@ -35,7 +35,7 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
    ---
 
-**…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect. [18:28](https://thaqalayn.net/quran/18/28)
+**…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.** [18:28](https://thaqalayn.net/quran/18/28)
 
 ---
 
