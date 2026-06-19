@@ -12,26 +12,48 @@ Imam Hussain was a moral reformer, not a political rebel, who stood to protect t
 
 # Quranic Evidence
 
-####                                        وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ الَّذِينَ يفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ  
+---
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">وَلاَ تُطِيعُوا أَمْرَ المُسرِفِينَ الَّذِينَ يفْسِدُونَ فِي الأَرْضِ وَلاَ يُصْلِحُونَ</div>
+
+---
 
 **And do not obey the order of the transgressors, who causes corruption in the land and do not amend. [26:151-152](https://thaqalayn.net/quran/26/151)
 
-####                                                              فَاصْبِر لِحُكمِ رَبِّك وَلاَ تُطِعْ مِنْهُمْ آثمِاً أَوْ كفُوراً 
+---
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا</div>
+
+---
 
 **So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]. [76:24](https://thaqalayn.net/quran/76/24)
 
-####                                             وَلا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكرِنَا وَاتَّبَعَ هَوَاهُ وَكانَ أَمْرُهُ فُرُطاًَ   
+---
+
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا</div>
+
+   ---
 
 **…And do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect. [18:28](https://thaqalayn.net/quran/18/28)
 
-####                                                                                      وَلاَ تُطِعْ كلَّ حَلّاَّفٍ مَهِينٍ 
+---
+
+ <div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ</div>
+
+---
 
 **And do not obey every worthless habitual swearer. [68:10](https://thaqalayn.net/quran/68/10)**
 
-####                                                                                وَلاَ تُطِعِ الكافِرِينَ وَالمُنَافِقِينَ 
+---
+
+<div class="home-ayah" style="color: white; direction: rtl; text-align: center; font-family: sans-serif; line-height: 2; font-size: 18px;">وَلَا تُطِعِ الْكَافِرِينَ وَالْمُنَافِقِينَ</div>
+
+---
 
 **And do not obey the disbelievers and the hypocrites… [33:48](https://thaqalayn.net/quran/33/48)
 
+---
 
 So the Qur’an clearly highlights its objection to the Sunni creed, in which they demand obedience even to tyrannical leaders, while it calls for disobedience for sinners and evil rulers. On the contrary, the Qur’an describes some of the people of Hell-fire as those who claimed to obey their corrupt rulers: 
 
