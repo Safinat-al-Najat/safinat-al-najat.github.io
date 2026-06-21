@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IS FASTING ON 10TH MUHARRAM A SUNNAH❓"
             }
+          },
+          {
+            "id": "07bd018f92db7e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KARBALA/IS FASTING ON 10TH MUHARRAM A SUNNAH❓.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IS FASTING ON 10TH MUHARRAM A SUNNAH❓"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +211,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760e20f62699313d",
+  "active": "07bd018f92db7e40",
   "lastOpenFiles": [
-    "KARBALA/IMAM HUSSAIN BOUGHT KARBALA.md",
+    "locked/INTERCESSION/IS ASKING FOR HELP FROM OTHER THAN ALLAH SHIRK❓.md",
+    "PNGS/image-603.webp",
+    "PNGS/image-602.webp",
+    "PNGS/image-601.webp",
+    "PNGS/image-600.webp",
+    "PNGS/image-599.webp",
+    "PNGS/image-598.webp",
+    "KARBALA/IS NOHA OR MOURNING ALLOWED❓.md",
     "KARBALA/IS FASTING ON 10TH MUHARRAM A SUNNAH❓.md",
+    "KARBALA/IMAM HUSSAIN BOUGHT KARBALA.md",
     "Virtues and Merits/Ali Ibn Abi Talib/Quranic Virtues/AYAH E TAT'HEER.md",
     "KARBALA/IS 10TH OF MUHARRAM A DAY OF BLESSING❓.md",
     "PNGS/image-597.webp",
@@ -207,7 +230,6 @@
     "PNGS/image-595.webp",
     "PNGS/image-594.webp",
     "KARBALA/YAZEED WAS INVOLVED.md",
-    "KARBALA/IS NOHA OR MOURNING ALLOWED❓.md",
     "KARBALA/WHY DID HUSSAIN LEAVE MECCA❓.md",
     "KARBALA/ALLAH'S VENGEANCE FOR HUSSAIN.md",
     "KARBALA/HUSSAIN WAS NOT A REBEL.md",
@@ -218,12 +240,6 @@
     "index.md",
     "locked/INTERCESSION/ARE THE PEOPLE IN GRAVES DEAD OR ALIVE.md",
     "locked/INTERCESSION/INTERCESSION.md",
-    "PNGS/image-593.webp",
-    "PNGS/image-592.webp",
-    "PNGS/image-591.webp",
-    "PNGS/image-590.webp",
-    "PNGS/image-589.webp",
-    "PNGS/image-588.webp",
     "Virtues and Merits/Muhammad ﷺ/BEST CREATION.md",
     "locked/INTERCESSION",
     "Virtues and Merits/Salman Farsi/ALLAH COMMANDED MUHAMMAD ﷺ TO LOVE 4 PEOPLE.md",
@@ -233,7 +249,6 @@
     "locked/NAMAZ/WUDU/NULLIFICATION.md",
     "locked/NAMAZ/WUDU/WHAT IS WUDU.md",
     "locked/NAMAZ/SALAT/TIMINGS.md",
-    "locked/NAMAZ/SALAT/PROHIBITED AND ALLOWED AREAS FOR PRAYER.md",
     "locked/KARBALA/Untitled.base",
     "KARBALA",
     "KARBALA",
