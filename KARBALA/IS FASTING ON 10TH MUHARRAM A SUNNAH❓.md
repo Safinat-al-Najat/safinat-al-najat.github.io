@@ -28,3 +28,7 @@ Moreover, click the button below to know about the events that did not happen on
 <style> .btn { display: inline-block; padding: 8px 15px !important; margin: 8px 0; border: 2px solid #ccc; border-radius: 6px; text-decoration: none; color: inherit; } .btn:hover { border-color: #999; } </style>
 
 <a href="https://safinat-al-najat.github.io/quartz/KARBALA/IS-10TH-OF-MUHARRAM-A-DAY-OF-BLESSING" class="btn">IS 10TH MUHARRAM A DAY OF BLESSING?<br><small></small>Click to proceed</a>
+
+$$
+DATED: 21/06/26
+$$
