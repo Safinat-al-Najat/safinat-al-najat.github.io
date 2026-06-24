@@ -99,6 +99,8 @@
 
 ---
 
+# CONCLUSION
+
 So, as we can see from the hadith given above that **Prophet Moses** **(A.S)** was praying in his grave. We also see that when **Prophet Isa** **(A.S)** comes back, he will say **"Ya Muhammad"** at the grave of our beloved **Prophet Muhammad ﷺ**, and he **(ﷺ)** will answer him. According to Ibn Taymiyyah, people in the grave can listen and speak too. Therefore, it is not forbidden to say **"Ya Muhammad"**, **"Ya Ali",** **"Ya Hassan"**, **"Ya Hussain"**, or any other name.
 
 The provided theological arguments suggest that prophets and righteous souls exist in an active spiritual state within the _Barzakh_ (intermediate realm), with evidence supporting their ability to hear and interact. Therefore, a concluding statement should assert that engaging with them is not an act of _shirk_, but a permissible action rooted in Islamic tradition.
