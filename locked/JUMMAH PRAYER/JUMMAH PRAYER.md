@@ -200,6 +200,8 @@
 
 To make it simple: During Imam Ali's rule, terrorist-like groups used to launch surprise night attacks on cities, killing the governors and looting the towns to create chaos. Because of this danger, some governors would flee for their lives, leaving the citizens without a leader. When the people asked Imam Ali what to do about the Friday prayer if their appointed leader had run away, he answered that they must pray the standard four-rak'ah _Dhuhr_ (afternoon) prayer instead. This shows that for a Friday prayer to be valid and required, there must be a legitimate leader and a safe environment; without them, the Friday prayer cannot be held, and praying _Dhuhr_ becomes mandatory.
 
+---
+
 So, this proves the point that to lead Friday prayer **Imam** is needed or someone appointed by **Imams** is required or else it is **invalid.**
 
 If there is something mistaken or something that proves it is valid, I would really like suggestions and counter hadith of it.
